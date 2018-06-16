@@ -1,0 +1,50 @@
+<ion-content center text-center>
+  <ion-grid style="height: 100%;">
+    <ion-row padding justify-content-center align-items-center>
+      <img src="assets/imgs/TZlogo.svg">
+    </ion-row>
+    <ion-row padding justify-content-center align-items-center>
+      <ion-title>Choose your language / Odaberite svoj jezik</ion-title>
+    </ion-row>
+    <ion-row justify-content-center align-items-center style="height: 100%;">
+      <ion-list radio-group [(ngModel)]="lang" (ionChange)="switch_language()">
+        <ion-item>
+          <ion-label>English</ion-label>
+          <ion-radio value="en"></ion-radio>
+        </ion-item>
+        <ion-item>
+          <ion-label>Hrvatski (Croatian)</ion-label>
+          <ion-radio value="cro"></ion-radio>
+        </ion-item>
+      </ion-list>
+      <ion-item (click)="goToMenuPage()" >{{ 'NEXT' | translate }}</ion-item>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar color="primary" style="text-align: center;">
+    <ion-row>
+      <ion-col>
+        <a href="">
+          <img class="social-logo" src="assets/imgs/facebook.png">
+        </a>
+      </ion-col>
+      <ion-col>
+        <a href="">
+          <img class="social-logo" src="assets/imgs/linkedin.png">
+        </a>
+      </ion-col>
+      <ion-col>
+        <a href="">
+          <img class="social-logo" src="assets/imgs/twitter.png">
+        </a>
+      </ion-col>
+      <ion-col>
+        <a href="">
+          <img class="social-logo" src="assets/imgs/youtube.png">
+        </a>
+      </ion-col>
+    </ion-row>
+  </ion-toolbar>
+</ion-footer>

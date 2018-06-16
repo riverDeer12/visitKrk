@@ -1,0 +1,21 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ churchTitle|translate}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <img src="{{churchImg}}" alt="" width="100%">
+  <p style="padding: 0 15px 0 15px;">{{ churchText | translate}}</p>
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar >
+    <button ion-button color="primary" style="text-align: center; width: 100%;">
+      {{ 'TAKE_ME' | translate }}
+    </button>
+  </ion-toolbar>
+</ion-footer>

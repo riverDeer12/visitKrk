@@ -1,0 +1,24 @@
+<ion-menu [content]="content">
+    <ion-header style="background-image: url('../assets/imgs/header.jpg'); background-size: cover; height: 200px;">
+        <span style="font-weight: 600; color: #ffffff; position: absolute; left: 10px; bottom: 10px;">{{'MENU_HEADER_TITLE' | translate }}</span>
+    </ion-header>
+
+    <ion-content>
+        <ion-list style="display: initial;">
+            <a menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)">
+                <img class="menu-item-img" [attr.src]="p.imgSource">
+                <span class="menu-item-text">{{p.title|translate}}</span>
+            </a>
+        </ion-list>
+        <ion-toolbar>{{ 'COMMUNICATION' | translate }}</ion-toolbar>
+        <ion-list style="display: initial;">
+            <a menuClose ion-item *ngFor="let cp of contactPages" (click)="openPage(cp)">
+                <img class="menu-item-img" [attr.src]="cp.imgSource">
+                <span class="menu-item-text">{{cp.title|translate}}</span>
+            </a>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+
+
+<ion-nav [root]="rootPage" #content></ion-nav>
