@@ -17,6 +17,9 @@ export class ClosestLocationPage {
   public myLongitude;
   public closestLocation;
   public closestTour;
+  public locationType;
+  public locationImgSource;
+  public tourImgSource;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public geoLocation: Geolocation, public httpClient: HttpClient, private alertCtrl: AlertController) {
 
@@ -27,6 +30,9 @@ export class ClosestLocationPage {
       this.closest.subscribe(data => {
         this.closestLocation = data["Closest location"]["name"]["eng"];
         this.closestTour = data["Closest tour"]["name"]["eng"];
+        this.locationType = data["Closest location"]["type"];
+        this.locationImgSource = 'assets/imgs/'+data["Closest location"]["imgKey"]
+        this.tourImgSource = 'assets/imgs/'+data["Closest tour"]["imgKey"]
       })
     }).catch((error) => {
       console.log('Error getting location', error);
