@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-import {ArheoDetailPage} from "../arheo-detail/arheo-detail";
+import {DetailsPage} from "../details/details";
 
 @IonicPage()
 @Component({
@@ -12,8 +12,8 @@ export class ArheoPage {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
-  show_arheo(id){
-    this.navCtrl.push(ArheoDetailPage,{
+  show_details(id){
+    this.navCtrl.push(DetailsPage,{
       cardId: id
     })
   }

@@ -15,6 +15,9 @@ import { TourPage } from "../pages/tour/tour";
 import { SharePage } from "../pages/share/share";
 import { RatePage } from "../pages/rate/rate";
 import { EmailPage } from "../pages/email/email";
+import { AboutPage } from "../pages/about/about";
+import {ClosestLocationPage} from "../pages/closest-location/closest-location";
+import {AllLocationsPage} from "../pages/all-locations/all-locations";
 
 @Component({
   templateUrl: "app.html"
@@ -38,6 +41,11 @@ export class MyApp {
         title: 'HISTORY_TITLE',
         component: HistoryPage,
         imgSource: "assets/imgs/history.png"
+      },
+      {
+        title: 'CLOSEST_LOCATION_TITLE',
+        component: ClosestLocationPage,
+        imgSource: "assets/imgs/closest_point.png"
       },
       {
         title: 'ARHEO_TITLE',
@@ -65,6 +73,11 @@ export class MyApp {
         imgSource: "assets/imgs/castle.png"
       },
       {
+        title: 'ALL_LOCATIONS_TITLE',
+        component: AllLocationsPage,
+        imgSource: "assets/imgs/all_locations.png",
+      },
+      {
         title: 'TOUR_TITLE',
         component: TourPage,
         imgSource: "assets/imgs/destination.png"
@@ -72,6 +85,11 @@ export class MyApp {
     ];
 
     this.contactPages = [
+      {
+        title: 'ABOUT_TITLE',
+        component: AboutPage,
+        imgSource: "assets/imgs/about.png",
+      },
       {
         title: 'SHARE_TITLE',
         component: SharePage,

@@ -1,12 +1,73 @@
 {
-  "APPLE": "Apple",
-  "BALL": "Ball",
-  "CAT": "Cat",
   "WELCOME": "Welcome",
   "NEXT": "Next",
+  "REFRESH_TEXT": "Refresh your location!",
   "TAKE_ME": "Take me there!",
+  "WELCOME_TEXT": "Welcome to the officall app of Islands of Krk Natural Heritage, for Menu swipe from left to right. ",
   "COMMUNICATION": "Contact",
   "MENU_HEADER_TITLE": "Island of Krk Cultural Heritage",
+  "TZKRK": "The Island of Krk Tourist Board",
+  "KVARNERTZ": "The Kvarner County Tourism Office",
+  "HTZ": "Croatia Tourism",
+  "UNIRI": "University of Rijeka",
+  "CIB": "Center for Industrial Cultural Heritage",
+  "CLIENT": "Client",
+  "PROJECT_MANAGERS": "Project Managers",
+  "TEXTS": "Tekstovi",
+  "PROOFREADING_CORRECTION": "Proofreading and Correction",
+  "TRANSLATION": "Translation",
+  "PHOTOGRAPHY": "Photography",
+  "WEB_DESIGN": "Web Design",
+  "THE CHURCH OF ALL SAINTS IN SUŽAN": "The Church of All Saints in Sužan",
+  "THE CHURCH OF ST GEORGE ON THE HILL NEAR KRAS": "The Church of St.George on The Hill near Kras",
+  "OLD CHRISTIAN BASILICA IN MIRINE AND THE REMAINS OF THE THREE-APSE CHURCH IN THE COVE SEPEN": "Old Christian Basilica in Mirine and The Remains of The Three-Apse Church in The Cove Sepen",
+  "THE CHURCH OF ST PETER – SOLINE": "The Church of St.Peter - Soline",
+  "THE CHURCH OF ST MARY OF THE SPRING": "The Church of St.Mary of The Spring",
+  "MOSAIC WITH AN IMAGE OF TRITON": "Mosaic with an Image of Triton",
+  "THE ROMAN CITY FULFINUM": "The Roman City Fulfinum",
+  "ARCHAEOLOGICAL SITE CICKINI/LAPIDARIUM": "Archaeological Site Cickini/Lapidarium",
+  "LOCALITY MIRA NEAR JURANDVOR": "Locality Mira near Jurandvor",
+  "KORINTIJA": "Korintija",
+  "THE CHURCH OF ST MARCO": "The Church of St.Marco",
+  "THE CHURCH OF ST GEORGE": "The Church of St.George",
+  "THE CHURCH OF ST MAVRO": "The Church of St.Mavro",
+  "ARCHAEOLOGICAL LOCALITY OF ST PETER ON KANAJT": "Archaeological Locality of St.Peter on Kanajt",
+  "THE CHURCH OF ST GEORGE IN MALA KRAS": "The Church of St.George in Mala Kras",
+  "THE ISLE OF ST MARCO AND THE BYZANTINE FORTRESS": "The Isle of St.Marco and The Byzantine Fortress",
+  "FORTIČINA": "Fortičina",
+  "THE CASTLE, WALLS AND ARCHAEOLOGICAL REMAINS IN THE CAFÉ VOLSONIS": "The Castle, Walls and Archaeological Remains in The Cafe Volsonis",
+  "GRADEC AND THE FRANKOPANS": "Gradec and Frankopans",
+  "MONASTERIES ON THE SQUARE OF THE GLAGOLITIC MONKS": "Monasteries on The Square of The Glagolitic Monks",
+  "FRANCISCAN MONASTERY – GLAVOTOK": "Franciscan Monastery - Glavotok",
+  "FRANCISCAN MONASTERY – PORAT": "Franciscan Monastery - Porat",
+  "MONASTERY AND THE CHURCH OF ST LUCIA": "Monastery and The Church of St.Lucia",
+  "FRANCISCAN MONASTERY – KOŠLJUN": "Franciscan Monastery - Košljun",
+  "KRK": "Krk",
+  "OMIŠALJ": "Omišalj",
+  "MALINSKA-DUBAŠNICA": "Malinska-Dubašnica",
+  "BAŠKA": "Baška",
+  "THE PARISH CHURCH OF THE ASSUMPTION OF THE BLESSED VIRGIN MARY AND THE BELL TOWER": "The Parish Church of The Assumption of The Blessed Virgin Mary and The Bell Tower",
+  "THE CHURCH OF ST PHILIP AND JACOB": "The Church of St.Philip and Jacob",
+  "THE CHURCH OF ST VITUS": "The Church of St.Vitus",
+  "THE CATHEDRAL, ST QUIRIN AND THE BELL TOWER": "The Church of St.Quirin and The Bell Tower",
+  "THE CHURCH OF ST CLEMENT IN KLIMNO": "The Church of St.Clement in Klimno",
+  "THE CHURCH OF ST PETER IN GABONJIN": "The Church of St.Peter in Gabonjin",
+  "THE CHURCH OF ST MICHAEL (OUR LADY OF HEALTH)": "The Church of St.Michael(Our Lady of Health)",
+  "THE REMAINS OF THE CHURCH OF ST APOLLINAIRE AND THE NEW PARISH CHURCH OF ST APOLLINAIRE": "The Remains of The Church of St.Apollinare and The New Parish Church of St.Apollinare",
+  "ARCHAEOLOGICAL REMAINS UNDER THE CHAPEL OF ST MARCO": "Archaeological Remains under The Chapel of St.Marco",
+  "THE CHURCH OF ST CHRYSOGONUS IN MILOHNIĆI": "The Church of Chrysogonus in Milohnići",
+  "SANCTUARY OF THE MOTHER OF GOD OF GORICA": "Sanctuary of The Mother of God of Gorica",
+  "THE PARISH CHURCH OF ST STEPHEN AND THE BELL TOWER": "The Parish Church of St.Stephen and The Bell Tower",
+  "THE CHURCH OF ST JOHN THE BAPTIST AND KAPARI": "The Church of St.Philip and Baptist and Kapari",
+  "PARISH CHURCH OF THE ASSUMPTION OF THE VIRGIN MARY AND THE BELL TOWER": "Parish Church of The Assumption of The Virgin Mary and The Bell Tower",
+  "THE CHURCH OF ST JOHN": "The Church of St.John",
+  "THE CHURCH OF ST DONATUS": "The Church of St.Donatus",
+  "PARISH CHURCH OF THE HOLY TRINITY": "Parish Church of The Holy Trinity",
+  "DEFENSIVE WALLS OF THE ISLAND OF KRK": "Defensive Walls of The Island of Krk",
+  "A VISIT TO THE MONASTERIES OF THE ISLAND OF KRK": "A Visit to The Monasteries of The Island of Krk",
+  "THE PAST OF THE ISLAND PRESERVED IN A FEW STONE REMAINS": "The Past of The Island Preserved in a few Stone Remains",
+  "SMALL AND SECLUDED CHURCHES OF THE ISLAND OF KRK": "Small and Secluded Churches of The Island of Krk",
+  "THE ISLAND OF KRK IN THE FIRST CENTURIES OF THE NEW AGE": "The Island of Krk in The First Centuries of The New Age",
   "HISTORY_TITLE": "History of Island of Krk",
   "HISTORY_TEXT": [
     "The dynamic history of the island of Krk was determined by its favourable geographical position (the crossroads of merchant routes),",
@@ -37,6 +98,7 @@
     "island towns."
   ],
   "ARHEO_TITLE": "Arheological remains",
+  "CLOSEST_LOCATION_TITLE": "Closest Point of Interest",
   "PLACE_TITLE": "Places",
   "CHURCH_TITLE": "Churches",
   "MONASTERY_TITLE": "Monasteries",
@@ -45,8 +107,10 @@
   "SHARE_TITLE": "Share",
   "RATE_TITLE": "Rate",
   "EMAIL_TITLE": "Send Email",
-  "ARHEO1_TITLE": "The church of All Saints in Sužan",
-  "ARHEO1_TEXT": [
+  "ABOUT_TITLE": "About Us",
+  "ALL_LOCATIONS_TITLE": "All Locations",
+  "1_TITLE": "The church of All Saints in Sužan",
+  "1_TEXT": [
     "The church of All Saints in Sužan dates back to 1514 when it was built under the patronage of the brotherhood of All Saints from Sužan.",
     "Significant changes ensued in the second decade of the 19th century when such form of voluntary religious liturgy was abolished and the church was left",
     "to the care of the population. After 1927 masses ceased to be held in the church, as the function of the main village church in Sužan was taken over by the",
@@ -57,8 +121,8 @@
     "Although it is today abandoned and situated at the end of the village, this church speaks figuratively about its five hundred year old past and represents a",
     "true touristic gem."
   ],
-  "ARHEO2_TITLE": "The church of St George on the hill near Kras",
-  "ARHEO2_TEXT": [
+  "2_TITLE": "The church of St George on the hill near Kras",
+  "2_TEXT": [
     "The church of St George on the hill near Kras is only partially preserved, in the archaeological layer. The deed of gift written in the Glagolitic",
     "script in 1230 mentions that it was built by Juraj Pariježić, who left it to the parish after the death of his last heir. Until 1570 the brotherhood",
     "of St George operated in the church.",
@@ -66,8 +130,8 @@
     "regular layers. The remains of the church indicate the Romanesque style of construction, recognizable in a series of island churches. There are no visible",
     "traces of reconstruction so it is supposed to have remained in its original form all until it was abandoned in the 18th century."
   ],
-  "ARHEO3_TITLE": "The church of St Peter – Soline",
-  "ARHEO3_TEXT": [
+  "3_TITLE": "The church of St Peter – Soline",
+  "3_TEXT": [
     "The cove of St Peter is mentioned already in the old Glagolitic document, a sale contract from 1379, and afterwards in the Glagolitic document",
     "by the prince Ivan Frankopan from 1465, in which it was called “the land of St Peter”. It is located at the extremely important site of the Medieval",
     "salt works, and at the time, salt was a strategic provision, a symbol of power and a means of payment.",
@@ -77,8 +141,8 @@
     "The wider area around the cove of St Peter is an archaeological zone where items from prehistorical until early Medieval and Medieval times were",
     "found so multi-layered characteristic of the church is not surprising."
   ],
-  "ARHEO4_TITLE": "The church of St Mary of the Spring",
-  "ARHEO4_TEXT": [
+  "4_TITLE": "The church of St Mary of the Spring",
+  "4_TEXT": [
     "The remains of an interesting sacral edifice, the church of St Mary of the Spring is located in the camp Ježevac, on an elevated plateau",
     "surrounded by a forest. The church was first mentioned in 1486, but only the fact that it existed, not when it was built. The church is a simple,",
     "single-nave structure with semicircular apse protruding on the east side, the walls of which are made of dressed stones laid in regular layers.",
@@ -96,8 +160,8 @@
     "hermit who was taught about the rules of their order. The hermit accepted those rules and they became the basis of the establishment of the Franciscan",
     "order in the city of Krk."
   ],
-  "ARHEO5_TITLE": "Mosaic with an image of Triton",
-  "ARHEO5_TEXT": [
+  "5_TITLE": "Mosaic with an image of Triton",
+  "5_TEXT": [
     "In a small alley leading from the main city square, Vela Placa, towards the south, there is the café Mate where archaeological research found a",
     "mosaic floor with a rich figurative illustration. According to its stylistic characteristics it was dated into the 1st century and represents the work",
     "of several masters. The centre of the mosaic is dominated by the mythological being Triton, with a human body and a fish tail. Triton is the sea deity,",
@@ -112,8 +176,8 @@
     "the same distance from each other, we get the impression that the fourth figure is missing, the one that would complete the image of the entire sea feast.",
     "This mosaic was probably the floor of the thermae in a luxurious private building."
   ],
-  "ARHEO6_TITLE": "The Roman city Fulfinum",
-  "ARHEO6_TEXT": [
+  "6_TITLE": "The Roman city Fulfinum",
+  "6_TEXT": [
     "In the cove Sepen, just a few kilometres by air to the south of Omišalj, there is an inexhaustible site of archaeological heritage.",
     "The first traces of settling in the area date back into the 1st century when the Roman town Fulfinum emerged. Its emergence is related to the",
     "construction of the city for the retired Roman soldiers during the Flavian dynasty. A good geographical position caused the development of seafaring",
@@ -122,8 +186,8 @@
     "(tabernae) were found. In one moment during the 3rd century, the city simply died out, at least when it comes to its original monumental form. Still,",
     "life continued. Traces of more modest settlement of the area were found, probably connected with the port which is still in function."
   ],
-  "ARHEO7_TITLE": "Old Christian basilica in Mirine and the remains of the three-apse church in the cove Sepen",
-  "ARHEO7_TEXT": [
+  "7_TITLE": "Old Christian basilica in Mirine and the remains of the three-apse church in the cove Sepen",
+  "7_TEXT": [
     "The remains of the still magnificent old Christian basilica, called Mira, built in the 5th century, rise on a flat plateau of the cove Sepen.",
     "It stands there as a reminder of the first indications of Christianity on the island of Krk. The layout of the church has the shape of the Latin cross,",
     "the symbol of Christianity. The remains of the cross confession (a symbolic tomb where saint relics used to be kept) are located within an inscribed apse,",
@@ -136,8 +200,8 @@
     "The church with its dimensions is a modest edifice of a unique volume, with three apses enclosed within its flat back wall. On the southern side there is",
     "a memorial cella, with an apse also inscribed into the flat back wall. The remains of the monastery rooms were found to the west of the church."
   ],
-  "ARHEO8_TITLE": "Archaeological site Cickini/lapidarium",
-  "ARHEO8_TEXT": [
+  "8_TITLE": "Archaeological site Cickini/lapidarium",
+  "8_TEXT": [
     "On today’s road from Omišalj towards Krk, near Malinska, there is a narrow path through the thick forest leading to an important archaeological",
     "site on the island of Krk called Cickini. This is where the remains of a Roman village from the 1st and 2nd century and a church from the 6th century",
     "were found. The church has a single nave and the form of a Latin cross. A vestibule (narthex) and a baptistery with the baptismal font, emphasizing",
@@ -146,8 +210,8 @@
     "In the village of Sv Vid-Miholjice, near Malinska, there is a small museum display which encompasses all stone reliefs and other decorations found",
     "during the research at the site Cickini."
   ],
-  "ARHEO9_TITLE": "Locality Mira near Jurandvor",
-  "ARHEO9_TEXT": [
+  "9_TITLE": "Locality Mira near Jurandvor",
+  "9_TEXT": [
     "Along the road leading to Baška, near Jurandvor, there are the remains of an old Christian sacral structure from the 5th century, discovered recently,",
     "when a mosaic floor of an old church appeared under the plough field. The structure emerged as an adaptation of an earlier antique construction which",
     "was transformed into a church. This is a three-nave church with a flat back wall with an inscribed apse, architecturally rather characteristic for",
@@ -155,8 +219,8 @@
     "the mosaic church floor contains the names of other members of Baška church community who invested into its making. The church vestibule (narthex)",
     "contained tombs, among which there is also a sarcophagus."
   ],
-  "ARHEO10_TITLE": "Korintija",
-  "ARHEO10_TEXT": [
+  "10_TITLE": "Korintija",
+  "10_TEXT": [
     "To the east of the bay of Baška, there are two deeply indented coves, Vela Luka and Mala Luka. These inlets of sea into the land isolated the",
     "small peninsula Sokol on the northern and southern side.",
     "Topographically, the entire area is enclosed from the land side, west and south-west, with large rocky mountainous massifs from 250 to more than",
@@ -171,8 +235,8 @@
     "originates from the 6th century.",
     "Today it is not easy to reach this locality, but with considerable effort it can be reached by boat or mountain routes."
   ],
-  "ARHEO11_TITLE": "The church of St Marco",
-  "ARHEO11_TEXT": [
+  "11_TITLE": "The church of St Marco",
+  "11_TEXT": [
     "The remains of the modest, derelict church of St Marco are located on a protruding headland, near the village Risika. According to stylistic",
     "characteristics and the manner of construction, the church belongs to Romanesque sacral buildings and can be dated into the 12th – 13th century.",
     "Just like similar Romanesque buildings, it is characterized by a small monovolume body with an apse protruding to the east side. The walls constructed",
@@ -181,8 +245,8 @@
     "for the emergence of the farm building in the Roman times. Even today there are a few marble pieces recycled from a nearby luxurious building in the walls of",
     "the church"
   ],
-  "ARHEO12_TITLE": "The church of St George",
-  "ARHEO12_TEXT": [
+  "12_TITLE": "The church of St George",
+  "12_TEXT": [
     "The cove of St George, to the north of Vrbnik, contains the remains of a Medieval church of St George located on a protruding headland. It has",
     "modest dimensions, a single nave and an apse protruding on the east side. Although it was abandoned and desacralized, it still resists the time and",
     "the only thing missing is the roof. This is one of the more important remains of the Romanesque sacral architecture, this being further emphasized by",
@@ -192,8 +256,8 @@
     "of old Croatian sailing vessels. This was probably a votive painting of a Medieval nava, a large three-masted transport sailing vessel, made by the hand of",
     "a seafarer."
   ],
-  "ARHEO13_TITLE": "The church of St Mavro",
-  "ARHEO13_TEXT": [
+  "13_TITLE": "The church of St Mavro",
+  "13_TEXT": [
     "The remains of the old church of St Mavro lie on the top of the hill, to the south of Vrbnik, still covered in the landscape of",
     "low plants and dry walls. This locality is very important for understanding the emergence of Vrbnik as according to old local legends,",
     "this is the place of origin of the village as we know it today. The traces of the construction material of antique production, scattered",
@@ -207,8 +271,8 @@
     "The walls are made of regular dressed stones laid into regular layers. There is a difference in construction between the north and the south church wall,",
     "the latter being made of smaller dressed stones, indicating an adaptation of an older, perhaps even antique structure."
   ],
-  "ARHEO14_TITLE": "Archaeological locality of St Peter on Kanajt",
-  "ARHEO14_TEXT": [
+  "14_TITLE": "Archaeological locality of St Peter on Kanajt",
+  "14_TEXT": [
     "The remains of an interesting sacral structure, a kind of “church babushka”, were found in Puntarska cove in the area of Kanajt, above the marina.",
     "Archaeological research established the existence of an older late antique edifice which was partially reconstructed and turned into a church in the",
     "6th century. This is a single-nave church with an apse protruding on the east side. Within the dimensions of the church from the 6th century, a new,",
@@ -217,16 +281,16 @@
     "and the 13th century, within the dimensions of the early Medieval smaller church, another, even smaller single-nave church was built with an apse protruding",
     "to the east side. The church was gradually abandoned from the 15th until the 19th century, when it was completely demolished by cultivating arable land."
   ],
-  "ARHEO15_TITLE": "The church of St George in Mala Kras",
-  "ARHEO15_TEXT": [
+  "15_TITLE": "The church of St George in Mala Kras",
+  "15_TEXT": [
     "At the site of Mala Kras, just a few kilometres south of Punat, there are the remains of the Romanesque church of St George. The walls on the west side",
     "of the church are the remains of a late antique farm building which was, just like the one in Kanajt, partially transformed into a church in the 6th century.",
     "The original church was slightly larger than the existing one – its contours can be seen in the foundations of the apse of the Romanesque church. Graves were found",
     "around the church, which are related to the first stage of the sacral structure. In the pre-Romanesque age, the church was refurbished. Today we can see only",
     "the remains of the church from the 12th and 13th century, while only the foundations of the church from the 6th century were preserved."
   ],
-  "CHURCH1_TITLE": "The parish church of the Assumption of the Blessed Virgin Mary and the bell tower",
-  "CHURCH1_TEXT": [
+  "16_TITLE": "The parish church of the Assumption of the Blessed Virgin Mary and the bell tower",
+  "16_TEXT": [
     "Today’s parish church of the Assumption of the Blessed Virgin Mary, topographically situated at the highest part of the village, is a single-nave hall church",
     "laid in the direction north-south, with a large rectangular apse protruding on the northern side. On the east side of the apse there is the sacristy, and along",
     "the west wall of the apse there is the chapel of the Nativity of the Blessed Virgin Mary, built in 1505. The façade on the southern side is shaped in the Classicistic",
@@ -247,15 +311,15 @@
     "The bell tower, the indispensable motif of the Vrbnik landscape, is located to the west of the church. It was built in 1527, which is witnessed by the Glagolitic",
     "inscription at its entrance. It had four bells – three large ones and one smaller one."
   ],
-  "CHURCH2_TITLE": "The church of St Philip and Jacob",
-  "CHURCH2_TEXT": [
+  "17_TITLE": "The church of St Philip and Jacob",
+  "17_TEXT": [
     "The Medieval church of St Philip and Jacob is situated on a hidden little hill above Soline. It is mentioned in the documents already in the second half of",
     "the 14th century. During the French rule, it was desacralized, but in the 1820s the Austrian government gave it to the Soline population to take care of it.",
     "Then it was restored and returned to liturgy. It is a single-nave church with a protruding apse towards the south. It was built in the rural Romanesque style as",
     "we can find elsewhere on the island of Krk. The entry façade has a roof distaff with a bell summoning the believers to the mass."
   ],
-  "CHURCH3_TITLE": "The church of St Vitus",
-  "CHURCH3_TEXT": [
+  "18_TITLE": "The church of St Vitus",
+  "18_TEXT": [
     "The church of St Vitus is one of the oldest Dobrinj churches. It is assumed to have been built in 1100. The master Dragoslav is mentioned as its",
     "constructor. The brotherhood of St Vitus, later joined to the brotherhood of St Stephen and other brotherhoods, operated in it. According to the directive",
     "by the bishop Hijacint Pelegrin, the church ceased holding masses in 1790. Since then it was left to ruin, until 1940 when it was restored and returned to",
@@ -266,8 +330,8 @@
     "During the last conservation, the church was restored and it obtained a new roof so today it is a valuable monument of Romanesque",
     "architecture on the island."
   ],
-  "CHURCH4_TITLE": "The cathedral, St Quirin and the bell tower",
-  "CHURCH4_TEXT": [
+  "19_TITLE": "The cathedral, St Quirin and the bell tower",
+  "19_TEXT": [
     "The Krk cathedral carries the name of the Blessed Virgin Mary, which according to the discovered inscription about the construction,",
     "probably existed in the second half of the 5th and the beginning of the 6th century, so its name is connected with the Council of Ephesus (431)",
     "and the great celebration regarding the acknowledgement of Mary as the Mother of God. Until today the Romanesque edifice has remained preserved with",
@@ -292,8 +356,8 @@
     "In the 1760s, a thorough restoration was undertaken according to the sketches by the Venetian architect Pietro Checchi. A wooden angel coated in copper",
     "plates, made in Venice, was placed on the bell tower. Since 1973, there is a plastic angel at the top of the bell tower made according to the mould of the decrepit old angel."
   ],
-  "CHURCH5_TITLE": "The church of St Clement in Klimno",
-  "CHURCH5_TEXT": [
+  "20_TITLE": "The church of St Clement in Klimno",
+  "20_TEXT": [
     "The church of St Clement in Klimno is mentioned in various sources already in 1381 as the property of the family Malatestinić from",
     "Soline. In the 16th century the church was connected with the brotherhood of St Clement. The church shared the destiny of other sacral",
     "edifices on the island so during the French occupation it was desacralized and then in the 1820s the Monarchy gave it to the population",
@@ -303,8 +367,8 @@
     "The church contains a wooden Renaissance polyptych illustrating the Mother of God with the baby and the saints. The predella shows the scene",
     "of the Adoration of the Shepherds. This is a Renaissance work of excellent artistic value. The wooden altar polyptych is a protected cultural good of the Republic of Croatia."
   ],
-  "CHURCH6_TITLE": "The church of St Peter in Gabonjin",
-  "CHURCH6_TEXT": [
+  "21_TITLE": "The church of St Peter in Gabonjin",
+  "21_TEXT": [
     "The church of St Peter on the peak near Gabonjin was originally a Medieval church, dated into the 13th/14th century. Already in the",
     "15th century, the Venetian provveditore Antun Vinciguerra stated that the church was demolished and that he would give it to the Dobrinj",
     "parish to take care of it. At the end of the 19th century, the people of Gabonjin restored, expanded and blessed the church.",
@@ -314,8 +378,8 @@
     "the hill it is located at, certainly makes it monumental. Although there is a new church built in the village Gabonjin, the church of St Peter on the",
     "hill is still the most representative sacral edifice in the area."
   ],
-  "CHURCH7_TITLE": "The church of St Michael (Our Lady of Health)",
-  "CHURCH7_TEXT": [
+  "22_TITLE": "The church of St Michael (Our Lady of Health)",
+  "22_TEXT": [
     "The church of Our Lady of Health was dedicated to St Michael all until the middle of the 19th century, and it used to belong to",
     "the Benedictine monastery of the same name. The first document that mentions the monastery is the will by the widow Spreza de Dominiko",
     "from 1271, leaving some land to the monastery of St Michael in Krk. The emergence of the church is dated into the early Middle Ages.",
@@ -329,8 +393,8 @@
     "that the material was taken for the benefit of the Republic. Although only the church and the story about the Benedictine monastery complex",
     "have been preserved until today, the mentioned remains say a lot about the Krk monastery tradition."
   ],
-  "CHURCH8_TITLE": "The remains of the church of St Apollinaire and the new parish church of St Apollinaire",
-  "CHURCH8_TEXT": [
+  "23_TITLE": "The remains of the church of St Apollinaire and the new parish church of St Apollinaire",
+  "23_TEXT": [
     "The old parish church of St Apollinaire was situated near the village Bogovići where even today the old cemetery and the bell tower can be found.",
     "According to the data from the visitation documents, it was there in the 12th century, but it became the parish church after its restoration",
     "and expansion in the 15th century. It had a main altar and another six side altars as well as all liturgical equipment.",
@@ -339,8 +403,8 @@
     "the former parish church and the marble altar of Our Lady of Mount Carmel from the former chapel were transferred to the new church.",
     "The old Christian martyr St Apollinaire was proclaimed the heavenly patron of the District Malinska-Dubašnica"
   ],
-  "CHURCH9_TITLE": "Archaeological remains under the chapel of St Marco",
-  "CHURCH9_TEXT": [
+  "24_TITLE": "Archaeological remains under the chapel of St Marco",
+  "24_TEXT": [
     "Almost in the centre of Baška, there is a modest little church under which there are the remains of one of the most magnificent",
     "old Christian churches, not only on the island of Krk, but in the entire Croatia and the Adriatic. Some 1500 years ago this was",
     "the site of an impressive double old Christian basilica with the baptistery. The floor of the entire sacral complex was decorated",
@@ -350,8 +414,8 @@
     "the idea of the Christian faith – the cross – onto its layout. The cross was the main motif in the design of the baptistery and the baptismal",
     "font (piscina), thus representing a unique object in sacral architecture of the early Christian world."
   ],
-  "CHURCH10_TITLE": "The church of St Chrysogonus in Milohnići",
-  "CHURCH10_TEXT": [
+  "25_TITLE": "The church of St Chrysogonus in Milohnići",
+  "25_TEXT": [
     "Near the village Milohnići there is a real gem of sacral architecture on the island of Krk. A stone church is hidden in the",
     "thick forest, available only to the eyes of the visitors when they arrive to the gravel village road. It was built in the 12th",
     "century in the Romanesque style of a central edifice with three-apse ending. It is enclosed by thick walls almost like a fortification,",
@@ -359,16 +423,16 @@
     "sources mention that it stopped being used already in the second half of the 16th century. Archaeological research established that the church",
     "emerged within a late antique, probably farm building."
   ],
-  "CHURCH11_TITLE": "Sanctuary of the Mother of God of Gorica",
-  "CHURCH11_TEXT": [
+  "26_TITLE": "Sanctuary of the Mother of God of Gorica",
+  "26_TEXT": [
     "For a long time, even since the 16th century, the church has been the place of pilgrimage not only of the local population,",
     "but of the entire island. The church is related to a legend according to which the original church of St Mary from the 11th",
     "century was located at the site Goričica in the Baška valley, near the village Batomalj. Owing to pirate rampage, the angels took",
     "the statue of the Virgin Mary from the church to the top of the hill called Grad, where a new church of the Mother of God of Gorica was built",
     "in the 15th century. The church that we see today was restored in 1902, while a few decades before that, 237 votive stairs were built leading to the church."
   ],
-  "CHURCH12_TITLE": "Parish church of the Holy Trinity in Baška",
-  "CHURCH12_TEXT": [
+  "27_TITLE": "Parish church of the Holy Trinity in Baška",
+  "27_TEXT": [
     "As the people of Baška moved closer to the sea, the then parish church of St John was too far away for everyday liturgy, which is why",
     "the parish church of the Holy Trinity was built in Baška. The erection of the new church started in 1724, and the church was dedicated in 1740.",
     "This is a Baroque three-nave structure with a twenty-eight-meter high bell tower, built in 1766. It underwent considerable construction",
@@ -377,8 +441,8 @@
     "coronation of the Virgin Mary. The works of this artist can be seen on the island Košljun. One of the works is The Last Supper which was for a",
     "long time attributed to the Venetian master Palma Junior. Still it would be safer to say that the painting is a late Renaissance work by a master from Palma’s circle."
   ],
-  "CHURCH13_TITLE": "Monastery and the church of St Lucia",
-  "CHURCH13_TEXT": [
+  "28_TITLE": "Monastery and the church of St Lucia",
+  "28_TEXT": [
     "The church of St Lucia is located in Jurandvor, a small village to the north of Baška. The church emerged in the High Middle Ages,",
     "during the Romanesque period, as a single-nave structure with a prominent semicircular apse and a bell tower on the façade. The walls",
     "around the church are the remains of a Benedictine monastery which contained this sacral structure. Archaeological research established",
@@ -391,8 +455,8 @@
     "in the hall of the Croatian Academy of Sciences and Arts. Today the Glagolitic script has become a trademark of Baška, which is witnessed by large",
     "sculptures shaped like Glagolitic letters placed along the road leading to Baška."
   ],
-  "CHURCH14_TITLE": "The parish church of St Stephen and the bell tower",
-  "CHURCH14_TEXT": [
+  "29_TITLE": "The parish church of St Stephen and the bell tower",
+  "29_TEXT": [
     "The parish church of St Stephen is one of the oldest parish churches, which is witnessed by the Glagolitic charter from 1100,",
     "mentioning this church. The church was dedicated by the Krk bishop Dunat a Turre in 1512. It has been preserved until today with",
     "a significantly altered appearance; it was expanded in the 16th century, and at the beginning of the 17th century, the old sanctuary",
@@ -410,8 +474,8 @@
     "was destroyed to the level of the first floor. The construction of the new tower with the same stylistic characteristics followed soon after that at",
     "the site of the old demolished tower."
   ],
-  "CHURCH15_TITLE": "The church of St John the Baptist and Kapari",
-  "CHURCH15_TEXT": [
+  "30_TITLE": "The church of St John the Baptist and Kapari",
+  "30_TEXT": [
     "On the path leading towards the Vrbnik port (Namori) there is the church of St John the Baptist, the patron saint of Vrbnik. The church",
     "was built by the pope Damian, in the 14th century, probably in 1323. Today it does not have its original appearance. According to the",
     "Glagolitic script walled into the eastern wall, the church was extended towards the east with the construction of the new apse in 1611.",
@@ -428,8 +492,8 @@
     "Today the Kapari mostly handle prayers and funeral parties. On this occasion, the Kapari, who have about thirty members, sing the old",
     "Croatian church chants Pojubicu, Pojubicu and Božji plač. They also sing in the Good Friday procession."
   ],
-  "CHURCH16_TITLE": "Parish church of the Assumption of the Virgin Mary and the bell tower",
-  "CHURCH16_TEXT": [
+  "31_TITLE": "Parish church of the Assumption of the Virgin Mary and the bell tower",
+  "31_TEXT": [
     "The church of the Assumption of the Virgin Mary was built during Romanesque time, in the 12th and 13th century. Originally,",
     "the church had three naves, with three prominent apses on the east. Still, the parts of pre-Romanesque church furniture, dating",
     "between the 8th and 9th centuries, walled into the façade and in the church, witness its earlier emergence. There is a particularly",
@@ -442,8 +506,8 @@
     "there is a prominent wooden triptych on the side altar showing St John the Evangelist from the 15th century by the Venetian master",
     "Jacobello del Fiore. Around the central figure of St John the Evangelist, there are six smaller paintings with details from the life of the saint."
   ],
-  "CHURCH17_TITLE": "The church of St John",
-  "CHURCH17_TEXT": [
+  "32_TITLE": "The church of St John",
+  "32_TEXT": [
     "On the hill to the north-east of today’s Baška, there is the church of St John the Baptist. It is a Romanesque, monovolume structure",
     "with an apse protruding on the east side. The church bell tower, built on the façade, has a bell from 1431 called Starac (The Old Man).",
     "This was the first parish church at the time of the Medieval castle Baška, before the settlement moved to the coast. A part off the",
@@ -452,15 +516,15 @@
     "It was abandoned in the 19th century because the population moved from the old village. Still in 1855, after the outbreak of cholera,",
     "the church was restored. The city cemetery is located along the church."
   ],
-  "CHURCH18_TITLE": "The church of St Donatus",
-  "CHURCH18_TEXT": [
+  "33_TITLE": "The church of St Donatus",
+  "33_TEXT": [
     "The church of St Donatus stands on the sea coast in the Puntarska cove, at the crossroads of paths leading towards Punat, Vrbnik and",
     "Kornić. The church emerged in the 12th century in the Romanesque age, as the central building shaped like a trefoil with a dome. It got its",
     "name according to the Zadar bishop and saint Donatus, which shows a strong influence of Zadar on the island in the 12th century. Today, only",
     "the reconstructed remains of the church are preserved as it was destroyed in the explosion of the ammunition warehouse, located nearby, in 1945."
   ],
-  "CHURCH19_TITLE": "Parish church of the Holy Trinit",
-  "CHURCH19_TEXT": [
+  "34_TITLE": "Parish church of the Holy Trinit",
+  "34_TEXT": [
     "After receiving the Duke’s approval in 1766, the people of Punat decided to build a parish church. The church was built quickly",
     "with joint efforts by the citizens and the financial support by the local brotherhoods. By following the erection of the church,",
     "we can follow the demographic growth in Punat and its surroundings. Already in 1840, the church underwent its first adaptation and was",
@@ -471,82 +535,8 @@
     "transferred to Punat. The main altar contains another artwork which requires attention. This is the altarpiece showing the sermon of St John. This is",
     "the work of the famous Venetian Baroque artist Domenico Fedeli, called Il Maggiotto."
   ],
-  "MONASTERY1_TITLE": "Monasteries on the Square of the Glagolitic Monks",
-  "MONASTERY1_TEXT": [
-    "Ever since the 13th century, various documents, wills and statutes mention the monastery and the church of St Francis in Krk.",
-    "The monastery says a lot about the tradition of the Franciscan order in Krk. According to a legend written in 1500, St Francis came",
-    "to Krk because of a storm. There he met a hermit who accepted his teaching, after which the Franciscan order was founded on Krk.",
-    "The church of St Francis is a single-nave structure with Gothic vaulted semicircular apse. It is traditionally oriented west-east.",
-    "Considering that the sacristy contains frescos from an earlier period, it is assumed that this was the site of an older church and",
-    "that the today’s church of St Francis was made by its reconstruction. There is a relief of the Venetian lion with the closed book on",
-    "the church wall dating from the 13th century. Closed book shows that Venice was at war at the time. The church bell tower was completed",
-    "in 1743. The monastery was erected to the north of today’s church. There is not much data about its construction, but it is known that in",
-    "1500 the Dalmatian provveditore Sebastian Justiniani allowed the making of window openings on the part near the city walls. In 1625 a cistern",
-    "with a cloister was built, which was supplied by rain water.",
-    "Opposite to the Franciscan church, also along the brim of the today’s Square of the Glagolitic Monks, there used to be the Poor Clares convent.",
-    "The documents mention that the Poor Clares, owing to their strict enclosure, complained during the construction of the Franciscan bell tower because it had a view over their garden.",
-    "On the northern part of the city, along the Square of the Glagolitic Monks, there is the Benedictine convent. The sources indicate that the",
-    "convent existed already in the 13th century. Since 1506 its history can be traced more directly, including its architectural expansion during",
-    "the 16th, 17th and 18th century. Along the convent, there is the church dedicated to St Mary of the Angels and the bell tower. At the time, only",
-    "Krk women, exclusively noble women, could have entered the convent. Thus the number of nuns decreased significantly so the law was soon adapted,",
-    "but despite of that, at the beginning of the 17th century, the convent remained without the nuns, so the bishop called two nuns from Cres to restore it.",
-    "The Benedictine convent cherished the tradition of education for years. Stimulated by the bishop Šintić, in 1806 they opened the female elementary",
-    "school in Italian language. From 1921 until 1935 the Benedictines managed a boarding school in their convent for girls attending the comprehensive school."
-  ],
-  "MONASTERY2_TITLE": "Franciscan monastery – Glavotok",
-  "MONASTERY2_TEXT": [
-    "The monastery of Third Order Franciscans, the so called Glagolitic priests, was located in the village Glavotok, isolated",
-    "by the sea. In the 15th century, the Krk princes had their estate there, along with a small chapel that was located at the site of today’s",
-    "sacristy in the church. After a series of intrigues and turmoil between the Krk princes and the Venetian administration, the area was finally",
-    "handed over to the Franciscans in the final decades of the 15th century. That is when the monastery was founded, and the construction of a",
-    "beautiful church started at the beginning of the 16th century. This is a single-nave church of Renaissance and late Baroque stylistic features.",
-    "The main altar allegedly originates from the Benedictine abbey of St Nicholas in Omišalj. It is assumed that the author of the three paintings from",
-    "the altar was Girolamo da Santacroce. The Virgin Mary with the child is shown centrally, while the two side paintings show St Francis and St Bonaventura.",
-    "Even today the Franciscan order preserves its tradition with care and operates in the monastery on Glavotok."
-  ],
-  "MONASTERY3_TITLE": "Franciscan monastery – Porat",
-  "MONASTERY3_TEXT": [
-    "The Franciscan monastery in Porat is dedicated to St Mary Magdalene. In the beginning, this was the site of a small chapel",
-    "with a few monks arriving from Glavotok. However, with the arrival of the Venetians after 1480, a real Franciscan monastery was founded.",
-    "The church and the monastery have late Gothic and Renaissance stylistic features, with their construction beginning already in the first",
-    "decades of the 15th century. The ribbed vault of the church sanctuary represents the earliest stage of the construction. The altarpiece",
-    "from the main altar represents a significant work of art by Girolamo da Santacroce, showing the monastery patron St Mary Magdalene,",
-    "as well as St John the Baptist, St Gregory the Pope, St Francis of Assisi, St Quirin and the Virgin Mary. In 1557, the church and the",
-    "altar were dedicated, so it is assumed that the church was completed.",
-    "This Third Order monastery, just like the one on Glavotok, is largely responsible for the preservation of the Glagolitic tradition on the",
-    "island. Old Slavic language and the Glagolitic script were used in the monasteries, both in liturgy and other ceremonial and internal prayers.",
-    "This is why they were called Glagolitic monks, fraters Illirici. Today in the monastery atrium there is a lapidarium which represents the rich",
-    "Glagolitic legacy of the island of Krk."
-  ],
-  "MONASTERY4_TITLE": "Monastery and the church of St Lucia",
-  "MONASTERY4_TEXT": [
-    "The church of St Lucia is located in Jurandvor, a small village to the north of Baška. The church emerged in the High Middle Ages,",
-    "during the Romanesque period, as a single-nave structure with a prominent semicircular apse and a bell tower on the façade.",
-    "The walls around the church are the remains of a Benedictine monastery which contained this sacral structure. Archaeological research",
-    "established that the monastery and the church emerged on an earlier antique farm building. The finding which made the church of",
-    "St Lucia widely famous is located within the building.",
-    "On the tablet of the altar wall there is the inscription known as the Baška tablet. This stone tablet is one of the oldest monuments of",
-    "Croatian history. It contains thirteen lines in old Croatian language, mentioning the word “Croatian” and the name of the king Zvonimir.",
-    "It dates back to 1100. The script, with which it was written, called the Glagolitic script, is completely different from the Latin script.",
-    "Besides the Latin script, the Glagolitic script was used until the 19th century. The original tablet was moved to Zagreb in 1934 and is",
-    "located in the hall of the Croatian Academy of Sciences and Arts. Today the Glagolitic script has become a trademark of Baška, which is",
-    "witnessed by large sculptures shaped like Glagolitic letters placed along the road leading to Baška."
-  ],
-  "MONASTERY5_TITLE": "Franciscan monastery – Košljun",
-  "MONASTERY5_TEXT": [
-    "The island of Košljun is a real gem situated in the bay in front of Punat. It was picturesquely described by the friar",
-    "Mavro Velnić: “Being on Krk without seeing Košljun is like being in Rome without seeing the Pope.”",
-    "In the central part of the island, with a circumference of merely 1075 meters, elevated only six meters above the sea,",
-    "there is the Franciscan monastery with a representative Renaissance church and a cloister. The church of the Annunciation of the",
-    "Blessed Virgin Mary was completed in 1523 at the site of an older Romanesque church. It is richly adorned with two artistic breath-taking",
-    "works of art. The triumphal arch of the church is decorated by 9.7-meter artistic composition by the Venetian master Francesco",
-    "Ughetto showing the Last Judgement (Heaven, Purgatory and Hell) with a total of 123 figures. The other work that should be mentioned is the altar",
-    "polyptych from 1535 by Girolamo da Santacroce, a Venetian master who left a large part of his artistic opus on the eastern Adriatic coast.",
-    "Within the complex there is the museum display, a rich ethnographic, archaeological and sacral collection, as well as a library. The museum contains",
-    "the famous geographical map by Claudius Ptolemy, a Greek astronomer and geographer from the 2nd century, printed in Venice in 1511."
-  ],
-  "PLACE1_TITLE": "Krk",
-  "PLACE1_TEXT": [
+  "35_TITLE": "Krk",
+  "35_TEXT": [
     "The oldest traces of the city of Krk and its surroundings date far back into prehistory. It was tailored by the exchange of",
     "the indigenous population and strangers starting with the Liburni, then the Romans, the Slavs, the Venetians… The city is set",
     "on antique foundations. This is witnessed by the preserved remains of the Roman thermae, the mosaic in the tavern Mate, the temple",
@@ -564,8 +554,8 @@
     "Today we know Krk as a touristic place of extraordinary cultural-artistic heritage, and this ancient Splendidisima Civitas Curitarum (the magnificent city of Krk)",
     "lives in a beautiful synergy with the rush of the modern age."
   ],
-  "PLACE2_TITLE": "Omišalj",
-  "PLACE2_TEXT": [
+  "36_TITLE": "Omišalj",
+  "36_TEXT": [
     "The small village of Omišalj is located in the northern part of the island, on a high hill above the sea. Its beginnings date back",
     "into pre-Roman times, but it developed significantly in the Middle Ages. Omišalj was first mentioned in the 12th century, and later in 1213",
     "under the name Castri Musculis in the dispute between the Krk bishop and the Omišalj clergy. The Krk princes Frankopans, who owned land there,",
@@ -575,8 +565,8 @@
     "and war ships were anchored in the port. The population of Omišalj dealt with fishing, cattle breeding and agriculture, which disappeared with",
     "the industrialization of the area. Today these economic branches have been replaced by tourism."
   ],
-  "PLACE3_TITLE": "Malinska-Dubašnica",
-  "PLACE3_TEXT": [
+  "37_TITLE": "Malinska-Dubašnica",
+  "37_TEXT": [
     "The small littoral place Malinska, which used to be an important port and a market, is today an attractive island tourist destination.",
     "Mass settlement of the area occurred in the middle of the 15th century according to the order by the Krk princes, more specifically",
     "Ivan Frankopan. Even the Venetians knew how to take advantage of the area, so the port served for the transport of wood, wool and",
@@ -587,8 +577,8 @@
     "In particular the ethno-zones of Dubašnica, Miholjice-Semenje and Sršići-Sv Vid are particularly prominent and preserve the values of",
     "traditional building of the 19th and the early 20th century on the island of Krk."
   ],
-  "PLACE4_TITLE": "Baška",
-  "PLACE4_TEXT": [
+  "38_TITLE": "Baška",
+  "38_TEXT": [
     "The life in the Baška area was conditioned by the rich valley open towards the sea. The settlement in the area was not always connected to",
     "one place alone, as is the case with Krk, Omišalj or Dobrinj. From the prehistory until the Middle Ages, the centre of life moved from one",
     "area to another, depending on historical changes. In the prehistory, ever since the Neolithic, the first “settlers” lived in caves situated",
@@ -612,8 +602,8 @@
     "Today we see Baška as a typical littoral place with narrow meandering streets, located along the sea coast.",
     "A major step in the development of Baška was conditioned by the growth of tourism as a logical answer to the large sandy beach stretching along the entire bay."
   ],
-  "PLACE5_TITLE": "Punat",
-  "PLACE5_TEXT": [
+  "39_TITLE": "Punat",
+  "39_TEXT": [
     "Punat is a tourist place situated in the picturesque bay in the south-western part of the island. The visitor of Punat is treated",
     "to a beautiful view already at the entrance to Punat, which can hardly be expected in the road traffic. The road along the sea passes",
     "by many tourist attractions – from the small Romanesque church of St Donatus, olive oil cold press machine to the large marina for",
@@ -624,8 +614,8 @@
     "crowned with a harmony of immaculate natural and cultural heritage. Above the cove Zala, south-east of Stara Baška, there are still",
     "visible remains of the Romanesque church of St Hieronymus emerged on the remains of a large antique villa."
   ],
-  "PLACE6_TITLE": "Dobrinj",
-  "PLACE6_TEXT": [
+  "40_TITLE": "Dobrinj",
+  "40_TEXT": [
     "The Dobrinj area has always been densely populated since the prehistory. The earliest dated findings originate from the early",
     "iron age, but the area is assumed to have been inhabited even before, during the Neolithic, and according to some indications even",
     "during the Mesolithic.",
@@ -644,8 +634,8 @@
     "Today the area of Dobrinj is an important tourist place with a rich cultural-artistic heritage. One definitely needs to visit the cave Biserujka",
     "as an extraordinary example of natural heritage on the island, and the cove Soline, the only place with medicinal herbs on the island."
   ],
-  "PLACE7_TITLE": "Vrbnik",
-  "PLACE7_TEXT": [
+  "41_TITLE": "Vrbnik",
+  "41_TEXT": [
     "Vrbnik is situated on the top of a steep hill, as much as fifty meters above the sea. Archaeological research found the beginnings",
     "of settling in the wider Vrbnik area dating from the prehistoric times. The first written mention of Vrbnik dates back to the far 1100.",
     "Vrbnik was the nursery of the Glagolitic script with an important Glagolitic school. Even today we can see carved traces of the Glagolitic",
@@ -655,8 +645,8 @@
     "breeding owing to an abundance of fertile land and natural source of underground water enabling the irrigation of farm land, as well as the",
     "rocky landscape around the village as an extremely favourable area for cattle breeding."
   ],
-  "FORT1_TITLE": "The castle, walls and archaeological remains in the café Volsonis",
-  "FORT1_TEXT": [
+  "42_TITLE": "The castle, walls and archaeological remains in the café Volsonis",
+  "42_TEXT": [
     "The walls of the city of Krk have been preserved almost entirely, while their oldest part dates back into the prehistorical time.",
     "The prehistorical city Curicta (Krk) is known to have been fortified with walls. This is witnessed by an inscription from the 1st",
     "century b. C. mentioning the restoration of city walls, which indicates that the walls had already existed. Archaeological research of",
@@ -682,15 +672,15 @@
     "Castle is the only preserved profane Medieval monument in the city of Krk. The Castle was partially reconstructed; there is a promenade on a part",
     "of the walls and a small display of archaeological monuments."
   ],
-  "FORT2_TITLE": "Fortičina",
-  "FORT2_TEXT": [
+  "43_TITLE": "Fortičina",
+  "43_TEXT": [
     "On the high grounds above the Omišalj bay, there are traces of the fortress Fortičina. This is where the traces of an older",
     "fortification were found, a watchtower dated back into the late Antiquity. The remains of a larger late antique cistern indicate that",
     "this was the place from which the city Fulfinum was supplied by water. Of course, the important strategic position, from which the harbour and",
     "the village Omišalj could have been controlled, influenced the construction of the Medieval fortress during the Frankopans, which existed until the 14th century."
   ],
-  "FORT3_TITLE": "The isle of St Marco and the Byzantine fortress",
-  "FORT3_TEXT": [
+  "44_TITLE": "The isle of St Marco and the Byzantine fortress",
+  "44_TEXT": [
     "The Byzantine castrum is situated under the ridge of the isle of St Marco, on the citadel itself and it dates back to the",
     "6th century. A part of the castrum served as a Venetian watchtower until the 16th century. Sources mention two sacral edifices in the",
     "castrum (the churches of St John Chrysostomos and St Martin) whose remains, although hardly recognizable in the stone boulders,",
@@ -698,8 +688,8 @@
     "It represented the so called portal of the island of Krk, a surveillance and tactical point of defence from attacks from the mainland. In old sources,",
     "the island appears under the name Almis, meaning fertile, which is completely opposite to its today’s condition with the prevailing naked stone"
   ],
-  "FORT4_TITLE": "Gradec and the Frankopans",
-  "FORT4_TEXT": [
+  "45_TITLE": "Gradec and the Frankopans",
+  "45_TEXT": [
     "The famous locality Gradec is situated near Risika, almost hidden in the thick forest. The remains of the large Castle – the fortress by",
     "the princes Frankopans, have been preserved. Ever since 1118 the family Frankopan was the first local family and the only family whose members",
     "ruled over the island Krk as successors. Gradec is considered as the place of their origin. High thick walls that remained today give only an",
@@ -707,5 +697,138 @@
     "indicate that the area was inhabited in the Roman times. The church of the Holy Spirit, whose foundations were preserved, was located near the Castle.",
     "This locality, fitting perfectly into its natural surroundings and available only to the eye of the curious strollers, is an important monument witnessing",
     "about the most famous aristocratic family on the island, the Frankopans."
+  ],
+  "46_TITLE": "Monasteries on the Square of the Glagolitic Monks",
+  "46_TEXT": [
+    "Ever since the 13th century, various documents, wills and statutes mention the monastery and the church of St Francis in Krk.",
+    "The monastery says a lot about the tradition of the Franciscan order in Krk. According to a legend written in 1500, St Francis came",
+    "to Krk because of a storm. There he met a hermit who accepted his teaching, after which the Franciscan order was founded on Krk.",
+    "The church of St Francis is a single-nave structure with Gothic vaulted semicircular apse. It is traditionally oriented west-east.",
+    "Considering that the sacristy contains frescos from an earlier period, it is assumed that this was the site of an older church and",
+    "that the today’s church of St Francis was made by its reconstruction. There is a relief of the Venetian lion with the closed book on",
+    "the church wall dating from the 13th century. Closed book shows that Venice was at war at the time. The church bell tower was completed",
+    "in 1743. The monastery was erected to the north of today’s church. There is not much data about its construction, but it is known that in",
+    "1500 the Dalmatian provveditore Sebastian Justiniani allowed the making of window openings on the part near the city walls. In 1625 a cistern",
+    "with a cloister was built, which was supplied by rain water.",
+    "Opposite to the Franciscan church, also along the brim of the today’s Square of the Glagolitic Monks, there used to be the Poor Clares convent.",
+    "The documents mention that the Poor Clares, owing to their strict enclosure, complained during the construction of the Franciscan bell tower because it had a view over their garden.",
+    "On the northern part of the city, along the Square of the Glagolitic Monks, there is the Benedictine convent. The sources indicate that the",
+    "convent existed already in the 13th century. Since 1506 its history can be traced more directly, including its architectural expansion during",
+    "the 16th, 17th and 18th century. Along the convent, there is the church dedicated to St Mary of the Angels and the bell tower. At the time, only",
+    "Krk women, exclusively noble women, could have entered the convent. Thus the number of nuns decreased significantly so the law was soon adapted,",
+    "but despite of that, at the beginning of the 17th century, the convent remained without the nuns, so the bishop called two nuns from Cres to restore it.",
+    "The Benedictine convent cherished the tradition of education for years. Stimulated by the bishop Šintić, in 1806 they opened the female elementary",
+    "school in Italian language. From 1921 until 1935 the Benedictines managed a boarding school in their convent for girls attending the comprehensive school."
+  ],
+  "47_TITLE": "Franciscan monastery – Glavotok",
+  "47_TEXT": [
+    "The monastery of Third Order Franciscans, the so called Glagolitic priests, was located in the village Glavotok, isolated",
+    "by the sea. In the 15th century, the Krk princes had their estate there, along with a small chapel that was located at the site of today’s",
+    "sacristy in the church. After a series of intrigues and turmoil between the Krk princes and the Venetian administration, the area was finally",
+    "handed over to the Franciscans in the final decades of the 15th century. That is when the monastery was founded, and the construction of a",
+    "beautiful church started at the beginning of the 16th century. This is a single-nave church of Renaissance and late Baroque stylistic features.",
+    "The main altar allegedly originates from the Benedictine abbey of St Nicholas in Omišalj. It is assumed that the author of the three paintings from",
+    "the altar was Girolamo da Santacroce. The Virgin Mary with the child is shown centrally, while the two side paintings show St Francis and St Bonaventura.",
+    "Even today the Franciscan order preserves its tradition with care and operates in the monastery on Glavotok."
+  ],
+  "48_TITLE": "Franciscan monastery – Porat",
+  "48_TEXT": [
+    "The Franciscan monastery in Porat is dedicated to St Mary Magdalene. In the beginning, this was the site of a small chapel",
+    "with a few monks arriving from Glavotok. However, with the arrival of the Venetians after 1480, a real Franciscan monastery was founded.",
+    "The church and the monastery have late Gothic and Renaissance stylistic features, with their construction beginning already in the first",
+    "decades of the 15th century. The ribbed vault of the church sanctuary represents the earliest stage of the construction. The altarpiece",
+    "from the main altar represents a significant work of art by Girolamo da Santacroce, showing the monastery patron St Mary Magdalene,",
+    "as well as St John the Baptist, St Gregory the Pope, St Francis of Assisi, St Quirin and the Virgin Mary. In 1557, the church and the",
+    "altar were dedicated, so it is assumed that the church was completed.",
+    "This Third Order monastery, just like the one on Glavotok, is largely responsible for the preservation of the Glagolitic tradition on the",
+    "island. Old Slavic language and the Glagolitic script were used in the monasteries, both in liturgy and other ceremonial and internal prayers.",
+    "This is why they were called Glagolitic monks, fraters Illirici. Today in the monastery atrium there is a lapidarium which represents the rich",
+    "Glagolitic legacy of the island of Krk."
+  ],
+  "49_TITLE": "Monastery and the church of St Lucia",
+  "49_TEXT": [
+    "The church of St Lucia is located in Jurandvor, a small village to the north of Baška. The church emerged in the High Middle Ages,",
+    "during the Romanesque period, as a single-nave structure with a prominent semicircular apse and a bell tower on the façade.",
+    "The walls around the church are the remains of a Benedictine monastery which contained this sacral structure. Archaeological research",
+    "established that the monastery and the church emerged on an earlier antique farm building. The finding which made the church of",
+    "St Lucia widely famous is located within the building.",
+    "On the tablet of the altar wall there is the inscription known as the Baška tablet. This stone tablet is one of the oldest monuments of",
+    "Croatian history. It contains thirteen lines in old Croatian language, mentioning the word “Croatian” and the name of the king Zvonimir.",
+    "It dates back to 1100. The script, with which it was written, called the Glagolitic script, is completely different from the Latin script.",
+    "Besides the Latin script, the Glagolitic script was used until the 19th century. The original tablet was moved to Zagreb in 1934 and is",
+    "located in the hall of the Croatian Academy of Sciences and Arts. Today the Glagolitic script has become a trademark of Baška, which is",
+    "witnessed by large sculptures shaped like Glagolitic letters placed along the road leading to Baška."
+  ],
+  "50_TITLE": "Franciscan monastery – Košljun",
+  "50_TEXT": [
+    "The island of Košljun is a real gem situated in the bay in front of Punat. It was picturesquely described by the friar",
+    "Mavro Velnić: “Being on Krk without seeing Košljun is like being in Rome without seeing the Pope.”",
+    "In the central part of the island, with a circumference of merely 1075 meters, elevated only six meters above the sea,",
+    "there is the Franciscan monastery with a representative Renaissance church and a cloister. The church of the Annunciation of the",
+    "Blessed Virgin Mary was completed in 1523 at the site of an older Romanesque church. It is richly adorned with two artistic breath-taking",
+    "works of art. The triumphal arch of the church is decorated by 9.7-meter artistic composition by the Venetian master Francesco",
+    "Ughetto showing the Last Judgement (Heaven, Purgatory and Hell) with a total of 123 figures. The other work that should be mentioned is the altar",
+    "polyptych from 1535 by Girolamo da Santacroce, a Venetian master who left a large part of his artistic opus on the eastern Adriatic coast.",
+    "Within the complex there is the museum display, a rich ethnographic, archaeological and sacral collection, as well as a library. The museum contains",
+    "the famous geographical map by Claudius Ptolemy, a Greek astronomer and geographer from the 2nd century, printed in Venice in 1511."
+  ],
+  "51_TITLE": "Defensive walls of the island of Krk",
+  "51_TEXT": [
+    "A few centuries ago, people built fortified settlements on the island of Krk, positioned on important hills from which they could control",
+    "significant trade routes and defend the settlement easily in case of an attack. A real example of a city planned that way is the village Dobrinj,",
+    "situated in the central part of the island. Although the defensive walls cannot be seen at first sight, that does not mean they are not there,",
+    "but they are skilfully hidden within the thick walls of the outer rim of the city.",
+    "After visiting Dobrinj, you should head towards Krk, a city whose long history is written in its walls and the Castle. The Krk Castle is famous",
+    "under the name Frankopanski, so your next stop could be a secluded castle also owned by this family called Gradec, situated in the woods near Vrbnik.",
+    "An excursion towards Gradec will reveal the charming forested landscapes of the island, so it is time to go towards Baška, which is adorned by even",
+    "more theatrical rocky landscapes. The history of this settlement is related to the migration of the entire population from the hills into the lowland",
+    "area near the sea, depending on the historical period of peace or war. Therefore, this excursion should be ended at the church of St Ivan and the castle",
+    "above Baška, where the population used to move in case of an attack from the sea. Then take a walk through the old city and the promenade along the sea."
+  ],
+  "52_TITLE": "A visit to the monasteries of the island of Krk",
+  "52_TEXT": [
+    "After taking a walk along the quay in Punat, take a boat ride to the isle of Košljun, a magical place kept by the Franciscans. The tradition",
+    "of monasticism on the isle began in the Middle Ages with the arrival of the Benedictines and from the 15th century the isle has been inhabited",
+    "by the Little Brothers. After taking a tour around Košljun, set out towards the northern gate of the city of Krk to the Square of the Glagolitic Monks.",
+    "This is the site of the true coexistence of several monastic communities, the still active Benedictine nunnery and the Franciscan monastery,",
+    "and the deserted Benedictine monastery at the place of the Church of Our Lady of Health and the Poor Clares nunnery, partially preserved and presented",
+    "within the sports hall at the mentioned square. The following stop leads towards the village Glavotok and the Franciscan monastery situated on a beautiful",
+    "peaceful place right next to the sea. To get a complete impression of the monasticism on the island, you should visit the Franciscan monastery in Porat near",
+    "Malinska. The monastery contains replicas of the Krk Glagolitic monuments. Take a good look at them and prepare for the next day to visit Jurandvor and the",
+    "Church of St Lucia, where you can see the place where the most significant Glagolitic monument, the Baška Tablet, was found."
+  ],
+  "53_TITLE": "The past of the island preserved in a few stone remains",
+  "53_TEXT": [
+    "Start your tour in Omišalj. Take a walk to the façade of the parish church of the Assumption of Mary, where you can see the pieces",
+    "of the church furniture and the remains of an earlier edifice reused as construction material for building this church. It is not always",
+    "the case that both the older and the younger church are preserved, so you should also stop at the abandoned church complex in the woods near",
+    "Malinska, famous under the name Cickini.",
+    "After this adventure, visit the settlement Punat. On your way, along the road, you will see the small Church of St Donat, which was completely",
+    "torn down after the World War II, then it was restored and today it represents a true Romanesque monument on the island. Continue towards Punat and",
+    "at the entrance to the village take the path towards the remains of the church of St Peter on Kanajt. On this archaeological site there was a church",
+    "from the 6th until the 9th century when it was no longer used for liturgy. Take a short break in Punat and then head for an adventure on the last two",
+    "sites on the eastern side of the island, the medieval Church of St Peter in Soline and the Renaissance building of All Saints in Sužan."
+  ],
+  "54_TITLE": "Small and secluded churches of the island of Krk",
+  "54_TEXT": [
+    "Start your excursion in Vrbnik, the cradle of Glagolitic tradition and good wine, the place which should definitely be visited if you are",
+    "staying on Krk. Then visit five small secluded churches, each specific in its own way.",
+    "The first one can be found on the hill at the exit of the village. These are the remains of the Church of St Mavro. Then head towards Risika,",
+    "where you can see the Church of St Marco on the headland along the sea. There are two ruinous, but very significant and beautiful churches still",
+    "awaiting restoration. Proceed towards Dobrinj and stop at the village St Vitus to take a look at the church of the same name. This is a small Romanesque",
+    "jewel on the glade above the road built in the far 1100. The following destination takes you towards Soline with the Church of St Philip and Jacob, a little",
+    "younger than the previous one, also situated on the glade in the forest. You should rest here and prepare for the last stop of this excursion. Visit the small",
+    "village Klimno and the Church of St Clementus, which contains a beautiful wooden Renaissance altar protected as the national cultural good."
+  ],
+  "55_TITLE": "The island of Krk in the first centuries of the new age",
+  "55_TEXT": [
+    "Start this trip with a mud bath in the cove near the village Soline. This mud was used for medicinal purposes by the old Romans, therefore",
+    "you can do the same. During the Roman Empire, there used to be a quay here and salt pans where the inhabitants used to produce salt, which presented a fortune.",
+    "The following stop on your tour should be the Roman city Fulfinum below Omišalj. Within this extremely important site, you can also see the old",
+    "Christian basilica from the 5th century, called Mira. If you enjoyed the landscape of the area sufficiently, set out for the Roman Curicum, today’s Krk.",
+    "Although the history of the city dates back into the ancient past, the first centuries can be found deep under the ground. A part of the city infrastructure",
+    "and the walls of the former Krk can be seen within the catering facility Volsonis in the very centre of the city. Near this site, within the tavern Mate,",
+    "there is the Roman mosaic showing Triton, which should be seen. For the end of the tour, there are a few old Christian pieces to see in Baška, in the very",
+    "centre of the city along the Church of St Marco. These are the preserved parts of a mosaic dating from the far 5th century, which used to cover the floor of the church"
   ]
 }

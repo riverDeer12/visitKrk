@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-import {PlaceDetailPage} from "../place-detail/place-detail";
+import { DetailsPage} from "../details/details";
 
 /**
  * Generated class for the PlacePage page.
@@ -19,8 +19,8 @@ export class PlacePage {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
-  show_place(id) {
-    this.navCtrl.push(PlaceDetailPage, {
+  show_details(id) {
+    this.navCtrl.push(DetailsPage, {
       cardId: id
     })
   }

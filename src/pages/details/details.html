@@ -1,0 +1,21 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ itemTitle | translate }}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <img src="{{itemImg}}" width="100%">
+  <p style="padding: 0 15px 0 15px;">{{ itemText | translate }}</p>
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar>
+    <button (click)="show_map()" ion-button color="primary" style="text-align: center; width: 100%;">
+      {{ 'TAKE_ME' | translate }}
+    </button>
+  </ion-toolbar>
+</ion-footer>

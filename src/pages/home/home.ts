@@ -1,7 +1,7 @@
 import { Component } from "@angular/core";
 import { NavController } from "ionic-angular";
 import { TranslateService } from "@ngx-translate/core";
-import { MenuPage } from '../../pages/menu/menu';
+import { HistoryPage } from '../history/history';
 
 @Component({
   selector: "page-home",
@@ -14,13 +14,13 @@ export class HomePage {
     this.translate.setDefaultLang("en");
     this.translate.use("en");
   }
-  
+
   switch_language() {
     this.translate.use(this.lang);
     console.log(this.lang + "selected.");
   }
 
-  goToMenuPage(){
-    this.navCtrl.push(MenuPage);
+  goToHistoryPage(){
+    this.navCtrl.push(HistoryPage);
   }
 }

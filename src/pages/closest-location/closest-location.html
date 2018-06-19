@@ -1,0 +1,33 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ 'CLOSEST_LOCATION_TITLE' | translate }}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+  <ion-card>
+    <ion-card-content>
+      <ion-card-title>
+        {{closestLocation | translate }}
+      </ion-card-title>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-content>
+      <ion-card-title>
+        {{closestTour | translate }}
+      </ion-card-title>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar>
+    <button (click)="refresh_page()" ion-button color="primary" style="text-align: center; width: 100%;">
+      {{'REFRESH_TEXT' | translate }}
+    </button>
+  </ion-toolbar>
+</ion-footer>

@@ -1,13 +1,6 @@
 import {Component} from '@angular/core';
 import {IonicPage, NavController, NavParams} from 'ionic-angular';
-import {MonasteryDetailPage} from "../monastery-detail/monastery-detail";
-
-/**
- * Generated class for the MonasteryPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import {DetailsPage} from "../details/details";
 
 @IonicPage()
 @Component({
@@ -19,8 +12,8 @@ export class MonasteryPage {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
-  show_monastery(id) {
-    this.navCtrl.push(MonasteryDetailPage, {
+  show_details(id) {
+    this.navCtrl.push(DetailsPage, {
       cardId: id
     })
   }
