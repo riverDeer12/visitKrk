@@ -1,0 +1,42 @@
+<!--
+  Generated template for the TourDetailsPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{tourTitle | translate}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <img src="{{tourImg}}" width="100%">
+  <p style="padding:0 15px 0 15px;">{{tourText | translate}}</p>
+</ion-content>
+
+<ion-footer no-border>
+  <ion-toolbar>
+    <ion-row>
+      <ion-col>
+        <button (click)="previous_location()" ion-button color="primary" style="text-align: center; width: 100%;">
+          <
+        </button>
+      </ion-col>
+      <ion-col>
+        <button (click)="show_map()" ion-button color="primary" style="text-align: center; width: 100%;">
+          {{ 'TAKE_ME_TO' | translate }} {{locationCounter}}. {{'LOCATION' | translate}}
+        </button>
+      </ion-col>
+
+      <ion-col>
+        <button (click)="next_location()" ion-button color="primary" style="text-align: center; width: 100%;">
+          >
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-toolbar>
+</ion-footer>

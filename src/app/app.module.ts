@@ -18,6 +18,7 @@ import {DetailsPage} from "../pages/details/details";
 import {AboutPage} from "../pages/about/about";
 import {ClosestLocationPage} from "../pages/closest-location/closest-location";
 import {AllLocationsPage} from "../pages/all-locations/all-locations";
+import {TourDetailsPage} from "../pages/tour-details/tour-details";
 
 import {SharePage} from "../pages/share/share";
 import {RatePage} from "../pages/rate/rate";
@@ -29,7 +30,7 @@ import {TranslateHttpLoader} from "@ngx-translate/http-loader";
 import {LaunchNavigator} from "@ionic-native/launch-navigator";
 import {Geolocation} from "@ionic-native/geolocation";
 import {HTTP} from "@ionic-native/http";
-import {Dialogs} from "@ionic-native/dialogs";
+import {Diagnostic} from "@ionic-native/diagnostic";
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
@@ -52,7 +53,8 @@ export function createTranslateLoader(http: HttpClient) {
     DetailsPage,
     AboutPage,
     ClosestLocationPage,
-    AllLocationsPage
+    AllLocationsPage,
+    TourDetailsPage
   ],
   imports: [
     BrowserModule,
@@ -84,7 +86,8 @@ export function createTranslateLoader(http: HttpClient) {
     DetailsPage,
     AboutPage,
     ClosestLocationPage,
-    AllLocationsPage
+    AllLocationsPage,
+    TourDetailsPage
   ],
   providers: [
     StatusBar,
@@ -93,7 +96,7 @@ export function createTranslateLoader(http: HttpClient) {
     LaunchNavigator,
     Geolocation,
     HTTP,
-    Dialogs
+    Diagnostic
   ]
 })
 export class AppModule {

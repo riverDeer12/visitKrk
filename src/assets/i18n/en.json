@@ -3,6 +3,8 @@
   "NEXT": "Next",
   "REFRESH_TEXT": "Refresh your location!",
   "TAKE_ME": "Take me there!",
+  "TAKE_ME_TO":"Take me to",
+  "LOCATION": "location",
   "WELCOME_TEXT": "Welcome to the officall app of Islands of Krk Natural Heritage, for Menu swipe from left to right. ",
   "COMMUNICATION": "Contact",
   "MENU_HEADER_TITLE": "Island of Krk Cultural Heritage",
@@ -69,6 +71,7 @@
   "SMALL AND SECLUDED CHURCHES OF THE ISLAND OF KRK": "Small and Secluded Churches of The Island of Krk",
   "THE ISLAND OF KRK IN THE FIRST CENTURIES OF THE NEW AGE": "The Island of Krk in The First Centuries of The New Age",
   "fortress": "Fortress",
+  "archaeology-remains": "Archaeology remain",
   "HISTORY_TITLE": "History of Island of Krk",
   "HISTORY_TEXT": [
     "The dynamic history of the island of Krk was determined by its favourable geographical position (the crossroads of merchant routes),",

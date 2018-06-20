@@ -311,7 +311,6 @@ export class DetailsPage {
 
   show_map() {
     let cordId = this.cardId - 1;
-    console.log(this.coordinates[cordId].itemLat, this.coordinates[cordId].itemLog);
     this.launchNavigator.navigate([this.coordinates[cordId].itemLat, this.coordinates[cordId].itemLog]);
   }
 }

@@ -1,12 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the AllLocationsPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import {DetailsPage} from "../details/details";
 
 @IonicPage()
 @Component({
@@ -18,8 +12,10 @@ export class AllLocationsPage {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad AllLocationsPage');
+  show_details(id){
+    this.navCtrl.push(DetailsPage,{
+      cardId: id
+    })
   }
 
 }

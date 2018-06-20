@@ -1,21 +1,21 @@
-import { Component, ViewChild } from "@angular/core";
-import { Nav, Platform } from "ionic-angular";
-import { StatusBar } from "@ionic-native/status-bar";
-import { SplashScreen } from "@ionic-native/splash-screen";
+import {Component, ViewChild} from "@angular/core";
+import {Nav, Platform} from "ionic-angular";
+import {StatusBar} from "@ionic-native/status-bar";
+import {SplashScreen} from "@ionic-native/splash-screen";
 
-import { HomePage } from "../pages/home/home";
-import { HistoryPage } from "../pages/history/history";
-import { ArheoPage } from "../pages/arheo/arheo";
-import { ChurchPage } from "../pages/church/church";
-import { PlacePage } from "../pages/place/place";
-import { MonasteryPage } from "../pages/monastery/monastery";
-import { FortPage } from "../pages/fort/fort";
-import { TourPage } from "../pages/tour/tour";
+import {HomePage} from "../pages/home/home";
+import {HistoryPage} from "../pages/history/history";
+import {ArheoPage} from "../pages/arheo/arheo";
+import {ChurchPage} from "../pages/church/church";
+import {PlacePage} from "../pages/place/place";
+import {MonasteryPage} from "../pages/monastery/monastery";
+import {FortPage} from "../pages/fort/fort";
+import {TourPage} from "../pages/tour/tour";
 
-import { SharePage } from "../pages/share/share";
-import { RatePage } from "../pages/rate/rate";
-import { EmailPage } from "../pages/email/email";
-import { AboutPage } from "../pages/about/about";
+import {SharePage} from "../pages/share/share";
+import {RatePage} from "../pages/rate/rate";
+import {EmailPage} from "../pages/email/email";
+import {AboutPage} from "../pages/about/about";
 import {ClosestLocationPage} from "../pages/closest-location/closest-location";
 import {AllLocationsPage} from "../pages/all-locations/all-locations";
 

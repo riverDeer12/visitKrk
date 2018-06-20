@@ -3,7 +3,9 @@
   "NEXT": "Dalje",
   "REFRESH_TEXT": "Osvježi svoju lokaciju!",
   "TAKE_ME": "Odvedi me tamo!",
+  "TAKE_ME_TO":"Odvedi me na ",
   "COMMUNICATION": "Kontakt",
+  "LOCATION": "lokaciju!",
   "WELCOME_TEXT": "Dobrodošli u službenu aplikaciju Kulturnog naslijeđa otoka Krka, za prikaz menija povucite sa lijeve na desnu stranu.",
   "MENU_HEADER_TITLE": "Kulturno naslijeđe otoka Krka",
   "TZKRK": "Turistička zajednica otoka Krka",
@@ -71,6 +73,7 @@
   "THE ISLAND OF KRK IN THE FIRST CENTURIES OF THE NEW AGE": "Otok Krk u prvim stoljećima nove ere",
   "HISTORY_TITLE": "Povijest otoka Krka",
   "fortress": "Utvrda",
+  "archaeology-remains": "Arheološki ostatak",
   "HISTORY_TEXT": [
     "Dinamičnu povijest otoka Krka odredio je povoljan geografski položaj (sjecište trgovačkih putova), blaga klima, dovoljno obradive zemlje i",
     "znatan broj uzvisina za utvrđivanje naselja. Njegovi najraniji tragovi sežu u prapovijest. Iako još uvijek sustavno neistraženi, ostaci ove",
