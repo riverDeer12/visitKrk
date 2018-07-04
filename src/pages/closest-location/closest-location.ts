@@ -22,7 +22,12 @@ export class ClosestLocationPage {
   public locationImgSource;
   public tourImgSource;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public geoLocation: Geolocation, public httpClient: HttpClient, private alertCtrl: AlertController, public diagnostic: Diagnostic) {
+  constructor(public navCtrl: NavController, 
+    public navParams: NavParams, 
+    public geoLocation: Geolocation, 
+    public httpClient: HttpClient, 
+    private alertCtrl: AlertController, 
+    public diagnostic: Diagnostic) {
 
     this.diagnostic.isLocationAvailable()
       .then((state) => {
@@ -60,26 +65,6 @@ export class ClosestLocationPage {
 
   refresh_page() {
     this.navCtrl.setRoot(this.navCtrl.getActive().component);
-    let alert = this.alertCtrl.create({
-      title: 'Confirm purchase',
-      message: 'Do you want to buy this book?',
-      buttons: [
-        {
-          text: 'Cancel',
-          role: 'cancel',
-          handler: () => {
-            console.log('Cancel clicked');
-          }
-        },
-        {
-          text: 'Buy',
-          handler: () => {
-            console.log('Buy clicked');
-          }
-        }
-      ]
-    });
-    alert.present();
   }
 
 }

@@ -1,10 +1,11 @@
 <ion-header>
-
-  <ion-navbar>
-    <ion-title>{{ 'TOUR_TITLE' | translate }}</ion-title>
-  </ion-navbar>
-
-</ion-header>
+    <ion-navbar>
+      <button menuToggle>
+        <ion-icon name="menu"></ion-icon>
+      </button>
+      <ion-title>{{ 'TOUR_TITLE' | translate }}</ion-title>
+    </ion-navbar>
+  </ion-header>
 
 <ion-content padding>
   <ion-card (click)="show_details(51, 1)">

@@ -186,7 +186,7 @@ export class TourDetailsPage {
     this.locationCounter++;
     let tourid = this.tourId-1;
     let tours: object[] = [this.wallCoordinates, this.monasteryCoordinates, this.newEraCoordinates, this.historyCoordinates, this.churchesCoordinates];
-    if(this.locationCounter > tours[tourid][length]){
+    if(this.locationCounter > tours[tourid]["length"]){
       this.locationCounter--;
       return;
     }
