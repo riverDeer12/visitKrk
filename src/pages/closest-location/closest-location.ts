@@ -51,7 +51,7 @@ export class ClosestLocationPage {
     }).catch((error) => {
       let alert = this.alertCtrl.create({
         title: 'Error getting your location',
-        message: 'Please check your internet connection',
+        message: 'Please check your location settings.',
         buttons:[
           {
             text: 'Ok',

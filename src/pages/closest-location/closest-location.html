@@ -12,8 +12,9 @@
     <ion-card-content>
       <img src="{{locationImgSource}}"/>
       <ion-card-title>
-        {{closestLocation | translate }}
-        --->{{locationType | translate }}<---
+        {{ 'CLOSEST_LOCATION' | translate }}
+        <p>{{closestLocation | translate }}</p>
+        <p>{{'TYPE' | translate }}: {{locationType | translate }}</p>
       </ion-card-title>
     </ion-card-content>
   </ion-card>
@@ -22,7 +23,8 @@
     <ion-card-content>
       <img src="{{tourImgSource}}"/>
       <ion-card-title>
-        {{closestTour | translate }}
+        {{ 'CLOSEST_TOUR' | translate }}
+        <p>{{closestTour | translate }}</p>
       </ion-card-title>
     </ion-card-content>
   </ion-card>

@@ -24,14 +24,6 @@
     vertical-align: super;
 }
 
-ion-app.ios [padding] .scroll-content{
-  padding: 0;
-}
-
-ion-app.md [padding] .scroll-content{
-    padding: 0;
-}
-
 .card-ios{
     margin: 20px 40px 20px 35px;
     width: calc(100% - 80px);
@@ -40,4 +32,9 @@ ion-app.md [padding] .scroll-content{
 .card-md{
     margin: 20px 40px 20px 35px;
     width: calc(100% - 80px);
+}
+
+// DETAILS PAGE //
+.details-text{
+    padding: 0 5px 0 5px;
 }

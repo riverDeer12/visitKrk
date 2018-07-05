@@ -101,8 +101,12 @@
     "of archaeological sites, fortresses, old Christian, Medieval and modern church buildings and monasteries and other representative cultural goods of the Krk",
     "island towns."
   ],
+  "WELCOME_TITLE": "Welcome!",
   "ARHEO_TITLE": "Arheological remains",
   "CLOSEST_LOCATION_TITLE": "Closest Point of Interest",
+  "CLOSEST_LOCATION": "Closest Location",
+  "CLOSEST_TOUR": "Closest Tour",
+  "TYPE": "Location Type: ",
   "PLACE_TITLE": "Places",
   "CHURCH_TITLE": "Churches",
   "MONASTERY_TITLE": "Monasteries",

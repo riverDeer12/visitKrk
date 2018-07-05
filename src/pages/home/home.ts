@@ -1,7 +1,8 @@
 import { Component } from "@angular/core";
 import { NavController } from "ionic-angular";
 import { TranslateService } from "@ngx-translate/core";
-import { HistoryPage } from '../history/history';
+import { MenuPage } from '../menu/menu';
+import {MenuController} from 'ionic-angular';
 
 @Component({
   selector: "page-home",
@@ -9,7 +10,7 @@ import { HistoryPage } from '../history/history';
 })
 export class HomePage {
   lang: any;
-  constructor(public navCtrl: NavController,public translate: TranslateService) {
+  constructor(public navCtrl: NavController,public translate: TranslateService, public menuCtrl: MenuController) {
     this.lang = "en";
     this.translate.setDefaultLang("en");
     this.translate.use("en");
@@ -20,7 +21,8 @@ export class HomePage {
     console.log(this.lang + "selected.");
   }
 
-  goToHistoryPage(){
-    this.navCtrl.push(HistoryPage);
+  goToMenuPage(){
+    this.navCtrl.push(MenuPage);
+    this.menuCtrl.open();
   }
 }

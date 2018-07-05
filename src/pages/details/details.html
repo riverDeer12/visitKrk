@@ -1,15 +1,13 @@
 <ion-header>
-
   <ion-navbar>
     <ion-title>{{ itemTitle | translate }}</ion-title>
   </ion-navbar>
-
 </ion-header>
 
 
 <ion-content padding>
   <img src="{{itemImg}}" width="100%">
-  <p style="padding: 0 15px 0 15px;">{{ itemText | translate }}</p>
+  <p class="details-text">{{ itemText | translate }}</p>
 </ion-content>
 
 <ion-footer no-border>

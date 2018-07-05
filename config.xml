@@ -85,12 +85,9 @@
         <variable name="OKHTTP_VERSION" value="3.+" />
     </plugin>
     <engine name="android" spec="7.0.0" />
-    <plugin name="cordova-plugin-geolocation" spec="^4.0.1">
-        <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="To locate you" />
-    </plugin>
-    <edit-config file="*-Info.plist" mode="merge" target="NSLocationWhenInUseUsageDescription">
-        <string>We want your location! Best regards NSA</string>
-    </edit-config>
     <plugin name="cordova-plugin-advanced-http" spec="^1.11.1" />
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
+    <plugin name="cordova-plugin-geolocation" spec="^4.0.1">
+        <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="My project would like to use your locationž" />
+    </plugin>
 </widget>

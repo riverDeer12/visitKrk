@@ -65,11 +65,11 @@
       "uk.co.workingedge.phonegap.plugin.launchnavigator": {
         "OKHTTP_VERSION": "3.+"
       },
-      "cordova-plugin-geolocation": {
-        "GEOLOCATION_USAGE_DESCRIPTION": "To locate you"
-      },
       "cordova-plugin-advanced-http": {},
-      "cordova-plugin-dialogs": {}
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-geolocation": {
+        "GEOLOCATION_USAGE_DESCRIPTION": "My project would like to use your locationž"
+      }
     },
     "platforms": [
       "android"

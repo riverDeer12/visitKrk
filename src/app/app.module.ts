@@ -7,6 +7,7 @@ import {StatusBar} from "@ionic-native/status-bar";
 
 import {MyApp} from "./app.component";
 import {HomePage} from "../pages/home/home";
+import {MenuPage} from "../pages/menu/menu";
 import {HistoryPage} from "../pages/history/history";
 import {ArheoPage} from "../pages/arheo/arheo";
 import {ChurchPage} from "../pages/church/church";
@@ -40,6 +41,7 @@ export function createTranslateLoader(http: HttpClient) {
   declarations: [
     MyApp,
     HomePage,
+    MenuPage,
     HistoryPage,
     ArheoPage,
     ChurchPage,
@@ -73,6 +75,7 @@ export function createTranslateLoader(http: HttpClient) {
   entryComponents: [
     MyApp,
     HomePage,
+    MenuPage,
     HistoryPage,
     ArheoPage,
     ChurchPage,
