@@ -4,7 +4,7 @@ import {Geolocation} from "@ionic-native/geolocation";
 import {HttpClient} from "@angular/common/http";
 import {Observable} from "rxjs/Observable";
 import {AlertController} from 'ionic-angular';
-import {Diagnostic} from "@ionic-native/diagnostic";
+import {SplashScreen} from '@ionic-native/splash-screen';
 
 @IonicPage()
 @Component({
@@ -26,17 +26,10 @@ export class ClosestLocationPage {
     public navParams: NavParams, 
     public geoLocation: Geolocation, 
     public httpClient: HttpClient, 
-    private alertCtrl: AlertController, 
-    public diagnostic: Diagnostic) {
+    private alertCtrl: AlertController,
+    public splashScreen: SplashScreen) {
 
-    this.diagnostic.isLocationAvailable()
-      .then((state) => {
-        if (state == true){
-        } else {
-          this.diagnostic.switchToLocationSettings();
-        }
-      }).catch(e => console.error(e));
-
+    this.splashScreen.show();
     this.geoLocation.getCurrentPosition().then((resp) => {
       this.myLatitude = resp.coords.latitude;
       this.myLongitude = resp.coords.longitude;
@@ -47,6 +40,7 @@ export class ClosestLocationPage {
         this.locationType = data["Closest location"]["type"];
         this.locationImgSource = 'assets/imgs/' + data["Closest location"]["key2"] + '.jpg';
         this.tourImgSource = 'assets/imgs/' + data["Closest tour"]["key2"] + '.jpg';
+        this.splashScreen.hide();
       })
     }).catch((error) => {
       let alert = this.alertCtrl.create({
