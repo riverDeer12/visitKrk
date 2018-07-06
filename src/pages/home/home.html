@@ -4,7 +4,10 @@
       <img src="assets/imgs/TZlogo.svg">
     </ion-row>
     <ion-row padding justify-content-center align-items-center>
-      <ion-title>Choose your language / Odaberite svoj jezik</ion-title>
+      <ion-title>
+        <p>Choose your language</p>
+        <p>Odaberite svoj jezik</p>
+      </ion-title>
     </ion-row>
     <ion-row justify-content-center align-items-center style="height: 100%;">
       <ion-list radio-group [(ngModel)]="lang" (ionChange)="switch_language()">

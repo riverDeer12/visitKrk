@@ -1,16 +1,16 @@
 <ion-header>
-    <ion-navbar>
-      <button menuToggle>
-        <ion-icon name="menu"></ion-icon>
-      </button>
-      <ion-title>{{ 'CLOSEST_LOCATION_TITLE' | translate }}</ion-title>
-    </ion-navbar>
-  </ion-header>
+  <ion-navbar>
+    <button menuToggle ion-button>
+      <ion-icon name="md-menu"></ion-icon>
+    </button>
+    <ion-title>{{ 'CLOSEST_LOCATION_TITLE' | translate }}</ion-title>
+  </ion-navbar>
+</ion-header>
 
 <ion-content padding text-center>
   <ion-card>
     <ion-card-content>
-      <img src="{{locationImgSource}}"/>
+      <img src="{{locationImgSource}}" />
       <ion-card-title>
         {{ 'CLOSEST_LOCATION' | translate }}
         <p>{{closestLocation | translate }}</p>
@@ -21,7 +21,7 @@
 
   <ion-card>
     <ion-card-content>
-      <img src="{{tourImgSource}}"/>
+      <img src="{{tourImgSource}}" />
       <ion-card-title>
         {{ 'CLOSEST_TOUR' | translate }}
         <p>{{closestTour | translate }}</p>

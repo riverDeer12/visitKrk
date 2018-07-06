@@ -61,7 +61,10 @@ export function createTranslateLoader(http: HttpClient) {
   imports: [
     BrowserModule,
     FormsModule,
-    IonicModule.forRoot(MyApp),
+    IonicModule.forRoot(MyApp,{
+      backButtonText: '',
+      backButtonIcon: 'md-arrow-back',
+    }),
     HttpClientModule,
     TranslateModule.forRoot({
       loader: {

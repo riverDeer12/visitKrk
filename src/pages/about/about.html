@@ -1,20 +1,21 @@
 <ion-header>
-    <ion-navbar>
-      <button menuToggle>
-        <ion-icon name="menu"></ion-icon>
-      </button>
-      <ion-title>{{ 'ABOUT_TITLE' | translate }}</ion-title>
-    </ion-navbar>
-  </ion-header>
+  <ion-navbar>
+    <button menuToggle ion-button>
+      <ion-icon name="md-menu"></ion-icon>
+    </button>
+    <ion-title>{{ 'ABOUT_TITLE' | translate }}</ion-title>
+  </ion-navbar>
+</ion-header>
 
 <ion-content text-center padding>
-    <p style="padding: 0 15px 0 15px;">{{'CLIENT' | translate }}: {{ 'TZKRK' | translate }}</p>
-    <p style="padding: 0 15px 0 15px;">{{'PROJECT_MANAGERS' | translate }}: Ivana Golob, Ema Makarun</p>
-    <p style="padding: 0 15px 0 15px;">{{'TEXTS' | translate }}: Ema Makarun, Matija Makarun </p>
-    <p style="padding: 0 15px 0 15px;">{{'PROOFREADING_CORRECTION' | translate }}: Gordana Ožbolt</p>
-    <p style="padding: 0 15px 0 15px;">{{ 'TRANSLATION' | translate }}: Jana Kegalj</p>
-    <p style="padding: 0 15px 0 15px;">{{ 'PHOTOGRAPHY' | translate }}: Ivica Brusić -BRUJO</p>
-    <p style="padding: 0 15px 0 15px;">{{'WEB_DESIGN'| translate }}: Ljiljana Brusić</p>
+  <p class="details-text">{{'CLIENT' | translate }}: {{ 'TZKRK' | translate }}</p>
+  <p class="details-text">{{'PROJECT_MANAGERS' | translate }}: Ivana Golob, Ema Makarun</p>
+  <p class="details-text">{{'TEXTS' | translate }}: Ema Makarun, Matija Makarun </p>
+  <p class="details-text">{{'PROOFREADING_CORRECTION' | translate }}: Gordana Ožbolt</p>
+  <p class="details-text">{{ 'TRANSLATION' | translate }}: Jana Kegalj</p>
+  <p class="details-text">{{ 'PHOTOGRAPHY' | translate }}: Ivica Brusić -BRUJO</p>
+  <p class="details-text">{{'WEB_DESIGN'| translate }}: Ljiljana Brusić</p>
+  <p class="details-text">{{'MOBILE_APP_DEVELOPMENT'| translate }}: Ivan Ćaleta-Car, Milan Trbojević, Ivan Zubak</p>
   <ion-card>
     <img src="assets/imgs/tzkrk_logo.png" />
     <ion-card-content>
