@@ -1,6 +1,7 @@
 import {Component} from '@angular/core';
 import {IonicPage, NavController, NavParams} from 'ionic-angular';
 import {LaunchNavigator} from "@ionic-native/launch-navigator";
+import { InAppBrowser } from '@ionic-native/in-app-browser';
 
 @IonicPage()
 @Component({
@@ -21,7 +22,7 @@ export class TourDetailsPage {
   public tourImg;
   public locationCounter = 1;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public launchNavigator: LaunchNavigator) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, public launchNavigator: LaunchNavigator, private iab: InAppBrowser) {
     this.cardId = navParams.get("cardId");
     this.tourId = navParams.get("tourId");
     this.tourTitle = this.cardId + "_TITLE";
@@ -173,6 +174,10 @@ export class TourDetailsPage {
         itemLog: 14.620361
       }
     ]
+  }
+
+  show_tour(){
+    const browser = this.iab.create('https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1fqyKxf602KThsP8_xm936VhcBFhZduyS&ll=45.04913144399149%2C14.669200000000046&z=11');
   }
 
   show_map() {

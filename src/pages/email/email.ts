@@ -1,25 +1,38 @@
-import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the EmailPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import { Component } from "@angular/core";
+import { IonicPage, NavController, NavParams } from "ionic-angular";
+import { EmailComposer } from "@ionic-native/email-composer";
 
 @IonicPage()
 @Component({
-  selector: 'page-email',
-  templateUrl: 'email.html',
+  selector: "page-email",
+  templateUrl: "email.html"
 })
 export class EmailPage {
+  emailText: string;
+  emailSubject: string;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(
+    public navCtrl: NavController,
+    public navParams: NavParams,
+    private emailComposer: EmailComposer
+  ) {
+    this.emailComposer.isAvailable().then((available: boolean) => {
+      if (available) {
+        console.log("Sending Emails is supported");
+
+      } else {
+        console.log("Sending Emails is not suported");
+      }
+    });
   }
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad EmailPage');
-  }
+  send_email() {
+    let email = {
+      to: "mtrbojevic12@gmail.hr",
+      subject: this.emailSubject,
+      body: this.emailText
+    };
 
+    this.emailComposer.open(email);
+  }
 }
