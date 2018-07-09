@@ -19,7 +19,6 @@ export class EmailPage {
     this.emailComposer.isAvailable().then((available: boolean) => {
       if (available) {
         console.log("Sending Emails is supported");
-
       } else {
         console.log("Sending Emails is not suported");
       }
@@ -28,11 +27,10 @@ export class EmailPage {
 
   send_email() {
     let email = {
-      to: "mtrbojevic12@gmail.hr",
+      to: "infopunkt@krk.hr",
       subject: this.emailSubject,
       body: this.emailText
     };
-
     this.emailComposer.open(email);
   }
 }

@@ -15,8 +15,9 @@
   <p class="details-text">{{ 'TRANSLATION' | translate }}: Jana Kegalj</p>
   <p class="details-text">{{ 'PHOTOGRAPHY' | translate }}: Ivica Brusić -BRUJO</p>
   <p class="details-text">{{'WEB_DESIGN'| translate }}: Ljiljana Brusić</p>
-  <p class="details-text">{{'MOBILE_APP_DEVELOPMENT'| translate }}: Ivan Ćaleta-Car, Milan Trbojević, Ivan Zubak</p>
-  <ion-card>
+  <p class="details-text">{{'MOBILE_APP_DEVELOPMENT'| translate }}: Ivan Ćaleta-Car, Milan Trbojević,<br/>Ivan Zubak</p>
+
+  <ion-card (click)="open_website(0)">
     <img src="assets/imgs/tzkrk_logo.png" />
     <ion-card-content>
       <ion-card-title>
@@ -25,7 +26,7 @@
     </ion-card-content>
   </ion-card>
 
-  <ion-card>
+  <ion-card (click)="open_website(1)">
     <img src="assets/imgs/kvarnertz_logo.png" />
     <ion-card-content>
       <ion-card-title>
@@ -34,7 +35,7 @@
     </ion-card-content>
   </ion-card>
 
-  <ion-card>
+  <ion-card (click)="open_website(2)">
     <img src="assets/imgs/htz_logo.png" />
     <ion-card-content>
       <ion-card-title>
@@ -43,7 +44,7 @@
     </ion-card-content>
   </ion-card>
 
-  <ion-card>
+  <ion-card (click)="open_website(3)">
     <img src="assets/imgs/uniri_logo.png" />
     <ion-card-content>
       <ion-card-title>
@@ -52,7 +53,7 @@
     </ion-card-content>
   </ion-card>
 
-  <ion-card>
+  <ion-card (click)="open_website(4)">
     <img src="assets/imgs/cib_logo.png" />
     <ion-card-content>
       <ion-card-title>
