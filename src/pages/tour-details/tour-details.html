@@ -1,7 +1,7 @@
 <ion-header>
 
   <ion-navbar>
-    <ion-title>{{tourTitle | translate}}</ion-title>
+    <ion-title id="tourTitleHeader">{{tourTitle | translate}}</ion-title>
   </ion-navbar>
 
 </ion-header>
@@ -15,7 +15,7 @@
 <ion-footer no-border>
   <ion-toolbar>
     <ion-row>
-      <button style="width: 100%;" (click)="show_tour()" ion-button>Open tour!</button>
+      <button style="width: 100%;" (click)="show_tour(tourTitle)" ion-button>{{'SHOW_ON_MAP_BUTTON' | translate }}</button>
     </ion-row>
   </ion-toolbar>
 </ion-footer>
