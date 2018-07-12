@@ -24,7 +24,7 @@
     "@ionic-native/core": "4.7.0",
     "@ionic-native/diagnostic": "^4.9.0",
     "@ionic-native/email-composer": "^4.9.0",
-    "@ionic-native/geolocation": "^4.7.0",
+    "@ionic-native/geolocation": "^4.9.1",
     "@ionic-native/http": "^4.7.0",
     "@ionic-native/in-app-browser": "^4.9.0",
     "@ionic-native/launch-navigator": "^4.7.0",
@@ -74,13 +74,13 @@
       },
       "cordova-plugin-advanced-http": {},
       "cordova-plugin-dialogs": {},
-      "cordova-plugin-geolocation": {
-        "GEOLOCATION_USAGE_DESCRIPTION": "My project would like to use your location"
-      },
       "cordova-plugin-statusbar": {},
       "cordova.plugins.diagnostic": {},
       "cordova-plugin-email-composer": {},
-      "cordova-plugin-inappbrowser": {}
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-geolocation": {
+        "GEOLOCATION_USAGE_DESCRIPTION": "To locate you"
+      }
     },
     "platforms": [
       "android",

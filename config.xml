@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Visit Krk</name>
-    <description>Island of Krk Cultural Heritage offical application</description>
+    <description>Island of Krk cultural heritage offical application</description>
     <author email="mtrbojevic12@gmail.com" href="http://ionicframework.com/">Milan Trbojevic</author>
     <content src="index.html" />
     <access origin="*" />
@@ -89,13 +89,13 @@
     </plugin>
     <plugin name="cordova-plugin-advanced-http" spec="^1.11.1" />
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
-    <plugin name="cordova-plugin-geolocation" spec="^4.0.1">
-        <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="VisitKrk app would like to use your location." />
-    </plugin>
     <plugin name="cordova-plugin-statusbar" spec="^2.4.2" />
     <plugin name="cordova.plugins.diagnostic" spec="^4.0.8" />
     <plugin name="cordova-plugin-email-composer" spec="^0.8.15" />
     <plugin name="cordova-plugin-inappbrowser" spec="^3.0.0" />
+    <plugin name="cordova-plugin-geolocation" spec="^4.0.1">
+        <variable name="GEOLOCATION_USAGE_DESCRIPTION" value="To locate you" />
+    </plugin>
     <engine name="android" spec="7.0.0" />
     <engine name="ios" spec="4.5.4" />
 </widget>
