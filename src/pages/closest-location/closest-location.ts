@@ -1,8 +1,7 @@
 import {Component} from "@angular/core";
 import {IonicPage, NavController, NavParams} from "ionic-angular";
 import {Geolocation} from "@ionic-native/geolocation";
-import {HttpClient} from "@angular/common/http";
-import {Observable} from "rxjs/Observable";
+import { HTTP } from "@ionic-native/http";
 import {LoadingController} from "ionic-angular";
 
 @IonicPage()
@@ -11,7 +10,6 @@ import {LoadingController} from "ionic-angular";
   templateUrl: "closest-location.html"
 })
 export class ClosestLocationPage {
-  closest: Observable<any>;
   public myLatitude;
   public myLongitude;
   public closestLocation;
@@ -23,7 +21,7 @@ export class ClosestLocationPage {
   constructor(
     public navCtrl: NavController,
     public navParams: NavParams,
-    public httpClient: HttpClient,
+    public http: HTTP,
     public loadingCtrl: LoadingController,
     public geolocation: Geolocation
   ) {
@@ -45,20 +43,13 @@ export class ClosestLocationPage {
 
       //request to api //
       loading2.present();
-      this.closest = this.httpClient.get("http://krk-api.herokuapp.com/" + this.myLatitude + "," + this.myLongitude);
-      this.closest.subscribe(data => {
-        this.closestLocation = data["Closest location"]["name"]["eng"];
-        this.closestTour = data["Closest tour"]["name"]["eng"];
-        this.locationType = data["Closest location"]["type"];
-        this.locationImgSource = "assets/imgs/" + data["Closest location"]["key2"] + ".jpg";
-        this.tourImgSource = "assets/imgs/" + data["Closest tour"]["key2"] + ".jpg";
-        console.log(data["Closest location"]["name"]["eng"]);
-        loading2.dismiss();
-      });
+      this.http.get('https://www.reddit.com/r/gifs/top/.json?limit=10&sort=hot', {}, {}).then(data =>{
+        console.log(data);
+      })
+
     }).catch((error) => {
       console.log('Error getting users location', error);
     });
-
   }
 
   refresh_page() {
