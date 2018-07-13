@@ -55,7 +55,7 @@ export class ClosestLocationPage {
         loading2.present();
         this.redditService
           .get_reddit_data(this.myLatitude, this.myLongitude)
-          .subscribe(data => {
+          .then(data => {
             this.closestLocation = data["Closest location"]["name"]["eng"];
             this.locationType = data["Closest location"]["type"];
             this.locationImgSource = "assets/imgs/" + data["Closest location"]["key2"] + ".jpg";
