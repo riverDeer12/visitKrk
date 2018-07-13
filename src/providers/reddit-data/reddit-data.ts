@@ -8,6 +8,6 @@ export class RedditDataProvider {
   }
 
   get_reddit_data(latitude, longitude) {
-    return this.http.get("http://krk-api.herokuapp.com/" + latitude + "," + longitude,{},{});
+    return this.http.get("https://krk-api.herokuapp.com/" + latitude + "," + longitude,{},{});
   }
 }
