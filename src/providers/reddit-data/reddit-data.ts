@@ -1,6 +1,5 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
-import { ClosestLocationPage } from "../../pages/closest-location/closest-location";
 
 @Injectable()
 export class RedditDataProvider {
@@ -10,6 +9,5 @@ export class RedditDataProvider {
 
   get_reddit_data(latitude, longitude) {
     return this.http.get("http://krk-api.herokuapp.com/" + latitude + "," + longitude);
-  
   }
 }
