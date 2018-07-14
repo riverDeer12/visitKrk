@@ -13,7 +13,7 @@ export class SharePage {
   public recipientEmail;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public socialSharing: SocialSharing) {
-    this.socialSharing.share('Island of Krk Cultural Heritage', '', '', 'https://itunes.apple.com/us/app/candy-crush-saga/id553834731?mt=8').then(() => {
+    this.socialSharing.share('Island of Krk Cultural Heritage', '', 'assets/imgs/tzkrk_logo.png', 'https://itunes.apple.com/hr/app/tz.otoka.krka/id553834731?mt=8').then(() => {
       console.log("Shared successfully");
     }).catch((error) => {
       // Error!
