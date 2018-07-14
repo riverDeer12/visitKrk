@@ -22,7 +22,6 @@ import { AllLocationsPage } from "../pages/all-locations/all-locations";
 import { TourDetailsPage } from "../pages/tour-details/tour-details";
 
 import { SharePage } from "../pages/share/share";
-import { RatePage } from "../pages/rate/rate";
 import { EmailPage } from "../pages/email/email";
 
 import { HttpClientModule, HttpClient } from "@angular/common/http";
@@ -55,7 +54,6 @@ export function createTranslateLoader(http: HttpClient) {
     FortPage,
     TourPage,
     SharePage,
-    RatePage,
     EmailPage,
     DetailsPage,
     AboutPage,
@@ -92,7 +90,6 @@ export function createTranslateLoader(http: HttpClient) {
     FortPage,
     TourPage,
     SharePage,
-    RatePage,
     EmailPage,
     DetailsPage,
     AboutPage,

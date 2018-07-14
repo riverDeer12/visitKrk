@@ -13,7 +13,6 @@ import { FortPage } from "../pages/fort/fort";
 import { TourPage } from "../pages/tour/tour";
 
 import { SharePage } from "../pages/share/share";
-import { RatePage } from "../pages/rate/rate";
 import { EmailPage } from "../pages/email/email";
 import { AboutPage } from "../pages/about/about";
 //import { ClosestLocationPage } from "../pages/closest-location/closest-location";
@@ -90,11 +89,6 @@ export class MyApp {
         title: "SHARE_TITLE",
         component: SharePage,
         imgSource: "assets/imgs/share.png"
-      },
-      {
-        title: "RATE_TITLE",
-        component: RatePage,
-        imgSource: "assets/imgs/rate.png"
       },
       {
         title: "EMAIL_TITLE",
