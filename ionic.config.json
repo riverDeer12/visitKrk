@@ -1,6 +1,6 @@
 {
   "name": "visitKrk",
-  "app_id": "",
+  "app_id": "visitKrk",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

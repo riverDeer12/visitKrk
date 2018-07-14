@@ -35,6 +35,8 @@ import { Diagnostic } from "@ionic-native/diagnostic";
 import { EmailComposer } from "@ionic-native/email-composer";
 import { InAppBrowser } from '@ionic-native/in-app-browser';
 import { RedditDataProvider } from '../providers/reddit-data/reddit-data';
+import { AppRate } from '@ionic-native/app-rate';
+import { SocialSharing } from '@ionic-native/social-sharing';
 
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
@@ -108,7 +110,9 @@ export function createTranslateLoader(http: HttpClient) {
     Diagnostic,
     EmailComposer,
     InAppBrowser,
-    RedditDataProvider
+    RedditDataProvider,
+    AppRate,
+    SocialSharing
   ]
 })
 export class AppModule {}

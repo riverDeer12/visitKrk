@@ -16,8 +16,9 @@ import { SharePage } from "../pages/share/share";
 import { RatePage } from "../pages/rate/rate";
 import { EmailPage } from "../pages/email/email";
 import { AboutPage } from "../pages/about/about";
-import { ClosestLocationPage } from "../pages/closest-location/closest-location";
+//import { ClosestLocationPage } from "../pages/closest-location/closest-location";
 import { AllLocationsPage } from "../pages/all-locations/all-locations";
+
 
 @Component({
   templateUrl: "app.html"
@@ -32,7 +33,7 @@ export class MyApp {
   constructor(
     public platform: Platform,
     public statusBar: StatusBar,
-    public splashScreen: SplashScreen
+    public splashScreen: SplashScreen,
   ) {
     this.initializeApp();
 
@@ -41,11 +42,6 @@ export class MyApp {
         title: "HISTORY_TITLE",
         component: HistoryPage,
         imgSource: "assets/imgs/history.png"
-      },
-      {
-        title: "CLOSEST_LOCATION_TITLE",
-        component: ClosestLocationPage,
-        imgSource: "assets/imgs/closest_point.png"
       },
       {
         title: "ARHEO_TITLE",

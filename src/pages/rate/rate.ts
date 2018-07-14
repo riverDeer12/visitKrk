@@ -1,25 +1,30 @@
-import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the RatePage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import { Component } from "@angular/core";
+import { IonicPage, NavController, NavParams } from "ionic-angular";
+import { AppRate } from "@ionic-native/app-rate";
 
 @IonicPage()
 @Component({
-  selector: 'page-rate',
-  templateUrl: 'rate.html',
+  selector: "page-rate",
+  templateUrl: "rate.html"
 })
 export class RatePage {
+  constructor(
+    public navCtrl: NavController,
+    public navParams: NavParams,
+    public appRate: AppRate,
+  ) {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+    this.appRate.preferences = {
+      displayAppName: "Visit Krk",
+      usesUntilPrompt: 4,
+      promptAgainForEachNewVersion: true,
+      storeAppURL: {
+        ios:'',
+        android:''
+      }
+    }
+
+    this.appRate.promptForRating(true);
+
   }
-
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad RatePage');
-  }
-
 }

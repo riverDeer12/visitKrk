@@ -1,6 +1,8 @@
 import {Component} from '@angular/core';
 import {IonicPage, NavController, NavParams} from 'ionic-angular';
 import { InAppBrowser } from '@ionic-native/in-app-browser';
+import { LoadingController } from "ionic-angular";
+import { Geolocation } from "@ionic-native/geolocation";
 
 @IonicPage()
 @Component({
@@ -14,13 +16,35 @@ export class TourDetailsPage {
   public tourText;
   public tourImg;
   public locationCounter = 1;
+  public myLatitude;
+  public myLongitude;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, private iab: InAppBrowser) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, private iab: InAppBrowser, 
+    public geolocation: Geolocation, public loadingCtrl:LoadingController) {
     this.cardId = navParams.get("cardId");
     this.tourId = navParams.get("tourId");
     this.tourTitle = this.cardId + "_TITLE";
     this.tourText = this.cardId + "_TEXT";
     this.tourImg = "assets/imgs/" + this.cardId + "_1.jpg";
+
+    let loading1 = this.loadingCtrl.create({
+      content: "Getting your location..."
+    });
+
+    loading1.present();
+
+    this.geolocation.getCurrentPosition().then(resp => {
+      this.myLatitude = resp.coords.latitude;
+      this.myLongitude = resp.coords.longitude;
+      console.log(
+        "Users location-->" +
+          " " +
+          this.myLatitude +
+          " " +
+          this.myLongitude
+      );
+      loading1.dismiss();
+    })
   }
 
   show_tour(){

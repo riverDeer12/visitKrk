@@ -33,9 +33,7 @@ export class ClosestLocationPage {
 
     loading1.present();
 
-    this.geolocation
-      .getCurrentPosition()
-      .then(resp => {
+    this.geolocation.getCurrentPosition().then(resp => {
         this.myLatitude = resp.coords.latitude;
         this.myLongitude = resp.coords.longitude;
         console.log(

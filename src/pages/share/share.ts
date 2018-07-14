@@ -1,12 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the SharePage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import { SocialSharing } from '@ionic-native/social-sharing';
 
 @IonicPage()
 @Component({
@@ -14,12 +8,17 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
   templateUrl: 'share.html',
 })
 export class SharePage {
+  public bodyText;
+  public subjectText;
+  public recipientEmail;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
-  }
-
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad SharePage');
+  constructor(public navCtrl: NavController, public navParams: NavParams, public socialSharing: SocialSharing) {
+    this.socialSharing.share('Island of Krk Cultural Heritage', '', 'https://itunes.apple.com/us/app/candy-crush-saga/id553834731?mt=8').then(() => {
+      console.log("Shared successfully");
+    }).catch((error) => {
+      // Error!
+      console.log(error);
+    });
   }
 
 }
