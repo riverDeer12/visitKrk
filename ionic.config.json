@@ -1,15 +1,14 @@
 {
   "name": "visitKrk",
-  "app_id": "visitKrk",
-  "type": "ionic-angular",
   "integrations": {
     "cordova": {}
   },
+  "type": "ionic-angular",
   "proxies": [
     {
       "path": "/",
       "proxyUrl": "http://krk-api.herokuapp.com"
-    }  
-  ]
-  
+    }
+  ],
+  "id": "visitKrk"
 }

@@ -18,7 +18,6 @@ export class HomePage {
 
   switch_language() {
     this.translate.use(this.lang);
-    console.log(this.lang + "selected.");
   }
 
   goToMenuPage(){
