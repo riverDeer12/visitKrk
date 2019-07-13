@@ -2,29 +2,29 @@
     "WELCOME": "Willkomen",
     "NEXT": "Weiter",
     "BACK_BUTTON_TEXT": "Natrag",
-    "SHOW_ON_MAP_BUTTON": "Prikaži na karti!",
+    "SHOW_ON_MAP_BUTTON": "Auf der karte anzeigen!",
     "REFRESH_TEXT": "Osvježi svoju lokaciju!",
-    "TAKE_ME": "Odvedi me tamo!",
-    "SUBJECT": "Predmet",
-    "SEND_EMAIL": "Pošalji !",
+    "TAKE_ME": "Bring mich hin!",
+    "SUBJECT": "Thema",
+    "SEND_EMAIL": "Senden !",
     "TAKE_ME_TO":"Odvedi me na ",
     "COMMUNICATION": "Kontakt",
     "LOCATION": "lokaciju!",
     "WELCOME_TEXT": "Dobrodošli u službenu aplikaciju Kulturnog naslijeđa otoka Krka, za prikaz menija povucite sa lijeve na desnu stranu.",
-    "MENU_HEADER_TITLE": "Kulturno naslijeđe otoka Krka",
-    "TZKRK": "Turistička zajednica otoka Krka",
-    "KVARNERTZ": "Turistička zajednica Kvarnera",
-    "HTZ": "Hrvatska turistička zajednica",
-    "UNIRI": "Sveučilište u Rijeci",
-    "CIB": "Centar za industrijsku baštinu",
-    "CLIENT": "Naručitelj",
-    "PROJECT_MANAGERS": "Voditelji projekta",
-    "TEXTS": "Tekstovi",
-    "PROOFREADING_CORRECTION": "Lektura i korektura",
-    "TRANSLATION": "Prijevod",
-    "PHOTOGRAPHY": "Fotografski materijal",
-    "WEB_DESIGN": "Informatička podloga i dizajn",
-    "MOBILE_APP_DEVELOPMENT": "Mobilna aplikacija",
+    "MENU_HEADER_TITLE": "Das kulturelle Erbe der Insel Krk",
+    "TZKRK": "Die touristische Gemeinde der Insel Krk",
+    "KVARNERTZ": "Die touristische Gemeinde der Kvarner",
+    "HTZ": "Kroatische Tourismuszentrale",
+    "UNIRI": "Universität im Rijeka",
+    "CIB": "Das Zentrum des industriellen Erbes",
+    "CLIENT": "Auftraggeber",
+    "PROJECT_MANAGERS": "Projektleiter",
+    "TEXTS": "Texte",
+    "PROOFREADING_CORRECTION": "Lektorat und Korrekturlesen",
+    "TRANSLATION": "Übersetzung",
+    "PHOTOGRAPHY": "Fotomaterial",
+    "WEB_DESIGN": "Computervisualistik und Design",
+    "MOBILE_APP_DEVELOPMENT": "Mobile App-Entwicklung",
     "THE CHURCH OF ALL SAINTS IN SUŽAN": "Crkva svih svetih u Sužanu",
     "THE CHURCH OF ST GEORGE ON THE HILL NEAR KRAS": "Crkva Sv. Jurja na brdu kod Krasa",
     "OLD CHRISTIAN BASILICA IN MIRINE AND THE REMAINS OF THE THREE-APSE CHURCH IN THE COVE SEPEN": "Starokršćanska bazilika u Mirinama i ostaci troapsidalne crkve u uvali Sepen",
@@ -43,12 +43,12 @@
     "THE ISLE OF ST MARCO AND THE BYZANTINE FORTRESS": "Otočić Sv.Marko i Bizantska utvrda",
     "FORTIČINA": "Fortičina",
     "THE CASTLE, WALLS AND ARCHAEOLOGICAL REMAINS IN THE CAFÉ VOLSONIS": "Kaštel, bedemi i arheološki ostaci u kafiću Volsonis",
-    "GRADEC AND THE FRANKOPANS": "Gradec i Frankopani",
+    "GRADEC AND THE FRANKOPANS": "Gradec und Frankopan",
     "MONASTERIES ON THE SQUARE OF THE GLAGOLITIC MONKS": "Samostani na trgu Glagoljaša",
-    "FRANCISCAN MONASTERY – GLAVOTOK": "Franjevački samostan - Glavotok",
-    "FRANCISCAN MONASTERY – PORAT": "Franjevački samostan - Porat",
-    "MONASTERY AND THE CHURCH OF ST LUCIA": "Samostan i crkva Sv.Lucije",
-    "FRANCISCAN MONASTERY – KOŠLJUN": "Franjevački samostan - Košljun",
+    "FRANCISCAN MONASTERY – GLAVOTOK": "Franziskanerkloster - Glavotok",
+    "FRANCISCAN MONASTERY – PORAT": "Franziskanerkloster - Porat",
+    "MONASTERY AND THE CHURCH OF ST LUCIA": "Kloster und Kirche Hl.Lucija",
+    "FRANCISCAN MONASTERY – KOŠLJUN": "Franziskanerkloster - Košljun",
     "KRK": "Krk",
     "OMIŠALJ": "Omišalj",
     "MALINSKA-DUBAŠNICA": "Malinska-Dubašnica",
@@ -78,34 +78,11 @@
     "THE ISLAND OF KRK IN THE FIRST CENTURIES OF THE NEW AGE": "Otok Krk u prvim stoljećima nove ere",
     "HISTORY_TITLE": "Geschite der Insel Krk",
     "fortress": "Utvrda",
-    "archaeology-remains": "Arheološki ostatak",
+    "archaeology-remains": "Archäologische Stätte",
     "HISTORY_TEXT": [
-      "Dinamičnu povijest otoka Krka odredio je povoljan geografski položaj (sjecište trgovačkih putova), blaga klima, dovoljno obradive zemlje i",
-      "znatan broj uzvisina za utvrđivanje naselja. Njegovi najraniji tragovi sežu u prapovijest. Iako još uvijek sustavno neistraženi, ostaci ove",
-      "davne prošlosti pronađeni su na strateški pozicioniranim brežuljcima (oko crkve sv. Petra u Gabonjinu) i u špiljama otoka Krka.",
-      "Razdoblje rimske prevlasti ostavilo je mnoštvo tragova na otoku Krku, sačuvanih podno Omišlja na arheološkom lokalitetu Fulfinum, u uvali",
-      "Soline uokolo srednjovjekovne crkve na lokalitetu sv. Petar te unutar današnjih gradskih tkiva Baške i Krka. Najbolje sačuvani tragovi rimske",
-      "kulture nalaze se u ugostiteljskim prostorima Volsonis i Mate u gradu Krku. Kafić Volsonis inkorporiran je u rimske bedeme grada, a u kafiću",
-      "Mate nalazi se izvrsno očuvan rimski mozaik s prikazom mitskoga bića Tritona.",
-      "Najraniji tragovi kršćanstva na otoku potječu iz petog stoljeća, kada vjeru prihvaća Carstvo. Tada se uza sama središta kasnoantičke moći",
-      "grade važni sakralni objekti. Najraniji datirani i sačuvani objekti su starokršćanska bazilika u Mirinama sagrađena uz rimski grad Fulfinum,",
-      "ostaci nekadašnje starokršćanske crkve podno crkve sv. Marka u Baški te pronađeni tragovi vrlo rano datiranoga sakralnog zdanja u temeljima krčke katedrale.",
-      "Današnji otok Krk podijeljen je u sedam općina čiji su upravni centri veća mjesta: Omišalj, Malinska, Dobrinj, Vrbnik, Krk, Punat i Baška.",
-      "Približno ovakva podjela otoka, izostavivši Punat i Malinsku kao mjesta mlađa po postanku, čuva se još od srednjeg vijeka kada je otočnim kaštelima",
-      "pod budnim mletačkim okom upravljala kneževska obitelj Frankopan. Ova obitelj brinula se za održavanje mira na otoku, dobro uređene pravne odnose,",
-      "njegovanje tradicije u obliku hrvatskog jezika i pisma glagoljice te održavanje sakralnih zdanja potrebnih za obavljanje bogoslužja. Nedaleko od",
-      "mjesta Vrbnik sačuvan je stari frankopanski kaštel-utvrda nazvan Gradec, a u gradu Krku nalazi se velebni Frankopanski kaštel, reprezentativno",
-      "obrambeno zdanje  i sastavni dio gradskih bedema.",
-      "Nesiguran srednji vijek sugerirao je izgradnju mjesta na uzvisinama kako bi geografski položaj pružao mogućnost nadzora nad obradivim površinama i",
-      "zaštitu od mogućih napada. Gradski bedemi sačuvani su samo u Krku, u drugim su mjestima, primjerice u Dobrinju, tragovi bedema tek vidljivi unutar",
-      "debelih zidova kuća smještenih u vanjskom prstenu grada. Otočna su mjesta do danas sačuvala prepoznatljive elemente tradicijskoga graditeljstva u",
-      "malim kamenim kućama radijalno postavljenima na uskim ulicama oko glavnoga gradskog trga, a kao zaštitni znakovi svakog naselja ponosno strše zvonici",
-      "mjesnih crkvi (crkva sv. Stjepana – Dobrinj, crkva Uznesenja Blažene Djevice Marije – Vrbnik i crkva Uznesenja Marijina – Omišalj).",
-      "Ovim je projektom na jednome mjestu sažeto bogato višestoljetno kulturno nasljeđe otoka Krka od njegove rimske do novovjekovne povijesti. Obuhvaćen je",
-      "niz arheoloških lokaliteta, utvrda, starokršćanskih, srednjovjekovnih i novovjekovnih crkvenih zdanja i samostana te drugih reprezentativnih kulturnih",
-      "dobara krčkih otočnih mjesta."
+    "Die dynamische Geschichte der Insel Krk wurde durch ihre günstige geographische Lage (Schnittpunkt von Handelsrouten), mildes Klima, ausreichend fruchtbares Land und eine beträchtliche Anzahl von Anhöhen zur Begründung von Siedlungen bestimmt. Ihre frühesten Spuren reichen bis in die Vorgeschichte zurück. Obwohl noch systematisch unerforscht, wurden die Überreste dieser alten Vergangenheit in strategisch positionierten Hügeln (um <b>die Kirche des Hl. Petrus in Gabonjin</b>) und in den Höhlen der Insel Krk gefunden. Die römische Herrschaft hat viele Spuren auf der Insel Krk hinterlassen, die am Fuße von <b>Omišalj</b> an der archäologischen Stätte <b>Fulfinum</b>, in der Bucht Soline um die mittelalterliche Kirche an der archäologischen Stätte <b>Hl. Petrus</b> und in den heutigen Städten <b>Baška und Krk</b> gefunden wurden. Die am besten erhaltenen Spuren der römischen Kultur befinden sich in den gastwirtschaftlichen <b>Objekten Volsonis</b> und Mate in der Stadt Krk. Das Café Volsonis ist in die römischen Mauern der Stadt integriert und im Café Mate gibt es ein sehr gut erhaltenes <b>römisches Mosaik mit Darstellung des mythischen Tritons</b>.\n\nDie frühesten Spuren des Christentums auf der Insel stammen aus dem fünften Jahrhundert, als der Glaube vom Reich akzeptiert wurde. Zu dieser Zeit werden an den Zentren der Spätantike wichtige sakrale Objekte gebaut. Die ältesten und erhaltenen Gebäude waren <b>die altchristliche Basilika in Mirine</b>, die nahe der römischen Stadt Fulfinum erbaut wurde, die Ruinen der ehemaligen altchristlichen Kirche am Fuße <b>der Kirche des Hl. Markus in Baška</b> und Spuren eines sehr alten frühzeitlichen Sakralbaus, der in den Sockeln <b>der Kathedrale von Krk</b> gefunden wurde.\n\nDie heutige Insel Krk ist in sieben Gemeinden unterteilt, deren Verwaltungszentren größere Orte sind: <b>Omišalj, Malinska, Dobrinj, Vrbnik, Krk, Punat und Baška</b>. Ungefähr eine solche Aufteilung der Insel, ausgenommen von Punat und Malinska als jüngere Siedlungen, ist seit dem Mittelalter erhalten, als die fürstliche Familie Frankopan unter wachem Auge von Venedig die Kastelle der Insel verwaltete. Diese Familie sorgte um die Aufrechterhaltung des Friedens auf der Insel, um geregelte rechtliche Beziehungen, um die Pflege der Tradition der kroatischen Sprache und der glagolitischen Schrift und um die Erhaltung der sakralen Gebäude, die für die Durchführung des Gottesdienstes erforderlich sind. Nicht weit von Vrbnik wurde die alte Festung der Familie Frankopan namens <b>Gradec</b> erhalten. In der Stadt Krk gibt es ein prächtiges Frankopaner Kastell, ein repräsentatives Verteidigungsgebäude und ein wesentlicher Bestandteil der Stadtmauern.\n\nDas unsichere Mittelalter bedingte den Bau von Siedlungen auf Hügeln, da die geographische Position die Überwachung der bebaubaren Flächen und den Schutz vor möglichen Angriffen ermöglichte. Die Stadtmauer ist nur in Krk erhalten, an anderen Stellen, beispielsweise in Dobrinj, sind die Überreste der Stadtmauern nur innerhalb der dicken Häuserwände sichtbar, die sich im äußeren Ring der Stadt befinden. Die Inselorte haben heute erkennbare Elemente traditioneller Architektur wie kleine Steinhäuser, die radial in den engen Gassen rund um den Hauptplatz der Stadt gelegen sind. Als Markenzeichen jeder Siedlung erstreckt sich stolz der Glockenturm der örtlichen Kirchen (<b>Kirche des Hl. Stephan in Dobrinj, Mariä-Himmelfahrt-Kirche in Vrbnik und Mariä-Himmelfahrt-Kirche in Omišalj</b>).\n\nMit diesem Projekt wurde an einem Ort das reiche kulturelle Erbe der Insel Krk von der römischen bis zur modernen Geschichte zusammengefasst. Umfasst wurde eine Reihe von archäologischen Stätten, Festungen, frühchristlichen, mittelalterlichen und modernen Kirchengebäuden und Klöstern sowie anderen repräsentativen Kulturgütern der Inseln Krk."
     ],
-    "WELCOME_TITLE": "Dobrodošli!",
+    "WELCOME_TITLE": "Willkomen!",
     "ARHEO_TITLE": "Archäologische Stätten",
     "CLOSEST_LOCATION_TITLE": "Najbliža točka interesa",
     "CLOSEST_LOCATION": "Najbliža lokacija",
@@ -119,8 +96,8 @@
     "SHARE_TITLE": "Aktie",
     "RATE_TITLE": "Bewertung",
     "EMAIL_TITLE": "E-Mail senden",
-    "ABOUT_TITLE": "O nama",
-    "ALL_LOCATIONS_TITLE":"Sve lokacije",
+    "ABOUT_TITLE": "Info",
+    "ALL_LOCATIONS_TITLE":"Alle Standorte",
     "1_TITLE": "Allerheiligenkirche in Sužan",
     "1_TEXT": [
       "Die Allerheiligenkirche in Sužan datiert in das Jahr 1514 als sie unter der Schirmherrschaft der Bruderschaft der Allerheiligen aus Sužan erbaut wurde. Zu großen Veränderungen kam es im zweiten Jahrzehnt des 19. Jahrhunderts, als eine solche Form des freiwilligen treuen Gottesdienstes abgeschafft und die Kirche dem Volk überlassen wurde. Nach 1927 wurde kein Gottesdienst in der Kirche gehalten als die nahe gelegene Kirche der Muttergottes der Gesundheit errichtet wurde. Diese wurde dann zur Hauptdorfkirche in Sužan.  Obwohl die Kirche relativ jung ist, sind mehrere Bau- und Umbauphasen sichtbar. Die ursprüngliche Renaissancekirche war klein, dann wurde im Osten eine Apsis hinzugefügt und im Westen der Eingang (Atrium). Die Westfassade hat einen offenen Glockenturm mit drei Glocken und eine Steintreppe, die zum Dach führt. Neben der Kirche befand sich ein Friedhof, und östlich der Apsis befindet sich ein kleineres Gebäude, das wahrscheinlich ein Nebengebäude für Bestattungsarbeiten war. Obwohl sie heute verlassen ist und am Ende des Dorfes liegt, spricht diese Kirche malerisch über ihre fünfhundertjährige Vergangenheit und ist ein wahres Touristenjuwel."
@@ -163,12 +140,7 @@
     ],
     "11_TITLE": "Kirche des Hl. Markus",
     "11_TEXT": [
-      "Nedaleko od naselja Risika, na izbočenoj punti, nalaze se ostaci skromne ruševne crkve sv. Maraka (sv. Marka). Prema stilskim",
-      "obilježjima i načinu zidanja crkva pripada krugu romaničkih sakralnih zdanja i njezin se nastanak može datirati u 12./13. stoljeće.",
-      "Poput istodobnih sličnih građevina romaničkog razdoblja, određuje ju manje monovolumensko tijelo s apsidom izbočenom na istočnoj strani.",
-      "Zidovi zidani od pravilnih klesanaca sačuvani su skoro do krovišta, a kalota apside tek je djelomično sačuvana. Slučajni nalazi grobova oko crkvice",
-      "i u njezinoj neposrednoj blizini upućuju na to da je ovo područje bilo naseljeno još u rimsko doba. Prigodna uvala nesumnjivo je pružala pogodne",
-      "uvjete za nastanak gospodarske građevine. Čak se i danas u zidovima crkve vidi pokoji mramorni komad recikliran s kakva obližnjega luksuznijeg zdanja."
+      "Auf der Spitze eines Hügels, südlich von Vrbnik, befinden sich noch heute, in der Landschaft mit niedriger Vegetation und Büschen, die Überreste der alten Kirche des Hl. Maurus. Dieser Ort ist sehr wichtig für das Verständnis der Entstehung von Vrbnik, da sich nach den alten örtlichen Legenden gerade hier der Ursprung der uns heute bekannten Siedlung befindet. Die Spuren von Baustoffen antiker Produktion, die in unmittelbarer Nähe der Kirche im Trockenmauerwerk und Boden verstreut sind, weisen auf die Besiedlung dieses Gebiets selbst in den ersten Jahrhunderten unserer Zeit hin. Seit dem Mittelalter wird die Legende übertragen, dass die alte Adelsfamilie Frankopan an diesem Ort ihren Hof hatte. Ältere Autoren schließen nicht die Möglichkeit aus, dass die Kirche des. Hl. Maurus zugleich die erste Pfarrkirche aus der Zeit vor der Entstehung von Vrbnik an dem heutigen Ort ist, noch bevor der heutige Vrbnik angesiedelt und die Kirche der Hl. Maria gesegnet wurde.  Obwohl in den schriftlichen Quellen die Zeit der Gründung der Kirche nicht erwähnt wird, kann sie aufgrund der Bau- und architektonischen Elemente in die romanische Zeit bzw. in das 12./13. Jahrhundert gesetzt werden.  Architektonisch handelt es sich um ein kleineres, einschiffiges sakrales Gebäude mittlerer Ausdehnung mit einer halbkreisförmigen Apsis.  Die Wände wurden aus echtem, in regelmäßige Reihen angeordneten Schnittstein erbaut. Es gibt sichtbare Unterschiede in der Bauweise der Süd- und Nordwand der Kirche, die mit kleinerem Schnittstein erbaut wurde, was auf die Anpassung eines älteren, vielleicht antiken Gebäudes hindeutet."
     ],
     "12_TITLE": "Kirche des Hl. Georg",
     "12_TEXT": [
@@ -186,74 +158,21 @@
     "15_TEXT": [
         "In der arch. Stätte Mala Kras, nur wenige Kilometer südlich von Punat, befinden sich Reste der romanischen Kirche des Hl. Georg. Die Wände an der Westseite der Kirche sind die Überreste eines spätmodernen Gebäudes, das wie jenes Gebäude in Kanajt im 6. Jahrhundert in eine Kirche umgewandelt wurde. Die ursprüngliche Kirche war etwas größer als die jetzige – ihre Konturen sind in den Fundamenten der Apsis der romanischen Kirche zu sehen. Um die Kirche befanden sich Gräber, die an die erste Phase des Sakralbaus gebunden waren. In der vorrömischen Zeit wurde die Kirche neu ausgestattet. Heute sind nur noch die Überreste der Kirchen aus dem 12. und 13. Jahrhundert sichtbar. Von der Kirche aus dem 6. Jahrhundert sind nur ihre Fundamente erhalten."
     ],
-    "16_TITLE": "Župna crkva uznesenja Blažene djevice Marije",
+    "16_TITLE": "Pfarrkirche Maria himmelfahrt un glockenturm",
     "16_TEXT": [
-      "Današnja župna crkva Uznesenja Blažene Djevice Marije, smještena na topografski najvišem dijelu naselja,",
-      "jednobrodna je dvoranska građevina položena u smjeru sjever-jug, velike i prostrane pravokutne apside izbačene u prostor sa sjeverne strane.",
-      "S istočne strane apside nalazi se sakristija, a uza zapadni zid apside je kapela Blažene Djevice Marije od Porođenja sagrađena 1505. godine. ",
-      "Pročelje na južnoj strani oblikovano je u klasicističkoj maniri trima pravokutnim otvorima, portalom i parom bočno postavljenih prozora te dvjema ",
-      "nišama polukružno zaključenima i simetrično postavljenima u zidni plašt pročelja. Uz istočni zid crkvene dvorane nalaze se dvije kapele. ",
-      "Prva smještena bliže ulazu nosi titular Gospe od Ružarija i datirana je u 15. stoljeća, a druga je, danas zazidana, kapela Prikazanja Marijina,",
-      "tzv. Šegina kapela iz 1546. godine. Na glavnom oltaru crkve nalazi se raskošan pozlaćeni renesansni drveni oltar.",
-      "Centralno mjesto zauzima oltarna slika s prikazom Uznesenja Blažene Djevice Marije.",
-      "O počecima crkvenog ustrojstva i same župne crkve u Vrbniku nema do danas materijalnih ili pisanih izvora.",
-      "Prvi zapis o seoskom kaptolu i župniku potječe iz 1325., iz Statuta bratovštine sv. Ivana Krstitelja u Vrbniku.",
-      "U Statutu se spominje pop Damjan i vrbnička župna crkva sv. Marije.",
-      "Današnji izgled crkva je dobila kasnosrednjovjekovnim i ranonovovjekovnim pregradnjama,",
-      "no fizičkih dokaza o prvotnoj crkvi u Vrbniku još uvijek nema.",
-      "Opis apostolskog vizitatora Agostina Valiera iz 1579. dosad je najvažniji izvor o izgledu crkve prije",
-      "građevinskih zahvata s kraja 16. i početka 17. stoljeća, a Valier ju opisuje kao manju trobrodnu crkvu s puno oltara, premalu za puk.",
-      "Nedugo nakon Valierova opisa uslijedila je velika rekonstrukcija crkve kojom su poništeni postojeći elementi i crkva je",
-      "orijentirana u smjeru sjever-jug. Tom je rekonstrukcijom uništena i crkva sv. Ivana Evanđelista koju kanonska vizitacija 1565.",
-      "spominje kao zasebnu građevinu, odvojenu od župne crkve u funkciji krstionice.",
-      "Nedavnim arheološkim istraživanjem u manjem vrtu, uz pročelje crkve nađeni su ostaci starije građevine s polukružnim zidom,",
-      "možda apside starijega sakralnog zdanja koje prethodi današnjoj crkvi.",
-      "Zvonik, nezaobilazan motiv vrbničkoga pejzaža, nalazi se zapadno od crkve. Sagrađen je 1527., o čemu svjedoči glagoljski",
-      "natpis na njegovu ulazu. Imao je četiri zvona – tri velika i jedno manje."
+    "Die heutige Pfarrkirche Mariä Himmelfahrt, die sich auf der topographischen Spitze der Siedlung befindet, stellt eine einschiffige Hallenkirche dar, die in Nord-Süd-Richtung ausgerichtet ist. Sie hat eine große und geräumige rechteckige Apsis, die an der nördlichen Seite angebracht ist. An der Ostseite der Apsis befindet sich eine Sakristei und an der Westwand die im Jahr 1505 erbaute Kapelle Mariä Geburt. Die Fassade an der Südseite ist im klassizistischen Stil mit drei rechteckigen Öffnungen, einem Portal und zwei seitlichen Fenstern sowie zwei halbrunden Nischen gestaltet, die symmetrisch in die Wandummantelung der Fassade angeordnet sind. An der Ostwand des Kirchensaals befinden sich zwei Kapellen. Die erste ist näher am Eingang gelegen, sie trägt die ehrende Bezeichnung Gospa od Ružarija (z. Dt. Maria vom Rosenkranz) und stammt aus dem 15. Jahrhundert. Die zweite, heute zugemauert, ist die Kapelle Mariä Opferung, die so genannte Šegina-Kapelle aus dem Jahr 1546. Auf dem Hauptaltar der Kirche befindet sich ein prachtvoller vergoldeter Renaissance-Holzaltar. Den Mittelpunkt belegt das Altarbild, das die Himmelfahrt der Jungfrau Maria darstellt.  Über die Anfänge der kirchlichen Struktur und der Pfarrkirche in Vrbnik gibt es bis heute keine materiellen oder schriftlichen Quellen. Die erste Aufzeichnung über das Dorfkapitel und den Pfarrer stammt aus dem Jahr 1325 aus der Satzung der Bruderschaft des Hl. Johannes des Täufers in Vrbnik. In der Satzung werden Pfarrer Damjan und die Pfarrkirche der Hl. Maria in Vrbnik erwähnt.  Das heutige Erscheinungsbild verdankt die Kirche spätmittelalterlichen und frühneuzeitlichen Umbauten, aber physische Nachweise über die ursprüngliche Kirche in Vrbnik wurden bis heute noch nicht gefunden.  Die Beschreibung des apostolischen Visitators Agostino Valier aus dem Jahr 1579 stellt die bekannteste Quelle über das Erscheinungsbild der Kirche vor den Bauarbeiten im 16. und frühen 17. Jahrhundert dar. Valier beschreibt sie als kleinere dreischiffige Kirche mit vielen Altären, die zu klein ist für das Volk.  Kurz nach Valiers Beschreibung erfolgte eine große Rekonstruktion der Kirche, die die vorhandenen Elemente aufhob und die Kirche in Nord-Süd-Richtung ausrichtete. Diese Rekonstruktion zerstörte auch die Kirche des Hl. Johannes Evangelist, die die kanonische Visitation von 1565 als separates Gebäude erwähnt, die getrennt ist von der Pfarrkirche und die Funktion des Baptisteriums hat.  Bei den kürzlich durchgeführten archäologischen Untersuchungen im kleineren Garten entlang der Fassade der Kirche wurden Überreste eines älteren Gebäudes mit einer halbkreisförmigen Wand gefunden, vielleicht eine Apsis eines älteren sakralen Gebäudes, das der heutigen Kirche vorausgeht.  Der Glockenturm, das unverzichtbare Motiv der Landschaft von Vrbnik, liegt westlich der Kirche. Er wurde 1527 erbaut, worüber die glagolitische Inschrift am Eingang zeugt. Er hatte vier Glocken – drei große und eine kleinere."
     ],
-    "17_TITLE": "Crkva Sv.Filipa i Jakova",
+    "17_TITLE": "Kirche der Hl.Philip und Jakob",
     "17_TEXT": [
-      "Na skrovitome malom brežuljku poviše Solina nalazi se srednjovjekovna crkva sv. Filipa i Jakova. U izvorima se",
-      "spominje još u drugoj polovici 14. stoljeća. Za vrijeme francuske vladavine bila je desakralizirana, ali su je austrijske vlasti ",
-      "20-ih godina 19. stoljeća dale puku u Solinama da se o njoj brine. Tada je obnovljena i vraćena u bogoslužje. Riječ je o jednobrodnoj",
-      "crkvi s izbačenom apsidom prema jugu. Sagrađena je u ruralnom romaničkom stilu kakav nalazimo i drugdje na otoku Krku. Na ulaznom pročelju",
-      "nalazi se krovna preslica sa zvonom kojim se vjernike poziva na obred."
+      "Auf einem kleinen versteckten Hügel oberhalb von Solin befindet sich die mittelalterliche Kirche der Hl. Phillip und Jakob. In den Quellen wird sie noch in der zweiten Hälfte des 14. Jahrhunderts erwähnt. Während der französischen Herrschaft wurde sie entsakralisiert, aber die österreichische Regierung gab sie in den 1920er Jahren dem Volk in Solin zur Obhut. Dann wurde sie restauriert und der Gottesdienst wieder aufgenommen. Es ist eine einschiffige Kirche mit einer Apsis zum Süden. Sie wurde im ländlichen romanischen Stil erbaut, den wir auch sonst auf der Insel Krk finden. An der Fassade vor dem Eingang befindet sich ein offener Glockenturm, der die Gläubigen zum Gottesdienst einlädt."
     ],
-    "18_TITLE": "Crkva Sv.Vida",
+    "18_TITLE": "Kirche des Hl.Veit",
     "18_TEXT": [
-      "Crkva sv. Vida spada u najstarije dobrinjske crkve. Pretpostavlja se da je sagrađena 1100. godine.",
-      "Za njezina se graditelja navodi majstor Dragoslav. U njoj je djelovala bratovština sv. Vida, poslije spojena s bratovštinom sv. Stjepana",
-      "i drugim bratovštinama. Prema uredbi biskupa Hijacinta Pelegrina, u crkvi se prestala održavati misa 1790. godine.",
-      "Otad je prepuštena propadanju, do 1940. kada je obnovljena i vraćena u bogoslužje.",
-      "Riječ je o jednobrodnoj srednjovjekovnoj, točnije romaničkoj građevini s visokim kamenim zvonikom na ulaznome zapadnom pročelju.",
-      "Crkva ima uzdužni oblik i pravilne je orijentacije, s apsidom izbačenom na istoku. Na bočnom sjevernom i južnom zidu nalazi se po jedan",
-      "stilski jednostavan prozor s romaničkim polukružnim nadvratnikom.",
-      "Crkva je tijekom posljednje konzervacije obnovljena i dobila je novi krov pa je danas vrijedan spomenik romaničke arhitekture na otoku."
+      "Die Kirche des Hl. Veit gehört zu den ältesten Kirchen in Dobrinj. Es wird angenommen, dass sie im Jahr 1100 erbaut wurde. Als ihr Baumeister gilt Meister Dragoslav. In ihr wirkte die Bruderschaft des Hl. Veit, später verband sie sich mit der Bruderschaft des Hl. Stephan und anderen Bruderschaften. Auf Anordnung des Bischofs Hijacint Pelegrin wird seit 1790 kein Gottesdienst mehr in der Kirche gehalten. Seitdem ist die Kirche heruntergekommen. Im Jahr 1940 wurde sie restauriert und der Gottesdienst wieder aufgenommen.  Es handelt sich um ein einschiffiges mittelalterliches, genauer romanisches Gebäude mit einem hohen Kirchturm aus Stein am Eingang zur Westfassade. Die Kirche hat eine längliche Form und ordentliche Ausrichtung sowie eine Apsis im Osten. An der seitlichen Nord- und Südwand befindet sich ein stilvoll schlichtes Fenster mit einem romanischen halbrunden Fenstersturz.  Während der letzten Konservierung wurde die Kirche umgebaut und erhielt ein neues Dach. Heute ist sie ein wertvolles Monument der romanischen Architektur auf der Insel."
     ],
-    "19_TITLE": "Katedrala Sv.Kvirin i Zvonik",
+    "19_TITLE": "Kathedrale Hl.Quirinus und glockenturm",
     "19_TEXT": [
-      "Krčka katedrala nosi titular Blažene Djevice Marije, a prema pronađenom natpisu o izgradnji, crkva je vjerojatno postojala još u drugoj",
-      "polovici 5. i početkom 6. stoljeća pa se njezin titular vezuje uz Efeški koncil (431.) i veliko slavlje prigodom priznanja Marije kao Majke Božje.",
-      "Do danas je ostalo sačuvano romaničko zdanje iznimno bogata inventara, s malim nadogradnjama iz kasnijeg razdoblja, gotičkih, renesansnih i baroknih",
-      "stilskih obilježja.",
-      "Nalazi arheoloških istraživanja dokazuju postojanje prvotnoga antičkog sloja na mjestu današnje katedrale, predstavljenog termama iz 1. stoljeća.",
-      "U romanici su na cijelome katedralnom kompleksu izvedene značajne preinake. Natpis u katedrali spominje rekonstrukciju kolonada (columnarum opus)",
-      "u 12. stoljeću, koju je proveo neimenovani krčki biskup (spomenut inicijalom D), no najvjerojatnije se to dogodilo u vrijeme biskupa ",
-      "Dabra (Dobro – Bonus) oko 1179. godine.",
-      "Dio katedralnog kompleksa danas je crkva sv. Kvirina, lijep primjer romaničke sakralne arhitekture. Prvi podatak o njoj datira iz 1335.",
-      "kada su Krčani dali najamninu otoka Plavnika „za popravak crkve sv. Kvirina u Krku“. Pretpostavlja se da je sagrađena u 12. stoljeću.",
-      "Posebnost je crkve u njezinoj dvoetažnosti i geografskoj orijentaciji budući da joj je apsida, posve netipično, usmjerena prema jugu,",
-      "vjerojatno zbog skučenog prostora na kojem je sagrađena. Gornja crkva posvećena je sv. Kvirinu, zaštitiniku grada Krka, a donja sv. Margareti,",
-      "mučenici iz Antiohije. Ove romaničke crkve građene su od bijeloga domaćeg kamena. Izgledu crkve pridonosi troapsidalan završetak s istaknutim",
-      "ukrasom slijepih romaničkih arkada na vrhu te bordurom od brušenoga crvenkastog domaćeg kamena (mandorlat) u sredini.",
-      "Pretpostavlja se da je gornja crkva (Sv. Kvirin) zapravo bila matronej katedrale odakle su žene sudjelovale u misi koja se održavala u katedrali.",
-      "Postoji i mogućnost da je Sv. Kvirin imao funkciju palatinske kapele krčkog biskupa ili pak zapadnoga zdanja (galerija, westwerk) odakle su",
-      "Krčki knezovi pratili misu.",
-      "Zvonik krčke katedrale nalazi se na sjevernom pročelju Sv. Kvirina. Mjesto njegove izgradnje odredio je mletački providur Vinciguerra 1489.,",
-      "a gradnja je dovršena 1515. godine. U zvonik je 1714. udario grom, glavna se zaglavna kamena piramida raspuknula i srušila.",
-      "Šezdesetih godina 18. stoljeća, prema nacrtima mletačkog arhitekta Petra Checchija, provedena je temeljita restauracija.",
-      "Na zvonik je tada postavljen drveni anđeo obložen bakrenim limom, koji je izrađen u Mlecima. Od 1973. na vrhu zvonika nalazi se plastični anđeo",
-      "izrađen prema kalupu već dotrajaloga starog anđela."
+    "Die Kathedrale in Krk trägt den Titel der Heiligen Jungfrau Maria. Gemäß der Überschrift über den Bau, bestand sie wahrscheinlich noch in der zweiten Hälfte des 5. und Anfang des 6. Jahrhunderts, so dass ihr Titel mit dem Konzil von Ephesos (431) und der großen Feier anlässlich der Anerkennung Marias als Gottesmutter zusammenhängt. Bis heute ist das romanische Gebäude mit einem außergewöhnlich reichhaltigen Inventar mit späteren geringfügigen Umbauten aus der Gotik, Renaissance und dem Barock erhalten.  Die Ergebnisse archäologischer Untersuchungen belegen die Existenz der ursprünglichen antiken Schicht an der Stelle der heutigen Kathedrale, wahrscheinlich Thermen aus dem 1. Jahrhundert. In der Romanik wurden am ganzen Komplex bedeutende Änderungen vorgenommen. Die Inschrift in der Kathedrale erwähnt die Rekonstruktion der Kolonnade (columnarum opus) im 12. Jahrhundert, getragen von einem namenlosen Bischof von Krk (mit dem Initial D), aber höchstwahrscheinlich geschah dies zur Zeit des Bischofs Dabro (Dobro-Bonus) um 1179.  Ein Teil des Domkomplexes ist heute die Kirche des Hl. Quirinus, ein wunderschönes Beispiel romanischer Sakralarchitektur. Erste Daten über die Kirche stammen aus dem Jahr 1335, als die Einwohner von Krk die Miete der Insel Plavnik „für die Reparatur der Kirche des Hl. Quirinus in Krk gaben“. Es wird angenommen, dass sie im 12. Jahrhundert erbaut wurde. Die Besonderheit der Kirche liegt in den zwei Stockwerken und ihrer geographischen Ausrichtung da ihre Apsis, ganz und gar untypisch, nach Süden gerichtet ist, wahrscheinlich aufgrund des begrenzten Raums, auf dem sie errichtet wurde. Die obere Kirche ist dem Hl. Quirinus gewidmet, dem Patron der Stadt Krk, die untere Kirche der Hl. Margareta, Märtyrerin aus Antiochien. Diese romanischen Kirchen wurden aus lokalem weißem Stein gebaut. Zum Erscheinungsbild der Kirche trägt der dreidimensionale Abschluss mit blinden romanischen Arkaden an der Spitze und einer Bordüre aus geschliffenem, rötlichem, lokalem Stein (mandorlat) in der Mitte bei. Es wird angenommen, dass die obere Kirche (Hl. Quirinus) eigentlich eine Empore der Kathedrale war, von der aus Frauen an der Messe in der Kathedrale teilnahmen. Es besteht auch die Möglichkeit, dass Hl. Quirinus die Funktion der Palatinkapelle des Bischofs von Krk oder die Funktion des westlichen Gebäudes (Galerie, Westwerk) hatte, von wo aus die Fürsten von Krk der Messe folgten.  Der Glockenturm der Kathedrale befindet sich an der Nordfassade des Hl. Quirinus. Der Bauort wurde 1489 vom venezianischen Provveditore Vinciguerra bestimmt und 1515 wurde sie fertiggestellt. Im Jahr 1714 wurde der Glockenturm vom Blitz getroffen, die Hauptpyramide zersprang und brach zusammen. In den sechziger Jahren des 18. Jahrhunderts wurde nach den Plänen des venezianischen Architekten Petar Checchi eine gründliche Restaurierung durchgeführt. Am Glockenturm wurde ein hölzerner Engel platziert, der mit Kupferblech bedeckt war und in Venedig hergestellt wurde. Auf dem Glockenturm steht seit 1973 ein Plastikengel, der nach Modell des schäbigen alten Engels gebaut wurde."
     ],
     "20_TITLE": "Crkva Sv.Klementa u Klimnu",
     "20_TEXT": [
@@ -265,87 +184,37 @@
       "U crkvi se nalazi drveni renesansni poliptih iz 16. stoljeća s prikazom Bogorodice s djetetom i svecima. Na predeli je prikazana scena",
       "Poklonstvo pastira. Riječ je o renesansnom radu izrazitih umjetničkih vrijednosti. Drveni oltarni poliptih zaštićeno je kulturno dobro Republike Hrvatske."
     ],
-    "21_TITLE": "Crkva Sv.Petra u Gabonjinu",
+    "21_TITLE": "Kirche des Hl.Petrus in Gabonjin",
     "21_TEXT": [
-      "Crkva sv. Petra na vrhu uzvisine kod Gabonjina izvorno je bila srednjovjekovna crkva i datira se u 13./14. stoljeće. Već u 15. stoljeću",
-      "mletački providur Antun Vinciguerra navodi da je crkva razrušena i da će ju predati dobrinjskom kaptolu da se o njoj brine. Krajem 19. stoljeća",
-      "Gabonjani su crkvu obnovili, proširili i blagoslovili.",
-      "Crkva tipološki pripada krugu dobrinjskih sakralnih građevina sagrađenih na prijelazu iz 19. u 20. stoljeće. To je monumentalna uzdužna",
-      "građevina s četvrtastom apsidom na istoku. Zapadno pročelje ima preslicu i niz kamenih stepenica koje vode do krovišta.",
-      "Crkva je izrađena na mjestu prapovijesne građevine, a prostor oko nje danas je arheološka zona. Ono što ju čini monumentalnom svakako",
-      "je geografski položaj, odnosno uzvisina na kojoj se nalazi. Iako je u selu Gabonjin nedavno sagrađena i nova crkva, crkva sv. Petra na",
-      "brdu i dalje je najreprezentativnije sakralno zdanje na ovom prostoru."
+      "Die Kirche des Hl. Petrus auf der Bergspitze oberhalb von Gabonjin war ursprünglich eine mittelalterliche Kirche aus dem 13./14. Jahrhundert. Der venezianische Provveditore Antun Vinciguerra führt bereits im 15. Jahrhundert an, dass die Kirche zerstört wurde und dass sie dem Kapitel von Dobrinj zur Obhut übergeben wird. Ende des 19. Jahrhunderts haben die Einwohner von Gabonjin sie erneuert, erweitert und geweiht.  Die Kirche gehört typologisch zum Kreis der Sakralbauten von Dobrinj, die an der Wende vom 19. zum 20. Jahrhundert errichtet wurden. Es ist ein monumentales Längsgebäude mit einer quadratischen Apsis im Osten. Die Westfassade hat einen offenen Glockenturm und eine Steintreppe, die zum Dach führt.  Die Kirche wurde an der Stelle eines prähistorischen Gebäudes errichtet und ihre Umgebung ist jetzt eine archäologische Zone. Was sie monumental macht, ist sicherlich die geographische Position oder die Höhe, auf der sie sich befindet. Obwohl kürzlich eine neue Kirche im Dorf Gabonjin errichtet wurde, ist die Kirche des Hl. Petrus auf dem Hügel immer noch das repräsentativste Sakralgebäude in dieser Gegend."
     ],
-    "22_TITLE": "Crkva Sv.Mihovila (Majke Božje od Zdravlja",
+    "22_TITLE": "Kirche des Hl.Michael (Muttergottes der gesundheit)",
     "22_TEXT": [
-      "Crkva Majke Božje od Zdravlja sve do sredine 19. stoljeća bila je posvećena sv. Mihovilu i nekoć je pripadala istoimenom samostanu benediktinaca.",
-      "Prvi dokument u kojem se spominje samostan oporuka je udovice Spreze de Dominiko iz 1271., kojom ostavlja neko zemljište samostanu sv. Mihovila u Krku.",
-      "Nastanak crkve smješta se u rani srednji vijek.",
-      "Do danas je ostala sačuvana trobrodna bazilika sagrađena u romaničkom stilu. Orijentirana je u smjeru istok-zapad, a izvorno je imala tri polukružne",
-      "apside na istočnom završetku, od kojih je sačuvana samo središnja s oltarom posvećenim Majci Božjoj. Sve do sredine 19. stoljeća glavni",
-      "je oltar bio posvećen sv. Mihovilu, a promjena titulara izazvana je haranjem kolere kako bi Majka Božja pružila zaštitu. Na zapadnom pročelju nalazi",
-      "se dvokatni zvonik s piramidalnim završetkom, koji je integralni dio crkve. U samostanu su redovnici živjeli do polovice 15. stoljeća,",
-      "poslije dolaze sekularni opati, mletački svećenici. Godine 1616. sekularni opat samostana Negri piše duždu da su zgrade samostana pretvorene u",
-      "ruševine jer su s krovova skinuti crijepovi koji su poslužili za pokrivanje vojničkih nastambi. Negri moli da se zgrade poprave i ističe da je",
-      "taj materijal uzet u korist Republike.",
-      "Iako su do danas ostale sačuvane samo crkva i priča o benediktinskom samostanskom kompleksu, spomenuti ostaci puno govore o krčkoj redovničkoj tradiciji."
+      "Die Kirche der Muttergottes der Gesundheit war bis Mitte des 19. Jahrhunderts dem Hl. Michael gewidmet und gehörte einst zum gleichnamigen Benediktinerkloster. Das erste Dokument, in dem das Kloster erwähnt wurde, ist das Testament der Witwe Spreze de Dominiko aus dem Jahr 1271, durch das sie dem Kloster des Hl. Michael in Krk ein Grundstück hinterließ. Die Entstehung der Kirche wird in das frühe Mittelalter gesetzt. Bis heute wurde die dreischiffige Basilika, die im romanischen Stil erbaut wurde, erhalten. Sie ist nach Osten und Westen ausgerichtet und hatte ursprünglich drei halbrunde Apsiden am östlichen Ende, von denen nur die mittlere mit dem der Muttergottes gewidmeten Altar erhalten blieb. Bis zur Mitte des 19. Jahrhunderts war der Hauptaltar dem Hl. Michael gewidmet. Die Titeländerung wurde durch einen Choleraausbruch ausgelöst, damit die Mutter Gottes Schutz schenkt. Auf der Westseite befindet sich ein zweigeschossiger Glockenturm mit pyramidenförmigem Abschluss, der ein integraler Bestandteil der Kirche ist. Im Kloster lebten die Mönche bis Mitte des 15. Jahrhunderts, später kamen die weltlichen Mönche, venezianische Priester, an. Im Jahr 1616 schrieb der weltliche Mönch des Klosters Negri dem Dogen, dass die Klostergebäude in Ruinen umgewandelt wurden, weil die Ziegeldächer, die die militärischen Standorte bedeckten, von den Dächern entfernt wurden. Negri ersucht, dass die Gebäude repariert werden und er betont, dass dieses Material zu Gunsten der Republik genommen wurde. Obwohl nur die Kirche und die Geschichte des Benediktinerklosters übriggeblieben sind, sprechen diese Überbleibsel viel von der Klostertradition von Krk."
     ],
-    "23_TITLE": "Ostaci crkve Sv.Apilinara i nova župna crkva Sv.Apolinara",
+    "23_TITLE": "Uberreste der Kirche des Hl.Apollinaris und neue Pfarrkirche des Hl.Apollinaris",
     "23_TEXT": [
-      "Stara župna crkva sv. Apolinara nalazila se nedaleko od sela Bogovići gdje se i danas nalazi staro groblje i zvonik. Prema podacima iz",
-      "vizitacijskih knjiga postojala je još u 12. stoljeću, da bi u 15. stoljeću postala župna crkva, kada je obnovljena i povećana.",
-      "Imala je glavni i još šest bočnih oltara te svu liturgijsku opremu. Iako je u biskupskim vizitacijama dobivala sve pohvale, sredinom 19. stoljeća",
-      "na mjestu kapele Majke Božje Karmelske u Bogovićima sagrađena je nova župna crkva sa zvonikom, koja je također nosila titular sv. Apolinara.",
-      "U novu crkvu prenesen je glavni oltar iz bivše župne crkve i mramorni oltar Majke Božje Karmelske iz nekadašnje kapelice.",
-      "Starokršćanski mučenik sv. Apolinar proglašen je nebeskim zaštitnikom Općine Malinska-Dubašnica."
+      "Die Alte Pfarrkirche des Hl. Apollinaris befand sich unweit des Dorfes Bogovići, wo sich noch ein alter Friedhof und ein Glockenturm befinden. Den Angaben aus den Besuchsbüchern nach bestand sie noch im 12. Jahrhundert und im 15. Jahrhundert wurde sie nach ihrer Restaurierung und Erweiterung zur Pfarrkirche. Sie hatte einen Haupt- und sechs Seitenaltäre und die gesamte liturgische Ausstattung. Obwohl sie bei den Besuchen des Bischofs alles Lob erhielt, wurde Mitte des 19. Jahrhunderts an der Stelle der Kapelle der Muttergottes von Karmel in Bogovići eine neue Pfarrkirche mit Glockenturm errichtet, die ebenfalls den Titel Hl. Apollinaris trug. In die neue Kirche wurden der Hauptaltar der ehemaligen Pfarrkirche und der Marmoraltar der Muttergottes von Karmel aus der ehemaligen Kapelle übertragen.  Der altchristliche Märtyrer Hl. Apollinaris wurde zum himmlischen Schutzpatron der Gemeinde Malinska-Dubašnica gekürt."
     ],
-    "24_TITLE": "Arheološki ostaci ispod kapele Sv.Marka",
+    "24_TITLE": "Archaologische uberreste unter der kapelle des Hl.Markus",
     "24_TEXT": [
-      "U Baški, gotovo u središtu naselja, stoji skromna crkvica podno koje se nalaze ostaci jedne od najveličanstvenijih starokršćanskih crkava ne",
-      "samo na otoku Krku nego i u Hrvatskoj i na Jadranu. Na ovom se mjestu prije tisuću pet stotina godina nalazila dojmljiva dvojna starokršćanska",
-      "bazilika s krstionicom. Podnica cijeloga sakralnog kompleksa bila je ukrašena grandioznim mozaikom. Ovaj mozaički pod, od kojega je istražen tek",
-      "manji dio, stoji rame uz rame s najvećim crkvama kršćanskoga svijeta poput Aquileie, Ravenne, Salone.",
-      "Sjeverna je bazilika bila veća od južne i poput velike sačuvane bazilike u Mirinama kraj Omišlja, u svoj je tlocrt prenijela ideju kršćanske",
-      "vjere – križ. Križ je postao glavni motiv i u oblikovanju krstionice (baptisterija) i krsnog zdenca (piscine) te stoji kao unikum u sakralnoj",
-      "arhitekturi ranokršćanskog svijeta."
+     "In Baška, fast im Zentrum des Ortes, befindet sich eine bescheidene Kirche, an deren Fuß die Überreste einer der schönsten frühchristlichen Kirchen nicht nur auf der Insel Krk, sondern auch in Kroatien und der Adria liegen. An diesem Ort befand sich vor 1500 Jahren eine beeindruckende altchristliche Doppelbasilika mit Baptisterium. Der gesamte Boden des Sakralkomplexes war mit einem großartigen Mosaik geschmückt. Dieser Mosaikfußboden, von dem nur ein kleiner Teil erforscht wurde, hält auch den größten Kirchen der christlichen Welt wie Aquileia, Ravenna, Salona stand.  Die nördliche Basilika war größer als die südliche und sie übernahm in ihrem Grundriss, wie die große erhaltene Basilika in Mirine in der Nähe von Omišalj, im Erdgeschoss die Idee des christlichen Glaubens – das Kreuz. Das Kreuz wurde zum Hauptmotiv bei der Gestaltung der Taufkapelle (Baptisterium) und des Taufbrunnens (piscina) und stellt eine Rarität in der Sakralarchitektur der frühchristlichen Welt dar."
     ],
-    "25_TITLE": "Crkva Sv.Krševana u Milohnićima",
+    "25_TITLE": "Kirche des Hl.Chrysogonus in Milohnići",
     "25_TEXT": [
-      "Nedaleko od sela Milohnići nalazi se pravi dragulj crkvene arhitekture na otoku Krku. Kamena crkva sakrivena je u gustoj šumi i",
-      "dostupna pogledu posjetitelja tek kada stignu na šljunčani seoski put. Sagrađena je u 12. stoljeću u romaničkom stilu centralne",
-      "građevine s troapsidalnim (trolisnim) završetkom. Opasuju je debeli zidovi gotovo fortifikacijske namjene, s tek naznačenim malim",
-      "prozorskim otvorima križna oblika. Pripadala je benediktinskom samostanu sv. Mihovila u Krku, a izvori spominju da se prestala koristiti",
-      "već u drugoj polovici 16. stoljeća. Arheološkim istraživanjem ustanovljeno je da je crkva nastala na kasnoantičkom zdanju, najvjerojatnije gospodarskome."
+      "Nicht weit vom Dorf Milohnići entfernt befindet sich ein wahres Juwel kirchlicher Architektur der Insel Krk. Die Steinkirche ist in dichten Wäldern versteckt und nur für Besucher zugänglich, die die ländliche Kieselstraße nehmen. Sie wurde im 12. Jahrhundert im romanischen Stil des zentralen Gebäudes mit einem Abschluss mit drei Apsiden (Triptysian) erbaut. Die dicken Mauern sind fast wie Festungen geschmiedet, nur die kleinen Fensteröffnungen sind kreuzförmig. Sie gehörte zum Benediktinerkloster des Hl. Michael in Krk und Quellen besagen, dass sie seit der zweiten Hälfte des 16. Jahrhunderts nicht mehr verwendet wurde. Archäologische Untersuchungen haben ergeben, dass die Kirche auf einem spätantiken, höchstwahrscheinlich Wirtschaftsgebäude errichtet wurde."
     ],
-    "26_TITLE": "Svetište Majke Božje Goričke",
+    "26_TITLE": "Heiligtum der muttergottes von Goričica",
     "26_TEXT": [
-      "Ova je crkva već dugo vremena, čak od 16. stoljeća, mjesto hodočašća ne samo mještana Baške već i cijelog otoka. Uz crkvu se vezuje legenda",
-      "prema kojoj se prvotna crkva sv. Marije iz 11. stoljeća nalazila na mjestu Goričica u Bašćanskom polju, pokraj mjesta Batomalj. Zbog",
-      "gusarskih pljačkaških pohoda anđeli su Bogorodičin kip odnijeli iz crkve na vrh brežuljka zvanog Grad gdje je u 15. stoljeću sagrađena nova",
-      "crkva Majke Božje Goričke. Crkva kakvu danas vidimo obnovljena je 1902., a nekoliko desetljeća prije sagrađene su zavjetne stube, njih 237,",
-      "koje vode prema njoj."
+      "Diese Kirche ist seit dem 16. Jahrhundert ein Wallfahrtsort nicht nur für die Einwohner von Baška, sondern der gesamten Insel. Die Kirche ist mit einer Legende über die ursprüngliche Kirche der Hl. Maria aus dem 11. Jahrhundert in Goričica in Bašćansko polje, in der Nähe von Batomalj, verbunden. Wegen Raubüberfällen von Piraten brachten die Engel die Statue der Muttergottes von der Kirche zur Spitze eines Hügels, an welchem Ort im 15. Jh. die neue Kirche der Muttergottes von Goričica gebaut wurde. Die Kirche, die wir heute sehen, wurde 1902 restauriert und vor einigen Jahrzehnten wurden die Wallfahrtsstufen, insgesamt 237, die zu ihr führen, errichtet."
     ],
-    "27_TITLE": "Župna crkva Presvete Trojice u Baški",
+    "27_TITLE": "Pfarrkirche der Hl.Dreifaltigkeit in Baška",
     "27_TEXT": [
-      "Izgradnju župne crkve Presvete Trojice u Baški uvjetovalo je spuštanje Bašćana prema moru pa je dotadašnja župna crkva sv. Ivana bila",
-      "predaleko za svakodnevno bogoslužje. Podizanje nove crkve započelo je 1724., a crkva je posvećena 1740. godine.",
-      "Riječ je o baroknoj trobrodnoj građevini sa zvonikom visokim dvadeset osam metara, sagrađenim 1766. godine. Znatni građevinski zahvati",
-      "na crkvi izvedeni su u 20. stoljeću kada je u eklektičnom stilu oblikovano ulazno pročelje. U unutrašnjosti crkve ističu se bogato ukrašeni oltari.",
-      "Glavni oltar krasi likovni rad mjesnog majstora iz 18. stoljeća Frana Jurića. Na slici je svečano prikazano Presveto Trojstvo i krunidba Bogorodice.",
-      "Radovi ovog umjetnika mogu se pogledati i na otoku Košljunu. Jedan je od radova i Posljednja večera, dugo vremena pripisivana venecijanskom",
-      "majstoru Palmi Mlađem. Ipak je sigurnije tvrditi da je ta slika kasnorenesansni rad majstora iz Palmina kruga."
+      "Den Bau der Pfarrkirche der Hl. Dreifaltigkeit in Baška hat der Abstieg der Einwohner von Baška zum Meer bedingt, weshalb die bisherige Pfarrkirche des Hl. Johannes nun zu weit für die tägliche Anbetung war. Der Bau der neuen Kirche begann 1724, geweiht wurde sie 1740. Sie stellt ein barockes dreischiffiges Gebäude mit einem 28 Meter hohen Glockenturm aus dem Jahr 1766 dar. Wesentliche Baueingriffe an der Kirche erfolgten im 20. Jahrhundert, als die Eingangsfassade im eklektischen Stil geformt wurde. Im Inneren der Kirche heben sich die reich verzierten Altäre hervor. Der Hauptaltar ist das künstlerische Werk des einheimischen Meisters aus dem 18. Jahrhundert, Fran Jurić. Das Bild zeigt feierlich die Heilige Dreifaltigkeit und die Krönung Marias. Die Werke dieses Künstlers sind auch auf der Insel Košljun zu sehen. Eines der Werke, Letztes Abendmahl, wurde lange Zeit dem venezianischen Meister Palma dem Jüngeren zugeschrieben. Dennoch es ist sicherer, zu behaupten, dass dieses Bild das Werk der Meister des Kreises um Palmas ist und aus der späten Renaissance stammt."
     ],
-    "28_TITLE": "Samostan i crkva Sv.Lucije",
+    "28_TITLE": "Kloster und kirche der Hl.Lucia",
     "28_TEXT": [
-      "U Jurandvoru, manjem naselju sjeverno od Baške, nalazi se crkva sv. Lucije. Crkva je nastala u razvijenome srednjem vijeku, u doba romanike,",
-      "kao jednobrodna građevina istaknute polukružne apside, sa zvonikom na pročelju.  Zidovi uokolo crkve ostaci su benediktinskog samostana",
-      "u čijem je sklopu bilo i ovo sakralno zdanje. Arheološkim istraživanjem ustanovljeno je da su samostan i crkva nastali na starijoj antičkoj",
-      "gospodarskoj građevini. Nalaz po kojem je crkva sv. Lucije postala naširoko poznata nalazi se unutar zdanja.",
-      "Na ploči oltarne pregrade natpis je poznat kao Bašćanska ploča. Ova kamena ploča jedan je od najstarijih spomenika hrvatske povijesti.",
-      "U trinaest redaka na starohrvatskom se jeziku spominje riječ „hrvatski“ i ime kralja Zvonimira, a datirana je u 1100. godinu. Pismo kojim je",
-      "napisan tekst na ploči u potpunosti se razlikuje od latinice i naziva se glagoljica. Uz latinicu, glagoljica se upotrebljavala do 19. stoljeća.",
-      "Izvorna je ploča 1934. preseljena u Zagreb i nalazi se u auli Hrvatske akademije znanosti i umjetnosti. Danas je glagoljica postala jedan od",
-      "zaštitnih znakova Baške, a tomu svjedoče i velike skulpture u formi glagoljskih slova postavljene uz cestu na putu prema Baški."
+      "In Jurandvor, einem kleinen Dorf nördlich von Baška, befindet sich die Kirche der Hl. Lucia. Die Kirche wurde im entwickelten Mittelalter zur Zeit der Romanik als einschiffiges Bauwerk mit einer halbrunden Apsis und einem Glockenturm an der vorderen Fassade erbaut. Die Mauern um die Kirche stellen die Überreste des Benediktinerklosters dar, zu dem auch dieses Sakralgebäude gehörte. Archäologische Untersuchungen haben ergeben, dass das Kloster und die Kirche auf einem älteren antiken landwirtschaftlichen Gebäude errichtet wurden. Der Fund, für welchen die Kirche der Hl. Lucia weit und breit bekannte wurde, befindet sich innerhalb des Gebäudes.  Die Altarschranke ist bekannt als die Tafel von Baška. Diese Steinplatte ist eines der ältesten Denkmäler der kroatischen Geschichte. In dreizehn Reihen wird in altkroatischer Sprache das Wort „Kroatisch“ und der Name von König Zvonimir erwähnt. Sie stammt aus dem Jahr 1100. Die Schrift, mit der der Text auf der Tafel geschrieben wurde, unterscheidet sich von der latinischen Schrift und wird Glagoliza genannt. Neben der latinischen Schrift wurde Glagoliza bis ins 19. Jahrhundert verwendet. Die ursprüngliche Tafel wurde 1934 nach Zagreb verlegt und befindet sich im Saal der Kroatischen Akademie der Wissenschaften und Künste. Heute ist Glagoliza zu einem der Markenzeichen von Baška geworden, was durch große Skulpturen in Form glagolitischer Buchstaben entlang der Straße auf dem Weg nach Baška belegt wird."
     ],
     "29_TITLE": "Župna crkva Sv.Stjepana i zvonik",
     "29_TEXT": [
@@ -362,164 +231,53 @@
       "i drugih bratovština, zvonik je znatno stradao u Drugome svjetskom ratu, 1944., kada je uništen do razine prvoga kata. Vrlo brzo, na mjestu",
       "porušenog zvonika krenulo se u izgradnju novoga istih stilskih obilježja"
     ],
-    "30_TITLE": "Crkva Sv.Ivana Krstitelja i Kapari",
+    "30_TITLE": "Kirche des Hl.Johannes des Taufers und Kapari",
     "30_TEXT": [
-      "Na putu koji vodi prema vrbničkoj luci (Namori) nalazi se crkva sv. Ivana Krstitelja, zaštitnika Vrbnika. Crkvu je u 14. stoljeću dao",
-      "izgraditi pop Damjan, vjerojatno 1323. godine. Današnji njezin izgled nije originalan. Prema glagoljskom natpisu uzidanom u istočni zid,",
-      "crkva je produžena prema istoku izgradnjom nove apside 1611. godine. Uz crkvu se sa sjeverne strane nalazilo staro gradsko groblje koje je",
-      "bilo u uporabi do 1956., nakon čega je preseljeno na današnju lokaciju, izvan grada. Vrbnički svećenici ukapali su se na posebnome mjestu,",
-      "u crkvenoj lođi sa zapadne strane. Uz crkvu je povezana poznata bratovština – kapari.",
-      "Na otoku Krku djelovalo je u povijesti mnoštvo bratovština, dobrovoljnih udruženja vjernika laika, isključivo odraslih muškaraca usko povezanih",
-      "uz ondašnju crkvu koju bratovština pomaže vjerskim i društveno korisnim radom. Vrbnički kapari jedina su bratovština opstala iz tog vremena.",
-      "Prvi njihov spomen datira još iz 1323. godine. Ime kapari potječe od kapuljače, odnosno kapuča kojom završava bijela tunika s crvenim križem na prsima.",
-      "Bratovština sv. Ivana, kako se kapari još zovu, u počecima se brinula za istoimenu crkvu i imala izrazito karitativno-socijalno značenje.",
-      "Uz svoju bratovštinsku kuću na Placi, držala je i hospicij, tzv. spital za nemoćne starce i siromahe u blizini crkve sv. Ivana,",
-      "koji se spominje već 1487. godine.",
-      "Obveza je kapara danas većinom vezana za molitvu i ispraćaj pokojnika. Tom prigodom kapari, koji imaju tridesetak članova,",
-      "pjevaju starohrvatski crkveni napjev Pojubicu. Pojubicu i Božji plač kapari pjevaju i u procesiji Velikog petka."
+          "Auf der Straße, die zum Hafen von Vrbnik (Namori) führt, befindet sich die Kirche des Hl. Johannes des Täufers, des Patrons von Vrbnik. Die Kirche ließ Priester Damiani, wahrscheinlich im Jahre 1323, errichten. Ihr heutiges Aussehen entspricht nicht dem ursprünglichen Erscheinungsbild. Gemäß der in die östliche Mauer eingebetteten glagolitischen Inschrift wurde die Kirche 1611 durch den Bau einer neuen Apsis zum Osten erweitert. Entlang der Kirche befand sich an der Nordseite ein alter Stadtfriedhof, der bis 1956 genutzt wurde. Danach wurde er an den heutigen Ort außerhalb der Stadt verlegt. Die Priester von Vrbnik wurden an einem besonderen Ort, in der Loggia der Kirche auf der Westseite, bestattet. Mit der Kirche ist die berühmte Bruderschaft Kapari eng verbunden.  Auf der Insel Krk gab es viele Bruderschaften, freiwillige Vereinigungen von Laien, zu deren Mitgliedern ausschließlich erwachsene Männer zählten, die eng mit der damaligen Kirche verbunden waren, welche die Kirche durch religiöse und gemeinnützige Arbeit unterstützt haben. Kapari von Vrbnik ist die einzige Bruderschaft, die aus dieser Zeit erhalten ist. Zum ersten Mal wurden sie im Jahr 1323 erwähnt. Der Name Kapari stammt von der Kapuze kapuljača bzw. kapuča, die ein Teil der weißen Tunika mit einem roten Kreuz auf der Brust war. Die Bruderschaft des Hl. Johannes, wie sich Kapari noch nennen, kümmerte sich anfangs um die gleichnamige Kirche und hatte eine sehr gemeinnützige soziale Bedeutung.  Neben dem Sitz der Bruderschaft auf dem Hauptplatz, hielt sie auch ein Hospiz, das sog. Spital, für hilflose ältere und arme Menschen in der Nähe der Kirche des Hl. Johannes, das bereits 1487 zum ersten Mal erwähnt wird.  Die heutige Verpflichtung der Kapari bezieht sich hauptsächlich auf das Gebet und die Bestattung von Verstorbenen. Bei dieser Gelegenheit singen Kapari, die etwa dreißig Mitglieder zählen, die alte kroatische Kirchenmelodie Pojubica. Pojubica und Božji plač singen die Kapari auch in der Prozession am Karfreitag."
     ],
-    "31_TITLE": "Župna crkva uznesenja Marijina i zvonik",
+    "31_TITLE": "Pfarrkirche Maria himmelfahrt und glockenturm",
     "31_TEXT": [
-      "Crkva Uznesenja Marijina građena je u doba romanike, u 12. i 13. stoljeću. Izvorno, crkva je bila trobrodna, s tri",
-      "istaknute apside na istoku. Ipak, ulomci predromaničkoga crkvenog namještaja, datiranog između 8. i 9. stoljeća, uzidanog na pročelju",
-      "i u crkvi dokaz su starijeg datuma njezina  nastanka. Na pročelju crkve posebno se ističe rozeta mjesnog majstora Sinoga. Građevinski",
-      "zahvati u doba renesanse i baroka, odnosno od 16. do 18. stoljeća, mijenjaju unutrašnjost crkve pa su tada dodane bočne kapele sa",
-      "sjeverne i južne strane. U 17. stoljeću prvotna polukružna centralna apsida transformirana je u pravokutnu.",
-      "Kao i u većini primorskih naselja, u vizuri grada ističe se zvonik prislonjen na župnu crkvu.",
-      "Njegova izgradnja započela je 1533. i trajala tri godine. Najstarije je zvono u zvoniku, nazvano Sv. Ivan, iz 1561. godine.",
-      "U crkvi je sačuvan vrijedan renesansni i barokni namještaj, a uz renesansni drveni retabl na glavnom oltaru osobito se ističe drveni triptih",
-      "na bočnom oltaru s prikazom sv. Ivana Evanđelista iz 15. stoljeća, venecijanskoga majstora Jocobella del Fiorea. Uokolo centralnog",
-      "prikaza sv. Ivana Evanđelista još je šest manjih slika s pojedinostima iz života ovoga sveca."
+      "Die Kirche Mariä Himmelfahrt wurde zur Zeit der Romanik im 12. und 13. Jahrhundert erbaut. Ursprünglich war die Kirche dreischiffig mit drei hervorstehenden Apsiden im Osten. Nichtsdestotrotz deuten Fragmente vorromanischer Kirchenmöbel aus dem 8. und 9. Jahrhundert, die an der Fassade und in der Kirche errichtet wurden, auf das ältere Datum ihres Entstehens. Auf der Vorderseite der Fassade hebt sich insbesondere die Rosette des örtlichen Meisters Sinoga hervor. Bauarbeiten in der Renaissance- und Barockzeit bzw. vom 16. bis zum 18. Jahrhundert veränderten das Kircheninnere, so dass am Norden und Süden Seitenkapellen hinzugefügt wurden. Im 17. Jahrhundert wurde die ursprünglich halbkreisförmige zentrale Apsis in eine rechteckige Form umgewandelt.  Wie in den meisten Küstensiedlungen ragt im Gewölbe der Stadt der an die Pfarrkirche angelehnte Glockenturm hervor.  Sein Bau begann 1533 und dauerte drei Jahre. Die älteste Glocke im Glockenturm, genannt Hl. Johannes, stammt aus dem Jahr 1561.  In der Kirche wurden wertvolle Renaissance- und Barockmöbel erhalten. Neben dem Renaissance-Holzretabel auf dem Hauptaltar hebt sich vor allem der Holztriptychon auf dem Seitenaltar mit der Darstellung des Hl. Johannes Evangelist aus dem 14. Jahrhundert hervor, einem Werk des venezianischen Meisters Jocobella del Fiore. Um das zentrale Bild des Hl. Johannes Evangelist sind hier sechs weitere Bilder mit Einzelheiten über das Leben dieses Heiligen."
     ],
-    "32_TITLE": "Crkva Sv.Ivana",
+    "32_TITLE": "Kirche des Hl.Johannes",
     "32_TEXT": [
-      "Na uzvisini sjeveroistočno od današnje Baške nalazi se crkva sv. Ivana Krstitelja. Građevina je romaničkog postanka, monovolumenska,",
-      "s apsidom izbočenom na istočnoj strani. Zvonik crkve sazidan na pročelju ima zvono iz 1431. godine nazvano Starac. Ovo je bila prva",
-      "župna crkva u vrijeme srednjovjekovnog kaštela Baška, prije nego što se naselje spustilo u primorski dio. Dio tog kaštela sačuvan je i",
-      "danas nedaleko od crkve.",
-      "Crkva se u izvorima spominje kao raskošno zdanje sa sedam oltara, a funkciju župne crkve imala je do 1740. godine. Već u 19. stoljeću je",
-      "napuštena zbog preseljenja stanovništva iz starijeg naselja. Ipak je 1855., nakon izbijanja kolere, uslijedila obnova crkve.",
-      "Uz crkvu se nalazi gradsko groblje"
+      "Im Nordosten der heutigen Siedlung Baška befindet sich die Kirche des Hl. Johannes der Täufer. Sie stellt ein romanisches Gebäude dar, an dessen Ostseite sich eine Apsis befindet. Der Glockenturm der Kirche wurde an der Vorderseite errichteten und hat eine Glocke aus dem Jahr 1431, die Alter Mann genannt wird. Dies war die erste Pfarrkirche zur Zeit des mittelalterlichen Kastells von Baška, bevor die Siedlung zur Küste begann. Ein Teil dieses Kastells ist noch heute unweit von der Kirche erhalten. Die Kirche wird in den Quellen als prächtiges Gebäude mit sieben Altären erwähnt und die Funktion der Pfarrkirche übte sie bis 1740 aus. Bereits im 19. Jahrhundert wurde sie wegen der Umsiedlung der Bevölkerung aus der älteren Siedlung aufgegeben. Im Jahr 1855, nach dem Choleraausbruch, erfolgte der Wiederaufbau der Kirche. Neben der Kirche befindet sich ein Stadtfriedhof."
     ],
-    "33_TITLE": "Crkva Sv.Dunata",
+    "33_TITLE": "Kirche des Hl.Donatus",
     "33_TEXT": [
-      "U Puntarskom zaljevu, na raskrižju putova koji vode prema Puntu, Vrbniku i Korniću, na morskoj obali stoji crkva sv. Dunata.",
-      "Crkva je nastala u 12. stoljeću, u doba romanike, kao centralna građevina u obliku trolista s kupolom. Svoj je titular dobila",
-      "prema zadarskom biskupu i svecu Donatu, kao očito jak zadarski utjecaj na otok u 12. stoljeću. Danas su sačuvani tek",
-      "rekonstruirani ostaci crkve budući da je uništena 1945. u eksploziji spremišta municije koje se nalazilo u njezinoj blizini."
+      "In der Bucht von Punat, an der Kreuzung der Wege, die nach Punat, Vrbnik und Kornić führen, liegt an der Küste die Kirche des Hl. Donatus. Die Kirche wurde im 12. Jahrhundert in der Romanik als zentrales Gebäude in Form eines Dreiblatts mit Kuppel errichtet. Ihren Titel erhielt sie nach dem Bischof von Zadar und dem Heiligen Donatus, als offensichtlich starkem Einfluss von Zadar auf die Insel im 12. Jahrhundert. Heute sind nur die rekonstruierten Überreste der Kirche erhalten geblieben, da sie 1945 durch die Explosion des Munitionsdepots in ihrer Nähe zerstört wurde."
     ],
-    "34_TITLE": "Župna crkva Sv.Trojice",
+    "34_TITLE": "Pfarkirche der Hl.Dreifaltigkeit",
     "34_TEXT": [
-      "Nakon što su dobili duždevo odobrenje 1766., Puntari su se odlučili za gradnju župne crkve. Zajedničkim radom građana i novčanom",
-      "potporom mjesnih bratovština, crkva je brzo sagrađena. Na primjeru podizanja ove crkve može se pratiti i demografski rast u Puntu i okolici.",
-      "Na crkvi je već 1840. započeta prva adaptacija i tada je znatno proširena, a pridodan joj je i zvonik. Broj stanovnika nastavio je rasti i u",
-      "20. stoljeću pa je već 30-ih godina crkva nanovo proširivana. Ondašnje su se vlasti trudile da veličina crkve prati rast broja stanovnika te da",
-      "ni u jednom trenutku ne bude puku pretijesna. Na glavnom oltaru nalazi se pravo remek-djelo baroknoga skulptorskog izričaja, poteklo sredinom",
-      "18. stoljeća iz radionice Pavla Riedla. Ovaj razigrani i vješto izrađen oltar prvotno se nalazio u crkvi sv. Nikole u Senju te je 1790.",
-      "prenesen u Punat. Na glavnom oltaru nalazi se još jedan umjetnički rad kojemu treba posvetiti pažnju, a riječ je o oltarnoj pali s prikazom",
-      "propovijedi sv. Ivana. To je djelo poznatoga venecijanskog baroknog umjetnika Domenica Fedelija zvanog Il Maggiotto."
+      "Nachdem die Einwohner von Punat im Jahr 1766 die Genehmigung des Dogen erhalten hatten, entschlossen sie sich zum Bau der Pfarrkirche. Durch die gemeinsame Arbeit der Bürger und die finanzielle Unterstützung der örtlichen Bruderschaften wurde die Kirche schnell errichtet. Auf dem Beispiel der Errichtung dieser Kirche kann auch das demografische Wachstum in Punat und ihrer Umgebung verfolgt werden. Die ersten Umbauten der Kirche begannen bereits 1840 als sie erheblich vergrößert und mit einem Glockenturm versehen wurde. Die Bevölkerung wuchs im 20. Jahrhundert weiter an und in den dreißiger Jahren wurde die Kirche wieder erweitert. Die Behörden bemühten sich, die Größe der Kirche dem Bevölkerungswachstum anzupassen und zu keiner Zeit zu eng zu belassen. Auf dem Hauptaltar befindet sich ein wahres Meisterwerk des barocken skulpturalen Ausdrucks, das Mitte des 18. Jahrhunderts aus der Werkstatt von Paul Riedl entstand. Dieser verspielte und kunstvoll gestaltete Altar stand ursprünglich in der Kirche des Hl. Nikolaus in Senj und wurde 1790 nach Punat verlegt. Auf dem Hauptaltar ist ein weiteres künstlerisches Werk zu sehen. Es handelt sich um das Altarbild mit Darstellung der Predigt des Hl. Johannes. Es ist ein Werk des berühmten venezianischen Barockkünstlers Domenico Fedeli genannt Il Maggiotto."
     ],
     "35_TITLE": "Krk",
     "35_TEXT": [
-      "Najstariji tragovi grada Krka i okolice sežu u prapovijest, a njihovu povijest krojile su  izmjene starosjedilaca i došljaka",
-      "počevši od Liburna, zatim Rimljana, Slavena, Mlečana… Grad je postavljen na antičkim temeljima. Svjedočanstvo o tome nalazimo u sačuvanim",
-      "ostacima rimskih termi, mozaiku u konobi Mate, Venerinu hramu te u dijelovima tadašnjega gradskog bedema. Gradski arhitektonski raster",
-      "definirali su Rimljani postavivši dvije glavne ulice, cardo i dekumanus, upravo tamo gdje se i danas nalaze. Grad se tijekom stoljeća razvija i",
-      "raste, a svoje današnje bedeme dobiva u srednjem vijeku.",
-      "Grad Krk privlači reprezentativnom srednjovjekovnom baštinom, nastalom uglavnom za vrijeme venecijanske prevlasti na ovim prostorima. Tada su se",
-      "osobito istaknuli krčki knezovi Frankopani koji su se vještim političkim koketiranjem s Venecijom uspjeli zadržati u Krku nekoliko stoljeća.",
-      "Frankopanska loza formirala se kao nasljedstvo prvog kneza Dujma kojega su postavili Mlečani nakon što je otok Krk u 12. stoljeću prešao u",
-      "njihove ruke. Otok je bio podijeljen na nekoliko otočnih kaštela – Bašku, Vrbnik, Dobrinj i Omišalj, s gradom Krkom kao središtem.",
-      "Krčki knezovi brinuli su se o dobro uređenim pravnim odnosima, kako bi se održao mir na otoku, ali i o njegovanju kulturnog nasljeđa u obliku",
-      "hrvatskog jezika i glagoljičkog pisma. Gotovo u izvornom stanju do danas je ostao sačuvan frankopanski kaštel. Kaštel je smješten na Trgu Kamplin,",
-      "žarištu profanog i sakralnog života.",
-      "Pogled na srednjovjekovni Krk bez skromnih redovničkih bratovština, nezamisliv je. Bratovštine su svoje mjesto našle na sjevernim gradskim vratima",
-      "Porta Su, uokolo današnjega Trga glagoljaša. Nekada su na tom istaknutome mjestu živjeli franjevci, benediktinci, benediktinke i klarise.",
-      "Danas Krk poznajemo kao turističko mjesto iznimnoga kulturno-umjetničkog nasljeđa, a taj drevni Splendidisima Civitas Curitarum (presjajni grad Krčana)",
-      "živi u lijepoj sinergiji s užurbanošću modernoga doba."
+    "Die ältesten Spuren der Stadt Krk und ihrer Umgebung ragen in der Vorgeschichte. Ihre Geschichte wurde durch den Wechsel der Einheimischen und Zuwanderer, beginnend mit den Liburnen, dann Römern, Slawen, Venezianern… geprägt. Die Stadt steht auf antiken Fundamenten. Ein Zeugnis davon findet sich in den erhaltenen Überresten römischer Thermen, im Mosaik in der Konoba (Taverne) Mate, im Venustempel und in Teilen der damaligen Stadtmauern. Das architektonische Raster der Stadt wurde von den Römern definiert, indem sie die zwei Hauptstraßen, Cardo und Dekumanus, genau da positionierten, wo sie sich heute befinden. Die Stadt entwickelte sich und wuchs im Laufe der Jahrhunderte. Die heutigen Mauern erhielt sie im Mittelalter.  Die Stadt Krk zieht durch ihr repräsentatives mittelalterliches Erbe an, das hauptsächlich während der venezianischen Herrschaft in dieser Gegend entstand. Zu dieser Zeit hoben sich insbesondere die Fürsten Frankopan von Krk hervor, die sich durch raffiniertes politisches Kokettieren mit Venedig jahrhundertelang in Krk behaupten konnten. Das Frankopaner Fürstengeschlecht entstand als Erbe des ersten Fürsten Dujam, den die Venezianer eingestellt hatten, nachdem die Insel Krk im 12. Jahrhundert in ihre Hände gelangt war. Die Insel wurde in mehrere Inselburgen unterteilt – Baška, Vrbnik, Dobrinj und Omišalj, mit der Stadt Krk als Zentrum. Die Fürsten von Krk sorgten um gut regulierte Rechtsbeziehungen, um den Frieden auf der Insel zu erhalten, aber auch um das kulturelle Erbe in Form der kroatischen Sprache und glagolitischen Schrift zu fördern. Das Kastell Frankopan wurde bis heute fast in seinem ursprünglichen Zustand erhalten. Das Kastell liegt auf dem Platz Kamplin, dem Mittelpunkt des profanen und sakralen Lebens.  Ein Blick auf die mittelalterliche Stadt Krk ohne bescheidene Glaubensgemeinschaften ist undenkbar. Ordensgemeinschaften fanden ihren Platz am nördlichen Tor Porta Su, in der Nähe des heutigen Platzes Trg glagoljaša (Platz der Glagolitermönche). Einst lebten an diesem prominenten Ort Franziskaner, Benediktiner, Benediktinerinnen und Klarissen.  Heute kennen wir Krk als ein touristisches Reiseziel mit außergewöhnlichem kulturellem und künstlerischem Erbe. Diese uralte Splendidisima Civitas Curitarum (glanzvolle Stadt der Bewohner von Krk) lebt in einer schönen Synergie mit der Hektik des modernen Zeitalters."
     ],
     "36_TITLE": "Omišalj",
     "36_TEXT": [
-      "Na sjevernom dijelu otoka, na visokoj uzvisini iznad mora, smješteno je malo mjesto Omišalj. Njegovi počeci sežu još u predrimsko doba,",
-      "no potpun razvoj doživljava u srednjem vijeku. Prvi spomen Omišlja datira još u 12. stoljeće, a pod imenom Castri Musculi spominje se u",
-      "idućem stoljeću, 1213.,  u sporu krčkog biskupa i omišaljskog klera. U razvoju naselja značajni su bili i krčki knezovi Frankopani koji su tu",
-      "imali posjede. U 15. stoljeću, za vrijeme kneza Ivana i njegova sina Nikole, ta obitelj počinje izgradnju Kaštela, masivne branič-kule i zidova",
-      "koji se nalaze s južne strane današnjeg naselja. Nedugo nakon toga Omišalj i cijeli otok potpadaju pod mletačku vlast, a naselje dobiva važnost zbog",
-      "svoga strateškog položaja. Unutar njegovih zidova bila je smještena posada s kaštelanom na čelu, a u luci su bili usidreni ratni brodovi.",
-      "Omišljani su se bavili  ribarstvom, stočarstvom i poljoprivredom koja iščezava industrijalizacijom prostora. U  današnje vrijeme te je grane privrede",
-      "zamijenio turizam."
+      "Im Norden der Insel, auf einem hohen Hügel über dem Meer, liegt der kleine Ort Omišalj. Seine Anfänge ragen noch in die vorrömische Zeit, aber die volle Entwicklung erlebt er im Mittelalter. Die erste Erwähnung von Omišalj stammt aus dem 12. Jahrhundert. Unter dem Namen Castri Musculi wird er im nächsten Jahrhundert, im Jahre 1213, im Streit zwischen dem Bischof von Krk und dem Klerus von Omišalj erwähnt. Für die Entwicklung der Siedlung waren auch die Fürsten Frankopan von Krk, die dort Besitztümer hatten, wichtig. Im 15. Jahrhundert, während der Herrschaft des Fürsten Ivan und seines Sohnes Nikola, begann diese Familie mit dem Bau des Kastells (Kaštel), eines mächtigen Verteidigungsturms und Mauern, die sich auf der Südseite der heutigen Siedlung befinden. Kurz darauf stehen Omišalj und die gesamte Insel unter venezianischer Herrschaft und die Siedlung gewinnt durch ihre strategische Position an Bedeutung. Innerhalb der Mauern befand sich die Besatzung mit dem Kastellan an der Stirn und im Hafen befanden sich verankerte Kriegsschiffe. Die Einwohner von Omišalj waren in der Fischerei, Viehzucht und Landwirtschaft tätig, die durch die Industrialisierung immer mehr verschwanden. Heutzutage hat der Tourismus diese Wirtschaftszweige ersetzt."
     ],
     "37_TITLE": "Malinska-Dubašnica",
     "37_TEXT": [
-      "Malo primorsko mjesto Malinska danas je privlačno otočno turističko odredište, a nekoć je to bila važna luka i trgovište. Masovno",
-      "naseljavanje ovog područja dogodilo se sredinom 15. stoljeća prema nalogu Krčkih knezova, točnije Ivana Frankopana. I Mlečani su ovaj prostor",
-      "znali dobro iskoristiti pa im je luka služila za prijevoz drva, vune i raznih živežnih namirnica iz ovih krajeva u Veneciju. Luku je obilježila i",
-      "malo novija povijest druge polovice 19. stoljeća, kada je 1880. u nju prvi put uplovio parobrod. Bio je to brod Lolydova društva, vozio je od Istre",
-      "prema Dalmaciji i natrag, a jednom tjedno pristajao je i u Malinsku.",
-      "Općina Malinska-Dubašnica danas okuplja niz manjih mjesta izrazitih kulturnih, etnografskih i prirodnih bogatstava. Posebno se ističu etnozone Dubašnica,",
-      "Miholjice-Semenje i Sršići-Sv. Vid, u kojima su sačuvane vrijednosti tradicijskoga graditeljstva 19. i ranog 20. stoljeća na otoku Krku."
+      "Die kleine Küstenstadt Malinska ist heute ein attraktives Reiseziel für Touristen und einst ein wichtiger Hafen und Markt. Die Massensiedlung dieses Gebietes erfolgte Mitte des 15. Jahrhunderts auf Anordnung der Fürsten von Krk, genauer Ivan Frankopan. Die Venezianer wussten, wie sie dieses Gebiet am besten ausnutzen konnten, so dass sein Hafen für die Beförderung von Holz, Wolle und verschiedenen Lebensmitteln aus diesen Gebieten nach Venedig diente. Den Hafen prägte auch seine etwas neuere Geschichte der zweiten Hälfte des 19. Jahrhunderts, als im Jahr 1880 zum ersten Mal ein Dampfschiff einschiffte. Es war ein Boot der Lolyd Gesellschaft, das von Istrien nach Dalmatien und zurück fuhr und einmal wöchentlich in Malinska hielt.  Die Gemeinde Malinska-Dubašnica vereint heute eine Reihe kleinerer Orte mit unterschiedlichen kulturellen, ethnographischen und natürlichen Reichtümern. Besonders heben sich die Ethnozonen Dubašnica, Miholjice-Semenje und Sršići-Sv. Vid hervor, in denen die Werte der traditionellen Architektur des 19. und frühen 20. Jahrhunderts auf der Insel Krk erhalten wurden."
     ],
     "38_TITLE": "Baška",
     "38_TEXT": [
-      "Život na bašćanskom prostoru uvjetovala je bogata udolina otvorena prema moru. Naseljenost ovdje nije bila uvijek vezana uz jedno mjesto,",
-      "kao što je slučaj s Krkom, Omišljem ili Dobrinjem. Od prapovijesti do srednjeg vijeka središte obitavanja selilo se s jednog područja na drugo, ovisno",
-      "o povijesnim mijenama. U prapovijesti, već od neolitika, prvi su „naseljenici“ obitavali u pećinama smještenima na obroncima južnoga planinskog masiva",
-      "(pećine Škuljica i Vorganjska peć).",
-      "Tragove rimskog urbanizma zatječemo u priobalnom području. No o tom se rimskodobnom naselju ne zna mnogo. Uz plažu, sjeverno od crkve sv. Marka, nađeno",
-      "je rimsko groblje, ali nema tragova rimskog naselja.",
-      "Prva stoljeća nakon Krista, tj. stoljeća koja su obilježena prodorom rimske kulture na otok i neizostavnom romanizacijom, još su uvijek nepoznanica.",
-      "Nekoliko nalaza antičkih stela u Baški, antička nekropola iz 1. i 2. stoljeća (sjeverno od crkve sv. Marka) te nalaz ostave antičkog novca iz 1. stoljeća",
-      "govore u prilog antičkoj urbanizaciji prostora. No pitanje je da li se i na koji način u tim prvim stoljećima naše ere urbanizacija prostora uopće dogodila",
-      "ili je, kao u ostalim naseljima na otoku, bila izražena u obliku antičkih gospodarskih građevina – villa rustica koje su gospodarstvo temeljile na",
-      "iskorištavanju plodne Bašćanske udoline.",
-      "Zbog izdvojenosti bašćanskog prostora u odnosu na ostale dijelove otoka Krka, zapravo je Senj, veliki antički grad i luka, koji se nalazi na nasuprotnoj",
-      "obali, njegovo prirodno središte.",
-      "Ipak, o razvijenom naselju u doba kasne antike, točnije u 5. stoljeću, svjedoče ostaci čak dvije velike, mozaicima ukrašene, starokršćanske bazilike",
-      "(crkva na lokalitetu Mira kraj Jurandvora i velika dvojna bazilika ispod crkve sv. Marka).",
-      "U srednjem vijeku provlači se naziv kaštel Baška (castellum Besca) koji se, poput svih kaštela na otoku, nalazio na dominantnom položaju, dvjesto metara",
-      "nad morem, na brijegu sjeveroistočno od današnjega naselja.",
-      "Naselje je na današnjemu mjestu osnovano pod prisilom, uzrokovano mletačkim uništavanjem hrvatsko-dalmatinskog primorja 1380., kada kao žrtva pada i",
-      "kaštel Baška čiji se žitelji nisu htjeli predati.",
-      "Osnivanje nizinskoga priobalnog naselja na mjestu na kojemu ga danas zatječemo, sustavnim napuštanjem onoga na uzvisini, trajalo je do 16. stoljeća.",
-      "Danas Bašku vidimo kao tipično primorsko mjesto uskih krivudavih ulica, smješteno uz morsku obalu.",
-      "Velik pomak u razvoju Baške uvjetovan je razvojem turizma kao logičnim odgovorom velikoj pješčanoj plaži koja se pruža skoro duž cijelog zaljeva."
+      "Das Leben im Baška-Gebiet wurde durch ein reiches, zum Meer offenes Tal bestimmt. Hier war die Besiedlung nicht immer auf einen Ort bezogen, wie dies bei Krk, Omišalj oder Dobrinj der Fall ist. Von der Vorgeschichte bis zum Mittelalter siedelte das Zentrum des Lebens von Region zu Region, je nach historischen Veränderungen. In prähistorischer Zeit, bereits ab der Jungsteinzeit, lebten die ersten „Einwohner“ in Höhlen, die an den Hängen des südlichen Bergmassivs (Höhlen Škuljica und Vorganjska peć) gelegen sind.  Spuren des römischen Urbanismus finden wir im Küstengebiet, jedoch wissen wir nicht viel über die Siedlung aus dem römischen Zeitalter. Am Strand entlang, nördlich der Kirche des Hl. Markus, wurde ein römischer Friedhof gefunden, aber es gibt keine Spuren einer römischen Siedlung.  Die ersten Jahrhunderte nach Christus, d.h. die Jahrhunderte, die durch das Eindringen der römischen Kultur auf der Insel und die unvermeidliche Romanisierung gekennzeichnet waren, sind noch immer unbekannt. Mehrere Funde antiker Stelen in Baška, die antike Nekropole aus dem 1. und 2. Jahrhundert (nördlich der Kirche des Hl. Markus) und Funde antiken Geldes aus dem 1. Jahrhundert sprechen für die antike Urbanisierung dieser Gegend. Die Frage ist jedoch, ob und wie in den ersten Jahrhunderten unserer Ära die Verstädterung des Raumes tatsächlich stattgefunden hat oder ob, wie in anderen Siedlungen auf der Insel, sie in Form von antiken wirtschaftlichen Strukturen Villa Rustica ausgeprägt war, die auf der Ausbeutung des fruchtbaren Baška-Tals beruhten. Aufgrund der Abgeschiedenheit des Baška-Gebiets im Vergleich zu anderen Teilen der Insel Krk ist tatsächlich Senj, eine große antike Stadt und Hafen, die sich an der gegenüberliegenden Küste befindet, sein natürliches Zentrum.  Die Überreste zweier großen, mit Mosaiken verzierten, frühchristlichen Basiliken (Kirche auf der arch. Stätte bei Mira in der Nähe von Jurandvor und die große Doppelbasilika unter der Kirche des Hl. Markus) zeugen von einer Siedlung in der Spätantike, genauer im 5. Jahrhundert.  Im Mittelalter kommt der Name des Kastells Baška (Castellum Besca) vor, das sich wie alle Kastells der Insel auf einer dominanten Position, zweihundert Meter über dem Meeresspiegel, auf einem Hügel nordöstlich der heutigen Siedlung befand.  Die Siedlung wurde am bisherigen Ort aus Not erbaut, verursacht durch die venezianische Zerstörung der kroatisch-dalmatinischen Küste im Jahr 1380, als auch das Kastell Baška als Opfer fiel, dessen Einwohner sich nicht ergeben wollten.  Die Gründung einer Siedlung an der Küste, an jenem Ort, an dem wir sie heute finden, wurde durch systematisches Verlassen der Siedlung am Hang bedingt und dauerte bis ins 16. Jahrhundert.  Heute sehen wir Baška als einen typischen Küstenort mit engen, kurvigen Straßen.  Ein großer Fortschritt in der Entwicklung von Baška ist durch die Entwicklung des Tourismus bedingt, als logische Antwort auf den großen Sandstrand, der sich fast entlang der gesamten Bucht erstreckt."
     ],
     "39_TITLE": "Punat",
     "39_TEXT": [
-      "Punat je turističko mjesto smješteno u pitoresknom zaljevu u jugozapadnom dijelu otoka. Već je na ulasku u Punat posjetitelj",
-      "počašćen ljepotom koja se ne očekuje u cestovnom prometu. Cesta tik uz more prolazi uz mnoge turističke atrakcije – od male kružne romaničke",
-      "crkve sv. Dunata, toša za prešanje maslina preko velike marine za jahte i jedrilice do šetnice uz more sa zanimljivim sadržajima za svoje goste.",
-      "Iako postankom razmjerno mlado, pa je obogaćeno nizom kućica sa stilskim ukrasima 19. stoljeća, današnje mjesto ima i svoju rimsku ladanjsku prošlost.",
-      "Nedaleko od Punta, u mjestu Stara Baška, nalazi se prava turistička oaza. Ovo je mjesto savršen spoj divljine i mira, ovjenčano skladom besprijekorne",
-      "prirodne i kulturne baštine. Tako su iznad uvale Zala, jugoistočno od Stare Baške, još uvijek vidljivi ostaci romaničke crkve sv. Jeronima nastale na",
-      "ostacima velike antičke vile."
+      "Punat ist ein Ferienort in einer malerischen Bucht im Südwesten der Insel. Bereits am Ortseingang von Punat wird der Besucher mit einer im Straßenverkehr nicht erwarteten Schönheit geehrt. Die Straße entlang des Meeres führt an vielen Touristenattraktionen vorbei – von der kleinen runden romanischen Kirche des Hl. Donatus und einer Olivenpresse über einen Hafen für Jachten und Segelboote bis zu einer Promenade am Meer mit interessanten Inhalten für die Gäste.  Obwohl der Ort relativ jung und mit einer Reihe von Häusern mit stilistischen dekorativen Elementen aus dem 19. Jahrhundert bereichert ist, hat der heutige Ort auch seine römische Geschichte als Sommerstätte.  In der Nähe von Punat, in Stara Baška, gibt es eine echte Touristenoase. Dieser Ort ist die perfekte Kombination aus Wildnis und Frieden mit einer Mischung aus makellosem Natur- und Kulturerbe. Über der Bucht Zala, südöstlich von Stara Baška, befinden sich noch immer Überreste der romanischen Kirche des Hl. Hieronymus, die auf den Überresten einer großen antiken Villa entstand."
     ],
     "40_TITLE": "Dobrinj",
     "40_TEXT": [
-      "Dobrinjsko je područje gusto naseljavano od prapovijesti do danas. Najraniji datirani nalazi potječu iz ranoga željeznog doba,",
-      "ali se pretpostavlja da je područje bilo naseljeno i prije, tijekom neolitika, a prema nekim znakovima i za vrijeme mezolitika.",
-      "Mjesto Dobrinj smješteno je u središnjem dijelu otoka Krka, na vrhu strme uzvisine koja se proteže kao prirodna granica, štit, na njegovu",
-      "sjeverozapadnom dijelu.  Današnji Dobrinj tipično je mediteransko naselje. U vizuri šuma, na uzvisini, propinje se mjesto s zvonikom koji nadvisuje",
-      "krovove kuća. Određuju ga uske ulice, kalete, koje izlaze na glavni trg, Placu, mjesto društvenog, javnog i sakralnog života. Starost dobrinjske",
-      "župe potvrđuje nekoliko listina, a među važnije spomene ubraja se glagoljski spis kneza Dragoslava iz 11. stoljeća, koji govori o izgradnji crkve sv. Vida.",
-      "U dobrinjskoj se župi glagoljalo i zabilježeno je brojno glagoljaško svećenstvo.",
-      "Srednjovjekovno naselje Dobrinj formiralo se u skladu s gospodarsko-političkim kretanjima na sjevernom Jadranu. Grad je imao stratešku važnost provodeći",
-      "nadzor nad zaljevom Soline i Vinodolskim kanalom, važnim pomorskim i trgovačkim putom.",
-      "Plodna zemlja i obilje vode neki su od važnijih razloga zbog kojih je privreda ovdašnjeg stanovništva zasnovana na poljodjelstvu i stočarstvu. Jedan od",
-      "temelja dobrinjskoga gospodarstva zasigurno su i solane u zaljevu Soline. Kaštel je eksploatirao polja i šume koje su ga okruživale i upravljao širim",
-      "agrarnim područjem s nizom sela. Sela se gotovo uvijek formiraju oko sakralnih zdanja, a niz takvih srednjovjekovnih građevina na prostoru oko",
-      "Dobrinja upućuje i na moguće vrlo rano osnivanje seoskih zajednica.",
-      "Područje Dobrinjštine danas je značajno turističko mjesto s bogatom kulturno-umjetničkom baštinom, a svakako treba posjetiti špilju Biserujku kao",
-      "izniman primjer prirodne baštine na otoku, te uvalu Soline, jedino mjesto s ljekovitim blatom na otoku."
+    "Das Gebiet von Dobrinj ist seit der Vorgeschichte bis heute dicht besiedelt. Die frühesten Funde datieren aus der frühen Eisenzeit, es wird jedoch angenommen, dass das Gebiet auch davor, während des Neolithikums, und gemäß einigen Anzeichen ebenfalls während des Mesolithikums besiedelt war.  Dobrinj liegt im zentralen Teil der Insel Krk, auf einem steilen Abhang, der sich an seinem nordwestlichen Teil als natürliche Grenze und Schutzschild erstreckt. Heute ist Dobrinj eine typische mediterrane Siedlung. Im Walde, auf einer Anhöhe, erhebt sich der Ort mit Glockenturm, der die Dächer der Häuser überragt. Ihn charakterisieren enge Gassen, kalete, die zum Hauptplatz Placa führen, dem Ort des gesellschaftlichen, öffentlichen und sakralen Lebens. Das Alter der Pfarrei Dobrinj wird durch mehrere Urkunden bestätigt. Zu den wichtigsten zählt die glagolitische Aufzeichnung des Fürsten Dragoslav aus dem 11. Jahrhundert, die über den Bau der Kirche des Hl. Veit erzählt. In der Pfarrei Dobrinj wurde die Messe in Altkirchenslawisch gehalten. Verzeichnet wurden zahlreiche Priester, die die glagolitische Schrift benutzt haben.  Die mittelalterliche Siedlung Dobrinj wurde entsprechend den wirtschaftlichen und politischen Entwicklungen in der nördlichen Adria gebildet. Die Stadt hatte eine strategische Bedeutung für die Kontrolle der Bucht Soline und des Vinodol-Kanals, einer wichtigen See- und Handelsstraße.  Das fruchtbare Land und der Wasserreichtum sind einige der wichtigsten Gründe, warum die Wirtschaft der lokalen Bevölkerung auf Landwirtschaft und Viehzucht basiert. Eine der Grundlagen der Wirtschaft von Dobrinj sind sicherlich auch die Salzwerke in der Bucht. Die Festung beutete die umliegenden Felder und Wälder aus und verwaltete über das breitere landwirtschaftliche Gebiet mit einer Reihe von Dörfern. Die Dörfer sind fast immer um sakrale Gebäude herum angelegt. Eine Reihe solcher mittelalterlichen Gebäude in der Umgebung von Dobrinj weist auf die mögliche frühe Gründung ländlicher Gemeinden hin.  Das Gebiet von Dobrinjština ist heute ein bedeutender Touristenort mit einem reichen kulturellen und künstlerischen Erbe. Der Besuch der Höhle Biserujka als außergewöhnlichem Beispiel für das Naturerbe der Insel und der Bucht Soline, dem einzigen Ort mit Heilschlamm auf der Insel, ist ein Muss."
     ],
     "41_TITLE": "Vrbnik",
     "41_TEXT": [
-      "Na vrhu strme uzvisine, čak pedesetak metara ponad mora, smjestio se Vrbnik. Arheološkim istraživanjima otkriveni su  počeci naseljavanja širega",
-      "vrbničkog područja još u prapovijesno doba. Prvi pisani spomen Vrbnika potječe iz daleke 1100. godine. Vrbnik je bio kolijevka glagoljice sa značajnom",
-      "glagoljaškom školom. Još se i danas na zidovima vrbničkih kuća vide uklesani tragovi glagoljičkog pisma.",
-      "Ovo je mjesto poznato i po još nečemu – očuvanju tradicije. U to svakako spada uzgoj poznate sorte grožđa – žlahtine, od koje se proizvodi istoimeno vino.",
-      "Tijekom povijesti, ali i danas, vrbničko se stanovništvo bavilo poljodjelstvom i stočarstvom. Razlog je tomu obilje plodne zemlje i prirodnih izvora",
-      "podzemnih voda koji omogućuju navodnjavanje poljoprivrednih zemljišta te krški krajolik uokolo naselja kao iznimno mjesto za stočarsku djelatnost."
+      "Auf der Spitze eines steilen Felsens, sogar fünfzig Meter über dem Meeresspiegel, liegt der Ort Vrbnik. Archäologische Untersuchungen haben gezeigt, dass die Ansiedlung des Großraums Vrbnik bereits in vorgeschichtlicher Zeit begann. Die erste schriftliche Erwähnung von Vrbnik stammt aus dem Jahr 1100. Vrbnik war die Wiege der Glagoliza mit einer bedeutenden glagolitischen Schule. An den Wänden der Häuser in Vrbnik befinden sich noch heute Spuren der eingemeißelten glagolitischen Schrift.  Dieser Ort ist für noch etwas bekannt – die Erhaltung der Tradition. Dazu gehört sicherlich der Anbau der berühmten Rebsorte – žlahtina, aus der der gleichnamige Wein erzeugt wird. Während der Geschichte, aber auch heute noch, sind die Bürger von Vrbnik in der Landwirtschaft und Viehzucht tätig. Der Grund dafür ist der Reichtum an fruchtbarem Land und natürlichen Grundwasserquellen, die die Bewässerung von Ackerland ermöglichen, sowie die Karstlandschaft um die Siedlung herum, die eine außergewöhnliche Umgebung für Viehzucht darstellt."
     ],
     "42_TITLE": "Kastell, stadtmauern und archaologische uberreste im cafe Volsonis",
     "42_TEXT": [
@@ -535,7 +293,7 @@
     ],
     "45_TITLE": "Gradec und die Frankopans",
     "45_TEXT": [
-        "Im dichten Wald unweit von Risika, fast versteckt, befindet sich Gradec. Die Überreste der großen Kastellburg bzw. Festung der Fürsten Frankopan wurden erhalten. Seit 1118 ist die Familie Frankopan die erste einheimische und die einzige Familie, deren Mitglieder als Erbfürsten die Insel Krk verwaltet haben. Gradec gilt als Ort ihres Ursprungs. Die hohen, dicken Wände lassen nur andeuten, was für ein großes und wichtiges Gebäude es war. Obwohl die Entstehung der Festung Kaštel in das 12. Jahrhundert gesetzt werden kann, deuten versehentliche Funde auf die Besiedlung dieses Gebiets auch in römischer Zeit hin. Neben Kaštel befand sich die Kirche des Hl. Geistes, die heute nur in ihren Fundamenten erhalten ist. Dieser Ort, perfekt in die Natur eingebettet und nur für den neugierigen Blick der Wanderer zugänglich, ist ein wichtiges Denkmal, das über die berühmteste Adelsfamilie Frankopan zeugt.</string>"
+        "Im dichten Wald unweit von Risika, fast versteckt, befindet sich Gradec. Die Überreste der großen Kastellburg bzw. Festung der Fürsten Frankopan wurden erhalten. Seit 1118 ist die Familie Frankopan die erste einheimische und die einzige Familie, deren Mitglieder als Erbfürsten die Insel Krk verwaltet haben. Gradec gilt als Ort ihres Ursprungs. Die hohen, dicken Wände lassen nur andeuten, was für ein großes und wichtiges Gebäude es war. Obwohl die Entstehung der Festung Kaštel in das 12. Jahrhundert gesetzt werden kann, deuten versehentliche Funde auf die Besiedlung dieses Gebiets auch in römischer Zeit hin. Neben Kaštel befand sich die Kirche des Hl. Geistes, die heute nur in ihren Fundamenten erhalten ist. Dieser Ort, perfekt in die Natur eingebettet und nur für den neugierigen Blick der Wanderer zugänglich, ist ein wichtiges Denkmal, das über die berühmteste Adelsfamilie Frankopan zeugt."
     ],
     "46_TITLE": "Monastiries on the square of the glagolitic monks",
     "46_TEXT": [
@@ -557,106 +315,41 @@
       "Samostan benediktinki godinama je njegovao tradiciju školovanja. Na poticaj biskupa Šintića, 1806. otvorena je u ovom samostanu ženska osnovna škola ",
       "na talijanskom jeziku. Od 1921. do 1935. benediktinke su u samostanu vodile internat za djevojčice koje su pohađale gimnaziju."
     ],
-    "47_TITLE": "Franjevački samostan-Glavotok",
+    "47_TITLE": "Franziskanerkloster - Glavotok",
     "47_TEXT": [
-      "U mjestu Glavotok, na osami uz more, nalazi se samostan franjevaca trećoredaca, tzv. glagoljaša. Ovdje su u 15. stoljeću Krčki knezovi imali",
-      "svoje imanje i malu kapelu koja se nalazila na mjestu današnje sakristije u crkvi. Nizom spletki i previranja između Krčkih knezova i mletačke uprave,",
-      "ovaj je prostor u zadnjim desetljećima 15. stoljeća konačno predan franjevcima. Tada je osnovan samostan, a početkom 16. stoljeća započela je i izgradnja",
-      "lijepoga crkvenog zdanja. Riječ je o jednobrodnoj crkvi renesansnih i kasnijih baroknih stilskih obilježja. Glavni oltar navodno potječe iz benediktinske",
-      "opatije sv. Nikole u Omišlju, a pretpostavlja se da je autor triju platna s tog oltara Girolamo da Santacroce. Centralno je prikazana Bogorodica s djetetom,",
-      "a na dva bočna platna likovna su uprizorenja sv. Franje i sv. Bonaventure.",
-      "Franjevački red i dandanas brižno čuva svoju tradiciju i djeluje u samostanu na Glavotoku."
+      "Im Ort Glavotok, an einem abgelegenen Platz am Meer, befindet sich das Kloster der Franziskaner Dritten Ordens, der sog. Glagolitzamönche. Im 15. Jahrhundert besaßen hier die Fürsten von Krk ein eigenes Gut und eine kleine Kapelle, die an der Stelle der heutigen Sakristei in der Kirche stand. Wegen einer Reihe von Intrigen und Machtspielchen zwischen dem Fürsten von Krk und der venezianischen Verwaltung wurde dieses Gebiet in den letzten Jahrzehnten des 15. Jahrhunderts schließlich den Franziskanern übergeben. Zu dieser Zeit wurde das Kloster gegründet. Zu Beginn des 16. Jahrhunderts begann der Bau eines schönen Kirchengebäudes. Es handelt sich um eine einschiffige Kirche im Stil der Renaissance und des Barock. Der Hauptaltar stammt angeblich aus der Benediktinerabtei des Hl. Nikolaus in Omišalj und es wird angenommen, dass der Autor der drei Leinwände dieses Altars Girolamo da Santacroce war. Die Jungfrau mit dem Kind ist zentral abgebildet. Auf den beiden seitlichen Leinwänden befinden sich Darstellungen des Hl. Franziskus und des Hl. Bonaventura.  Der Franziskanerorden bewahrt noch heute seine Traditionen sorgfältig und wirkt im Kloster Glavotok."
     ],
-    "48_TITLE": "Franjevački samostan-Porat",
+    "48_TITLE": "Franziskanerkloster - Porat",
     "48_TEXT": [
-      "Franjevački samostan u Portu nosi titular sv. Marije Magdalene. U početku je na ovome mjestu bila mala kapela s pokojim redovnikom pridošlim",
-      "iz Glavotoka, no dolaskom Mlečana nakon 1480. osnovan je pravi franjevački samostan. Crkva i samostan nose kasnogotička i renesansna stilska",
-      "obilježja, a izgradnja je započela već u prvim desetljećima 15. stoljeća. Najranijoj fazi gradnje odgovara križno-rebrasti svod svetišta crkve.",
-      "Značajan umjetnički rad svakako je pala s glavnog oltara Girolama da Santacrocea, na kojoj je prikazana samostanska zaštitnica sv. Marija Magdalena te",
-      "sv. Ivan Krstitelj, sv. Grgur papa, sv. Franjo Asiški, sv. Kvirin i Bogorodica. Godine 1557. crkva i oltar su posvećeni pa valja pretpostaviti da je",
-      "crkva tada i završena.",
-      "Ovaj trećoredski samostan, kao i onaj na Glavotoku, uvelike je zaslužan za očuvanje glagoljaške tradicije na otoku. U samostanima se, i u bogoslužju i",
-      "u drugim obrednim i internim molitvama, upotrebljavao staroslavenski jezik i glagoljica. Zbog toga su se i nazivali redovnicima glagoljašima, fratres",
-      "Illirici. U atriju samostana danas je napravljen lapidarij u sklopu kojega je predstavljena bogata glagoljaška ostavština otoka Krka."
+      "Das Franziskanerkloster in Porat trägt den Titel Hl. Maria Magdalena. Zuerst stand hier eine kleine Kapelle mit wenigen Mönchen, die aus Glavotok gekommen sind, aber nach der Ankunft der Venezianer nach 1480 wurde ein echtes Franziskanerkloster gegründet. Die Kirche und das Kloster haben Stilelemente der späten Gotik und der Renaissance und der Bau begann bereits in den frühen Jahrzehnten des 15. Jahrhunderts. Zum frühesten Bauabschnitt gehört der Kreuzrippenbogen des Schreins der Kirche. Signifikante künstlerische Arbeit ist sicherlich die Palla vom Hauptaltar von Girolamo Santacroce, die die Schutzpatronin des Klosters, Hl. Maria Magdalena, und den Hl. Johannes der Täufer, Hl. Papst Gregor, Hl. Franz von Assisi, Hl. Quirinus und die Madonna darstellt. Im Jahr 1557 wurden Kirche und Altar geweiht und es ist davon auszugehen, dass die Kirche dann fertiggestellt wurde.  Diesem Kloster Dritten Ordens sowie dem von Glavotok haben wir weitgehend die Erhaltung der glagolitischen Tradition auf der Insel zu verdanken. In den Klöstern wurden sowohl im Gottesdienst als auch in anderen Ritualen und Gebeten die altslawische Sprache und die glagolitische Schrift verwendet. Deshalb wurden sie Glagolitzamönche, Fratres Illirici, genannt. Im Atrium des Klosters wurde ein Lapidarium errichtet, innerhalb welchen das reiche glagolitische Erbe der Insel Krk ausgestellt ist."
     ],
-    "49_TITLE": "Samostan i crkva Sv.Lucije",
+    "49_TITLE": "Kloster und kirche Hl.Lucia",
     "49_TEXT": [
-      "U Jurandvoru, manjem naselju sjeverno od Baške, nalazi se crkva sv. Lucije. Crkva je nastala u razvijenome srednjem vijeku, u doba romanike,",
-      "kao jednobrodna građevina istaknute polukružne apside, sa zvonikom na pročelju.  Zidovi uokolo crkve ostaci su benediktinskog samostana u čijem",
-      "je sklopu bilo i ovo sakralno zdanje. Arheološkim istraživanjem ustanovljeno je da su samostan i crkva nastali na starijoj antičkoj gospodarskoj",
-      "građevini. Nalaz po kojem je crkva sv. Lucije postala naširoko poznata nalazi se unutar zdanja.",
-      "Na ploči oltarne pregrade natpis je poznat kao Bašćanska ploča. Ova kamena ploča jedan je od najstarijih spomenika hrvatske povijesti. U trinaest",
-      "redaka na starohrvatskom se jeziku spominje riječ „hrvatski“ i ime kralja Zvonimira, a datirana je u 1100. godinu. Pismo kojim je napisan tekst na",
-      "ploči u potpunosti se razlikuje od latinice i naziva se glagoljica. Uz latinicu, glagoljica se upotrebljavala do 19. stoljeća. Izvorna je ploča 1934.",
-      "preseljena u Zagreb i nalazi se u auli Hrvatske akademije znanosti i umjetnosti. Danas je glagoljica postala jedan od zaštitnih znakova Baške,",
-      "a tomu svjedoče i velike skulpture u formi glagoljskih slova postavljene uz cestu na putu prema Baški."
+      "In Jurandvor, einem kleinen Dorf nördlich von Baška, befindet sich die Kirche der Hl. Lucia. Die Kirche wurde im entwickelten Mittelalter zur Zeit der Romanik als einschiffiges Bauwerk mit einer halbrunden Apsis und einem Glockenturm an der vorderen Fassade erbaut. Die Mauern um die Kirche stellen die Überreste des Benediktinerklosters dar, zu dem auch dieses Sakralgebäude gehörte. Archäologische Untersuchungen haben ergeben, dass das Kloster und die Kirche auf einem älteren antiken landwirtschaftlichen Gebäude errichtet wurden. Der Fund, für welchen die Kirche der Hl. Lucia weit und breit bekannte wurde, befindet sich innerhalb des Gebäudes.  Die Altarschranke ist bekannt als die Tafel von Baška. Diese Steinplatte ist eines der ältesten Denkmäler der kroatischen Geschichte. In dreizehn Reihen wird in altkroatischer Sprache das Wort „Kroatisch“ und der Name von König Zvonimir erwähnt. Sie stammt aus dem Jahr 1100. Die Schrift, mit der der Text auf der Tafel geschrieben wurde, unterscheidet sich von der latinischen Schrift und wird Glagoliza genannt. Neben der latinischen Schrift wurde Glagoliza bis ins 19. Jahrhundert verwendet. Die ursprüngliche Tafel wurde 1934 nach Zagreb verlegt und befindet sich im Saal der Kroatischen Akademie der Wissenschaften und Künste. Heute ist Glagoliza zu einem der Markenzeichen von Baška geworden, was durch große Skulpturen in Form glagolitischer Buchstaben entlang der Straße auf dem Weg nach Baška belegt wird."
     ],
-    "50_TITLE": "Franjevački samostan-Košljun",
+    "50_TITLE": "Franziskanerkloster - Košljun",
     "50_TEXT": [
-      "Otok Košljun pravi je dragulj smješten u zaljevu ispred Punta, a fratar Mavro Velnić slikovito ga je ovako opisao: „Biti na Krku, a ne vidjeti",
-      "Košljun slično je kao biti u Rimu, a ne vidjeti Papu.“",
-      "U središnjem dijelu otoka, čiji je ukupan opseg tek 1075 metara, a podignut je svega šest metara iznad mora, smješten je franjevački samostan s",
-      "reprezentativnim renesansnim crkvenim zdanjem i klaustrom. Crkva Navještenja Blažene Djevice Marije dovršena je 1523., a izgrađena je na mjestu",
-      "starije benediktinske romaničke crkve. Bogato je opremljena, a ono zbog čega zastaje dah dva su likovna remek-djela. Trijumfalni luk crkve krasi",
-      "9,7-metarska likovna kompozicija venecijanskoga majstora Francesca Ughetta s prikazom Posljednjeg suda (raja, čistilišta i pakla) i ukupno 123 naslikana",
-      "lika. Drugi rad koji valja spomenuti oltarni je poliptih iz 1535. Girolama da Santacrocea, venecijanskog majstora koji je velik dio svoga slikovnog opusa",
-      "ostavio na istočnoj obali Jadrana. Unutar kompleksa nalazi se i muzejski postav, bogata etnografska, arheološka i sakralna zbirka te knjižnica. U muzeju se",
-      "nalazi i glasovita geografska karta Klaudija Ptolomeja, grčkog astronoma i geografa iz 2. stoljeća, tiskana u Veneciji 1511. godine."
+      "Die Insel Košljun ist ein wahres Juwel in der Bucht vor Punta. Bruder Mavro Velnić hat sie malerisch beschrieben: „Auf Krk zu sein und Košljun nicht zu sehen, ist wie in Rom zu sein und den Papst nicht zu sehen.“  Im zentralen Teil der Insel, dessen Gesamtumfang nur 1075 Meter beträgt und sechs Meter über dem Meeresspiegel liegt, befindet sich ein Franziskanerkloster mit einem repräsentativen Renaissance-Kirchengebäude und Kreuzgang. Die Mariä-Verkündigung-Kirche wurde 1523 fertiggestellt und an der Stelle der älteren romanischen Benediktinerkirche errichtet. Sie ist reich ausgestattet, wobei zwei künstlerische Meisterwerke den Atem rauben. Den Triumphbogen der Kirche ziert eine 9,7 Meter hohe künstlerische Komposition des venezianischen Meisters Francesco Ughetta mit Darstellung des Letzten Gerichts (Himmel, Fegefeuer und Hölle) und insgesamt 123 bemalte Figuren. Erwähnenswert ist auch das Altarbild aus 1535 von Girolamo Santacroce, einem venezianischen Meister, der einen Großteil seines Bildwerks an der Ostküste der Adria hinterließ. Innerhalb des Komplexes gibt es eine Museumsausstellung, eine reichhaltige ethnographische, archäologische und sakrale Sammlung sowie eine Bibliothek. Das Museum beherbergt auch die berühmte Landkarte von Claudius Ptolemäus, einem griechischen Astronomen und Geographen aus dem 2. Jahrhundert, die 1511 in Venedig gedruckt wurde."
     ],
-    "51_TITLE": "Obrambeni zidovi otoka Krka",
+    "51_TITLE": "Verteidigungsmauern der insel Krk",
     "51_TEXT": [
-      "Stoljećima unatrag na otoku Krku grade se utvrđena naselja smještena na strateški važnim uzvisinama s kojih su se kontrolirali važni trgovački putevi",
-      "i od kuda se je u slučaju napada mogao jednostavnije obraniti grad. Pravi primjer ovako isplaniranog grada je mjesto Dobrinj, smješteno u središnjem dijelu",
-      "otoka. Iako se naoko ne vide obrambeni zidovi, to ne znači da ih nema, već su oni vrlo vješto sakriveni unutar zadebljalih zidova u vanjskom obruču grada.",
-      "Nakon što ste posjetili Dobrinj, uputite se prema Krku, gradu čija je duga povijest ispisana u njegovim bedemima i Kaštelu. Krčki Kaštel poznat je pod imenom",
-      "Frankopanski, stoga bi sljedeća postaja vašega izleta mogla biti jedan sakriveni kaštel ove plemićke obitelji zvan Gradec, smješten u šumi nedaleko od Vrbnika.",
-      "Izlet prema Gradecu otkrio vam je čarobne šumovite krajolike otoka, stoga je vrijeme za odlazak prema Baški koju krase još teatralniji kameniti pejzaži.",
-      "Povijest ovoga mjesta vezana je uz seljenje cijeloga stanovništva s brda u nizinski prostor uz more ovisno o sigurnijem ili ratno neizvjesnijem povijesnom razdoblju.",
-      "Stoga ovaj izlet završitekod crkve sv. Ivana i kaštela poviše Baške gdje su se stanovnici selili u slučaju napada s mora, a potom prošetajte starim gradom i šetnicom uz more."
+      "Jahrhunderte zurück wurden auf der Insel Krk Siedlungen an strategisch bedeutenden Anhöhen gebaut, von denen aus wichtige Handelsrouten kontrolliert wurden und die Stadt im Falle eines Angriffs leichter verteidigt werden konnte. Ein wahres Beispiel einer solchen geplanten Stadt ist der Ort Dobrinj, der sich im zentralen Teil der Insel befindet. Obwohl auf den ersten Blick keine Verteidigungsmauern zu sehen sind, heißt das nicht, dass es sie nicht gibt, denn sie sind sehr geschickt in den verdickten Mauern im äußeren Ring der Stadt versteckt.  Nach dem Besuch von Dobrinj fahren Sie in Richtung Krk, eine Stadt, deren lange Geschichte in ihre Stadtmauern und ihr Kastell eingemeißelt ist. Das Kastell von Krk ist unter dem Namen Frankopan bekannt. Deshalb könnte die nächste Station Ihrer Reise eine der verborgenen Burgen dieser Adelsfamilie, Gradec, sein, die in einem Wald nicht weit von Vrbnik gelegen ist. Der Ausflug nach Gradec wird Ihnen die bezaubernde Waldlandschaft der Insel offenbaren. Es ist an der Zeit nach Baška zu gehen, welchen Ort noch theatralischere Steinlandschaften zieren. Die Geschichte dieses Ortes hängt mit der Siedlung der gesamten Bevölkerung von den Hügeln in das Flachland am Meer zusammen, abhängig von einer sichereren oder kriegsbedrohten historischen Periode. Schließen Sie diese Reise bei der Kirche des Hl. Johannes und dem Kastell oberhalb von Baška ab, wohin sich die Bewohner im Falle eines Angriffs vom Meer aus hinaufbewegten. Spazieren Sie danach durch die Altstadt und entlang der Promenade."
     ],
-    "52_TITLE": "Posjet samostanima otoka Krka",
+    "52_TITLE": "Besuch den klostern der insel Krk",
     "52_TEXT": [
-      "Nakon što ste prošetali rivom u Puntu, uputite se brodom na otok Košljun, čarobno mjesto koje čuvaju franjevci. Tradicija redovništva na ovome otočiću",
-      "počinje još u srednjem vijeku s dolaskom benediktinaca, a potom ga od 15. stoljeća do danas naseljavaju Mala braća. Nakon obilaska Košljuna uputite se prema",
-      "sjevernim vratima grada Krka na Trg glagoljaša. Ovo je mjesto pravoga suživota nekoliko redovničkih zajednica, još uvijek aktivnih samostana benediktinki i franjevaca,",
-      "te danas ugašenih samostana benediktinskog reda na mjestu crkve Gospe od Zdravlja i samostana klarisa djelomično sačuvanog i prezentiranog u sklopu sportske dvorane na",
-      "spomenutome trgu. Sljedeća stanica vodi prema mjestu Glavotok i franjevačkom samostanu smještenom na prekrasnom mirnom mjestu tik uz more. Kako biste dobili čim",
-      "cjelovitiju sliku redovništva na otoku, valjalo bi posjetiti i franjevački samostan u Poratu nedaleko od Malinske. U ovome ćete samostanu pronaći replike krčkih",
-      "glagoljskih spomenika, dobro ih pogledajte pa se pripremite za sutrašnji posjet Jurandvoru i crkvi sv. Lucije u kojoj ćete vidjeti mjesto na kojemu je pronađen",
-      "najznačajniji glagoljski spomenik, Bašćanska ploča."
+      "Nachdem Sie einen Spaziergang entlang der Promenade in Punat unternommen haben, fahren Sie mit dem Boot zur Insel Košljun, einem magischen Ort, der von den Franziskanern gehütet wird. Die Tradition des Mönchstums auf dieser Insel beginnt im Mittelalter mit der Ankunft der Benediktiner. Seit dem 15. Jahrhundert ist die Insel von den Kleinen Brüdern bewohnt. Nach der Besichtigung von Košljun fahren Sie in Richtung des Nordtors der Stadt Krk auf den Platz der Glagolitermönche. Dies ist der Ort des wahren Zusammenlebens mehrerer noch aktiver Ordensgemeinschaften, der noch immer aktiven Benediktinerinnen und Franziskaner sowie der heute erloschenen Benediktinerkloster in der Kirche der Muttergottes der Gesundheit und des teilweise erhaltenen und im Rahmen der Sporthalle auf dem vorbenannten Platz teilweise präsentierten Klarissenklosters. Die nächste Station ist Glavotok und das Franziskanerkloster an einem schönen ruhigen Ort direkt am Meer. Um ein möglichst vollständiges Bild der Ordensgemeinschaften auf der Insel zu erhalten, sollten Sie auch das Franziskanerkloster in Porat nicht weit von Malinska besuchen. In diesem Kloster finden Sie die Nachbildung der glagolitischen Monumente von Krk. Werfen Sie einen guten Blick auf sie und bereiten Sie sich auf den morgigen Besuch von Jurandvor und der Kirche der Hl. Lucia vor, in der das wichtigste glagolitische Monument, die Tafel von Baška, gefunden wurde."
     ],
-    "53_TITLE": "Otočka prošlost u tek nekoliko kamenih ostataka",
+    "53_TITLE": "Vergangenheit der insel in wenigen steinblocken",
     "53_TEXT": [
-      "Obilazak započnite u Omišlju. Prošetajte do pročelja župne crkve Uznesenja Marijina na kojemu ćete vidjeti komade crkvenoga namještaja i",
-      "druge ostatke ranije građevine ponovno upotrijebljene kao građevinski materijal za zidanje ove crkve. Nije uvijek slučaj da se sačuvaju i",
-      "starija i mlađa crkva, zato neka vaše sljedeće odredište bude napušteni crkveni kompleks u šumi nedaleko od Malinske poznat pod imenom Cickini.",
-      "Nakon ove avanture posjetite mjesto Punat. Još ćete na putu uz samu cestu vidjeti malu crkvu sv. Dunata koja je nakon II. svjetskog rata bila u",
-      "potpunosti razrušena, a potom obnovljena i danas predstavlja pravi spomenik romaničke arhitekture na otoku. Nastavite prema Puntu pa na ulazu u mjesto",
-      "skrenite puteljkom i posjetite ostatke crkve sv. Petra na Kanajtu. Riječ je o arheološkom lokalitetu na kojemu je crkva postojala od 6. do 19. stoljeća",
-      "kada je u njoj prekinuto bogoslužje. U Puntu napravite kratak odmor i potom se upustite u avanturu na posljednja dva lokaliteta s istočne strane otoka,",
-      "srednjevjekovnu crkvu sv. Petra u Solinama i renesansno zdanje Svih Svetih u Sužanu."
+      "Beginnen Sie die Reise in Omišalj. Spazieren Sie zur Vorderseite der Pfarrkirche Mariä Himmelfahrt, wo Sie Kirchenmöbel und andere Reste eines ehemaligen Gebäudes sehen, die als Baumaterial für den Bau dieser Kirche verwendet wurden. Es ist nicht immer der Fall, dass sowohl die ältere als auch die jüngere Kirche erhalten bleiben. Lassen Sie Ihr nächstes Ziel also das verlassene Kirchenkomplex in einem Wald in der Nähe von Malinska, bekannt unter dem Namen Cickini, sein.  Besuchen Sie nach diesem Abenteuer den Ort Punat. Auf dem Weg dorthin finden Sie an der Straße die kleine Kirche des Hl. Donatus, die nach dem II. Weltkrieg vollständig zerstört und danach restauriert wurde und heute ein wahres Monument der romanischen Architektur auf der Insel darstellt. Fahren Sie weiter in Richtung Punat, biegen Sie dann am Ortseingang auf dem Pfad ab und besuchen Sie die Überreste der Kirche des Hl. Petrus auf Kanajt. Kanajt ist eine archäologische Stätte, an der die Kirche vom 6. bis 19. Jahrhundert stand, als der Gottesdienst in ihr eingestellt wurde. In Punat können Sie eine kurze Pause einlegen und dann das Abenteuer an den letzten beiden Orten auf der Ostseite der Insel, der mittelalterlichen Kirche des Hl. Petrus in Soline und dem Renaissancegebäude der Allerheiligen in Sužan, fortfahren."
     ],
-    "54_TITLE": "Male i skrivene crkve otoka Krka",
+    "54_TITLE": "Kleine und verborgene kirchen der insel Krk",
     "54_TEXT": [
-      "Izlet započnite u Vrbniku, kolijevci glagoljaštva i dobrog vina, mjestu koje je svakako važno posjetiti ako boravite na otoku Krku. Zatim",
-      "krenite u razgled pet malih skrovitih crkva od kojih je svaka posebna na svoj način.",
-      "Prvu ćete pronaći na uzvisini na izlazu mjesta, a riječ je o ostatcima crkve sv. Mavera (sv. Mavro). Zatim se uputite prema Risiki i na samoj",
-      "punti uz more razgledajte crkvu sv. Maraka (sv. Marko). Pogledali ste dvije ruševne, ali vrlo važne i prekrasne crkve koje još uvijek čekaju na",
-      "restauratorski zahvat. Produžite prema Dobrinju i zaustavite se u mjestu Sv. Vid i pogledajte istoimenu crkvu. Riječ je o malom romaničkom dragulju na",
-      "proplanku poviše ceste izgrađenom davne 1100. godine. Sljedeća destinacija vodi vas prema Solinama, gdje se ponovno na proplanku u šumi nalazi crkva sv.",
-      "Filipa i Jakova nešto mlađeg vremena nastanka od prethodne crkve. Na ovome se mjestu valja odmoriti i pripremiti za posljednju postaju ovoga izleta.",
-      "Posjetite malo mjesto Klimno i crkvu sv. Klementa u kojoj se nalazi lijepi drveni renesansni oltar zaštićen kao nacionalno kulturno dobro."
+      "Nachdem Sie einen Spaziergang entlang der Promenade in Punat unternommen haben, fahren Sie mit dem Boot zur Insel Košljun, einem magischen Ort, der von den Franziskanern gehütet wird. Die Tradition des Mönchstums auf dieser Insel beginnt im Mittelalter mit der Ankunft der Benediktiner. Seit dem 15. Jahrhundert ist die Insel von den Kleinen Brüdern bewohnt. Nach der Besichtigung von Košljun fahren Sie in Richtung des Nordtors der Stadt Krk auf den Platz der Glagolitermönche. Dies ist der Ort des wahren Zusammenlebens mehrerer noch aktiver Ordensgemeinschaften, der noch immer aktiven Benediktinerinnen und Franziskaner sowie der heute erloschenen Benediktinerkloster in der Kirche der Muttergottes der Gesundheit und des teilweise erhaltenen und im Rahmen der Sporthalle auf dem vorbenannten Platz teilweise präsentierten Klarissenklosters. Die nächste Station ist Glavotok und das Franziskanerkloster an einem schönen ruhigen Ort direkt am Meer. Um ein möglichst vollständiges Bild der Ordensgemeinschaften auf der Insel zu erhalten, sollten Sie auch das Franziskanerkloster in Porat nicht weit von Malinska besuchen. In diesem Kloster finden Sie die Nachbildung der glagolitischen Monumente von Krk. Werfen Sie einen guten Blick auf sie und bereiten Sie sich auf den morgigen Besuch von Jurandvor und der Kirche der Hl. Lucia vor, in der das wichtigste glagolitische Monument, die Tafel von Baška, gefunden wurde."
     ],
-    "55_TITLE": "Otok Krk u prvim stoljećima nove ere",
+    "55_TITLE": "Die insel Krk in den ersten jahrhunderten der neuen ara",
     "55_TEXT": [
-      "Ovaj izlet započnite kupanjem u blatu u uvali kod mjesta Soline. To blato u ljekovite su svrhe koristili stari Rimljani pa stoga možete i vi. Na ovome je mjestu",
-      "i u vrijeme staroga Rima postojala riva, a nedaleko su se nalazile i solane gdje su tamošnji ljudi proizvodili sol i imali znatno bogatstvo.",
-      "Sljedeća točka vašega izleta neka bude rimski grad Fulfinum podno Omišlja. U sklopu ovoga izrazito važnog lokaliteta vidjet ćete i starokršćansku baziliku iz V.",
-      "stoljeća zvanu Mira. Ako ste dovoljno uživali u krajoliku ovoga mjesta, uputite se u rimski Curicum, današnji Krk. Iako povijest grada seže u davnu prošlost,",
-      "prva su stoljeća vidljiva duboko ispod zemlje. Dio gradske infrastrukture i bedema nekadašnjega Krka možete vidjeti u sklopu ugostiteljskog objekta Volsonis u",
-      "samome centru grada. Nedaleko od ove lokacije, unutar objekta konobe Mate, nalazi se rimski mozaik s prikazom Tritona koji također valja vidjeti. Za kraj izleta",
-      "još nekoliko starokršćanskih kockica možete razgledati u Baški, u samome centru grada uz crkvicu sv. Marka. Riječ je o sačuvanim dijelovima mozaika iz davnog V.",
-      "stoljeća kojim je nekada bila popločena crkva."
+      "Der Ausflug beginnt mit einem Schlammbad in der Bucht von Soline. Dieser Schlamm wurde von den alten Römern zu Heilungszwecken verwendet. An diesem Ort gab es auch zur Zeit des alten Roms eine Promenade, in deren Nähe sich Salzwerke befanden, in denen die Einwohner Salz produzierten und beträchtlichen Wohlstand genossen.  Der nächste Punkt Ihrer Reise sollte die römische Stadt Fulfinum unterhalb von Omišalj sein. Als Teil dieses äußerst wichtigen Ortes sehen Sie auch die frühchristliche Basilika Mira aus dem 5. Jahrhundert. Wenn Sie die Landschaft dieses Ortes ausreichend genossen haben, besuchen Sie noch das römische Curicum, die heutige Stadt Krk. Obwohl die Geschichte der Stadt in die uralte Vergangenheit zurückreicht, sind die ersten Jahrhunderte tief unter der Erde sichtbar. Sie können einen Teil der städtischen Infrastruktur und die Stadtmauern der ehemaligen Stadt Krk innerhalb des gastwirtschaftlichen Objektes Volsonis mitten im Zentrum der Stadt sehen. Nicht weit von hier, innerhalb der Taverne Mate, befindet sich ein römisches Mosaik mit Darstellung des mythischen Tritons, das Sie sich nicht entgehen lassen dürfen. Am Ende der Reise können Sie mehrere frühchristliche Würfel in Baška im Zentrum der Stadt neben der Kirche des Hl. Markus besichtigen. Dies sind erhaltene Teile des Mosaiks aus dem 5. Jahrhundert v. Chr., mit denen einst die Kirche gepflastert war."
     ]
   }
   
