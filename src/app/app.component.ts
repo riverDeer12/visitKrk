@@ -17,6 +17,7 @@ import { EmailPage } from "../pages/email/email";
 import { AboutPage } from "../pages/about/about";
 //import { ClosestLocationPage } from "../pages/closest-location/closest-location";
 import { AllLocationsPage } from "../pages/all-locations/all-locations";
+import { EtnographicPage } from "../pages/etnographic/etnographic";
 
 
 @Component({
@@ -61,6 +62,11 @@ export class MyApp {
         title: "MONASTERY_TITLE",
         component: MonasteryPage,
         imgSource: "assets/imgs/monastery.png"
+      },
+      {
+        title: "ETNOGRAPHIC_TITLE",
+        component: EtnographicPage,
+        imgSource: "assets/imgs/etnographic.png"
       },
       {
         title: "FORT_TITLE",

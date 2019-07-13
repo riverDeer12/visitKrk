@@ -20,6 +20,8 @@ import { AboutPage } from "../pages/about/about";
 import { ClosestLocationPage } from "../pages/closest-location/closest-location";
 import { AllLocationsPage } from "../pages/all-locations/all-locations";
 import { TourDetailsPage } from "../pages/tour-details/tour-details";
+import { EtnographicPage } from "../pages/etnographic/etnographic";
+
 
 import { SharePage } from "../pages/share/share";
 import { EmailPage } from "../pages/email/email";
@@ -60,6 +62,7 @@ export function createTranslateLoader(http: HttpClient) {
     ClosestLocationPage,
     AllLocationsPage,
     TourDetailsPage,
+    EtnographicPage
   ],
   imports: [
     BrowserModule,
@@ -95,7 +98,8 @@ export function createTranslateLoader(http: HttpClient) {
     AboutPage,
     ClosestLocationPage,
     AllLocationsPage,
-    TourDetailsPage
+    TourDetailsPage,
+    EtnographicPage
   ],
   providers: [
     StatusBar,

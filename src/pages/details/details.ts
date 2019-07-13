@@ -306,6 +306,58 @@ export class DetailsPage {
         itemLat: 45.1503177,
         itemLog: 14.6089058
       },
+      /* DODANE CRKVE I ZAVICAJNE ZBIRKE --> 1. Update */
+      /* CRKVA Sv.Trojice Dobrinj*/
+      {
+        itemLat: 45.130326,
+        itemLog: 14.603168
+      },
+      /* CRKVA Hieronymous*/
+      {
+        itemLat: 44.94888,
+        itemLog: 14.701861
+      },
+      /* CRKVA Sv.Nikole Ogrul*/
+      {
+        itemLat: 44.989552,
+        itemLog: 14.800984
+      },
+      /*ZAVIČAJNE ZBIRKE*/
+      /* Etno Dobrinj*/
+      {
+        itemLat: 45.13025,
+        itemLog: 14.603861
+      },
+      /* Maritime heritage center*/
+      {
+        itemLat: 45.026983,
+        itemLog: 14.575903
+      },
+      /* Memorial house Mila Kumbatovic*/
+      {
+        itemLat: 45.212378,
+        itemLog: 14.554098
+      },
+      /* Regional ethnographic kornic*/
+      {
+        itemLat: 45.045228,
+        itemLog: 14.613862
+      },
+      /* Regional museum Baska */
+      {
+        itemLat: 44.9673338,
+        itemLog: 14.7564563
+      },
+      /* Tos*/
+      {
+        itemLat: 45.022376,
+        itemLog: 14.629796
+      },
+      /* Vrbnik valley */
+      {
+        itemLat: 45.077778,
+        itemLog: 14.652417
+      }
     ]
   }
 
